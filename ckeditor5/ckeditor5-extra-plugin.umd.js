@@ -1,4 +1,8 @@
- (function (global, factory) {
+/**
+	 * @license Copyright (c) 2003-2024 (v.44.1.0), CKSource Holding sp. z o.o. All rights reserved.
+	 * For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
+	 */
+(function (global, factory) {
 	typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports) :
 	typeof define === 'function' && define.amd ? define(['exports'], factory) :
 	(global = typeof globalThis !== 'undefined' ? globalThis : global || self, factory(global.CKEDITOR = {}));
