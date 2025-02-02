@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CKEditor 5 Sample Project
 
 ## Setup instructions
@@ -21,3 +22,6 @@ The editor files are in two folders: `ckeditor5` and `ckeditor5-premium-features
 ---
 
 For more information, please refer to the official [CKEditor 5 documentation](https://ckeditor.com/docs/ckeditor5/latest/getting-started/index.html).
+=======
+# asset
+>>>>>>> ea2871f91f354a714fdbcf8e5f102a9152fafee4
