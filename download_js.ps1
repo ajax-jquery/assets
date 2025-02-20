@@ -1,5 +1,5 @@
 # download_js.ps1 - Skrip untuk mengunduh file JS dengan custom header Origin & Referer
-$baseFolder = "proyekku"  # Folder utama penyimpanan
+$baseFolder = "main"  # Folder utama penyimpanan
 $fileList = "daftar_js.txt"  # File yang berisi daftar URL JavaScript
 
 # Pastikan folder utama ada
