@@ -21,8 +21,8 @@ Get-Content $fileList | ForEach-Object {
 
             # Cek status kode sebelum download dengan custom header
             $headers = @{
-                "Origin"   = "https://sabdaliterasi.xyz"
-                "Referer"  = "https://sabdaliterasi.xyz/"
+                "Origin"   = "https://www.tiny.cloud"
+                "Referer"  = "https://www.tiny.cloud/docs/tinymce/latest/uploadcare/"
                 "User-Agent" = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
             }
 
