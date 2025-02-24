@@ -1,0 +1,15 @@
+{
+  "name": "sabdaliterasi",
+  "version": "44.2.0-plus",
+  "description": "Sabda Literasi Palu adalah platform yang didedikasikan untuk menyediakan artikel-artikel dengan pemikiran filosofis mendalam, koleksi ebook eksklusif dan terjangkau, serta layanan penyelesaian tugas kuliah dan sekolah yang terpercaya. Kami berkomitmen untuk mengubah cara Anda berinteraksi dengan dunia literasi sejak didirikan pada 13 Juni 2021.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fadhel Fikri",
+  "license": "ISC",
+  "dependencies": {
+    "ckbox": "^2.6.1"
+  }
+}
