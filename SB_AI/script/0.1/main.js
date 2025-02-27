@@ -154,8 +154,8 @@ async function sendMessage() {
                     chatHistory.push({ role: "assistant", content: botMessage || "" });enable()
                 } catch (error) {
                     console.error("Error:", error);
-                  chatHistory.push({ role: "assistant", content:"<p>Maaf, untuk saat ini aku tidak dapat membantu. Silahkan hubungi Admin melalui via Whatsapp di <a href='http://wa.me/6285186664889'></a>.</p>" });
-                    botMessageDiv.innerHTML= `<p>Maaf, untuk saat ini aku tidak dapat membantu. Silahkan hubungi Admin melalui via Whatsapp di <a href='http://wa.me/6285186664889'>/div>`;enable()
+                  chatHistory.push({ role: "assistant", content:"<p>Maaf, untuk saat ini aku tidak dapat membantu. Silahkan hubungi Admin melalui via Whatsapp di <a href='{{ site.wa }}'></a>.</p>" });
+                    AI_SB_chatBox.innerHTML += `<div class="AI_SB_message AI_SB_botMessage"><p>Maaf, untuk saat ini aku tidak dapat membantu. Silahkan hubungi Admin melalui via Whatsapp di <a href='{{ site.wa }}'></a></div>`;enable()
                 }
             }else{enable()}
         }
