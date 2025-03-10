@@ -1,0 +1,56 @@
+{
+  "country": {
+    "area": 21,
+    "borders": [
+      "MF"
+    ],
+    "calling_code": "599",
+    "capital": "Philipsburg",
+    "code": "SX",
+    "name": "Sint Maarten",
+    "population": 42749,
+    "population_density": 2035.67,
+    "languages": [
+      {
+        "code": "nl",
+        "name": "Dutch",
+        "native": "Nederlands"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".sx"
+  },
+  "currency": {
+    "code": "XCG",
+    "name": "Caribbean guilder",
+    "name_native": "Caribische gulden",
+    "plural": "Caribbean guilders",
+    "plural_native": "Caribische gulden",
+    "symbol": "Cg.",
+    "symbol_native": "Cg.",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "Cg. -",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "Cg. ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Lower_Princes",
+    "abbreviation": "AST",
+    "current_time": "2025-03-10T06:45:54-04:00",
+    "name": "Atlantic Standard Time",
+    "offset": -14400,
+    "in_daylight_saving": false
+  }
+}

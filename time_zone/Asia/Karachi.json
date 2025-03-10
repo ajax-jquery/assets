@@ -1,0 +1,74 @@
+{
+  "country": {
+    "area": 803940,
+    "borders": [
+      "AF",
+      "CN",
+      "IN",
+      "IR"
+    ],
+    "calling_code": "92",
+    "capital": "Islamabad",
+    "code": "PK",
+    "name": "Pakistan",
+    "population": 247504495,
+    "population_density": 307.86,
+    "languages": [
+      {
+        "code": "ur",
+        "name": "Urdu",
+        "native": "اردو"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "pa",
+        "name": "Punjabi",
+        "native": "ਪੰਜਾਬੀ"
+      },
+      {
+        "code": "sd",
+        "name": "Sindhi",
+        "native": "سنڌي"
+      },
+      {
+        "code": "ps",
+        "name": "Pashto",
+        "native": "پښتو"
+      }
+    ],
+    "tld": ".pk"
+  },
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistani Rupee",
+    "name_native": "پاکستانی روپیہ",
+    "plural": "Pakistani rupees",
+    "plural_native": "پاکستانی روپیہ",
+    "symbol": "PKR",
+    "symbol_native": "Rs",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "‎-Rs",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "Rs",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Karachi",
+    "abbreviation": "PKT",
+    "current_time": "2025-03-10T15:45:24+05:00",
+    "name": "Pakistan Standard Time",
+    "offset": 18000,
+    "in_daylight_saving": false
+  }
+}

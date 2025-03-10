@@ -1,0 +1,49 @@
+{
+  "country": {
+    "area": 352,
+    "borders": [],
+    "calling_code": "+1-340",
+    "capital": "Charlotte Amalie",
+    "code": "VI",
+    "name": "Virgin Islands (U.S.)",
+    "population": 104917,
+    "population_density": 298.06,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".vi"
+  },
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar",
+    "name_native": "US Dollar",
+    "plural": "US dollars",
+    "plural_native": "US dollars",
+    "symbol": "$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/St_Thomas",
+    "abbreviation": "AST",
+    "current_time": "2025-03-10T06:45:57-04:00",
+    "name": "Atlantic Standard Time",
+    "offset": -14400,
+    "in_daylight_saving": false
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "country": {
+    "area": 447400,
+    "borders": [
+      "AF",
+      "KG",
+      "KZ",
+      "TJ",
+      "TM"
+    ],
+    "calling_code": "998",
+    "capital": "Tashkent",
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "population": 35652307,
+    "population_density": 79.69,
+    "languages": [
+      {
+        "code": "uz",
+        "name": "Uzbek",
+        "native": "o‘zbek"
+      },
+      {
+        "code": "ru",
+        "name": "Russian",
+        "native": "русский"
+      },
+      {
+        "code": "tg",
+        "name": "Tajik",
+        "native": "тоҷикӣ"
+      }
+    ],
+    "tld": ".uz"
+  },
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistani Som",
+    "name_native": "O‘zbekiston so‘mi",
+    "plural": "Uzbekistani som",
+    "plural_native": "O‘zbekiston so‘mi",
+    "symbol": "UZS",
+    "symbol_native": "soʻm",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " soʻm"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " soʻm"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Tashkent",
+    "abbreviation": "UZT",
+    "current_time": "2025-03-10T15:45:50+05:00",
+    "name": "Uzbekistan Standard Time",
+    "offset": 18000,
+    "in_daylight_saving": false
+  }
+}

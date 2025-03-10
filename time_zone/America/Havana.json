@@ -1,0 +1,49 @@
+{
+  "country": {
+    "area": 110860,
+    "borders": [],
+    "calling_code": "53",
+    "capital": "Havana",
+    "code": "CU",
+    "name": "Cuba",
+    "population": 11019931,
+    "population_density": 99.4,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      }
+    ],
+    "tld": ".cu"
+  },
+  "currency": {
+    "code": "CUP",
+    "name": "Cuban Peso",
+    "name_native": "peso cubano",
+    "plural": "Cuban pesos",
+    "plural_native": "pesos cubanos",
+    "symbol": "CUP",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Havana",
+    "abbreviation": "CST",
+    "current_time": "2025-03-10T06:45:37-04:00",
+    "name": "Cuba Standard Time",
+    "offset": -14400,
+    "in_daylight_saving": true
+  }
+}

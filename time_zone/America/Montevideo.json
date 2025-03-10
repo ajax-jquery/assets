@@ -1,0 +1,52 @@
+{
+  "country": {
+    "area": 176220,
+    "borders": [
+      "AR",
+      "BR"
+    ],
+    "calling_code": "598",
+    "capital": "Montevideo",
+    "code": "UY",
+    "name": "Uruguay",
+    "population": 3388081,
+    "population_density": 19.23,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      }
+    ],
+    "tld": ".uy"
+  },
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguayan Peso",
+    "name_native": "peso uruguayo",
+    "plural": "Uruguayan pesos",
+    "plural_native": "pesos uruguayos",
+    "symbol": "UYU",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-$ ",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$ ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Montevideo",
+    "abbreviation": "UYT",
+    "current_time": "2025-03-10T07:45:39-03:00",
+    "name": "Uruguay Standard Time",
+    "offset": -10800,
+    "in_daylight_saving": false
+  }
+}

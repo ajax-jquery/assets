@@ -1,0 +1,54 @@
+{
+  "country": {
+    "area": 35980,
+    "borders": [],
+    "calling_code": "886",
+    "capital": "Taipei",
+    "code": "TW",
+    "name": "Taiwan",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "zh",
+        "name": "Chinese",
+        "native": "中文"
+      },
+      {
+        "code": "zh",
+        "name": "Chinese",
+        "native": "中文"
+      }
+    ],
+    "tld": ".tw"
+  },
+  "currency": {
+    "code": "TWD",
+    "name": "New Taiwan Dollar",
+    "name_native": "新台幣",
+    "plural": "New Taiwan dollars",
+    "plural_native": "新台幣",
+    "symbol": "NT$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Taipei",
+    "abbreviation": "CST",
+    "current_time": "2025-03-10T18:45:18+08:00",
+    "name": "Taipei Standard Time",
+    "offset": 28800,
+    "in_daylight_saving": false
+  }
+}

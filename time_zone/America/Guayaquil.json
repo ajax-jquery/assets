@@ -1,0 +1,52 @@
+{
+  "country": {
+    "area": 283560,
+    "borders": [
+      "CO",
+      "PE"
+    ],
+    "calling_code": "593",
+    "capital": "Quito",
+    "code": "EC",
+    "name": "Ecuador",
+    "population": 17980083,
+    "population_density": 63.41,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      }
+    ],
+    "tld": ".ec"
+  },
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar",
+    "name_native": "dólar estadounidense",
+    "plural": "US dollars",
+    "plural_native": "dólares estadounidenses",
+    "symbol": "$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "$-",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Guayaquil",
+    "abbreviation": "ECT",
+    "current_time": "2025-03-10T05:45:32-05:00",
+    "name": "Ecuador Time",
+    "offset": -18000,
+    "in_daylight_saving": false
+  }
+}

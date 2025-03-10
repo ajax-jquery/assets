@@ -1,0 +1,53 @@
+{
+  "country": {
+    "area": 214970,
+    "borders": [
+      "BR",
+      "SR",
+      "VE"
+    ],
+    "calling_code": "592",
+    "capital": "Georgetown",
+    "code": "GY",
+    "name": "Guyana",
+    "population": 826353,
+    "population_density": 3.84,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".gy"
+  },
+  "currency": {
+    "code": "GYD",
+    "name": "Guyanaese Dollar",
+    "name_native": "Guyanaese Dollar",
+    "plural": "Guyanaese dollars",
+    "plural_native": "Guyanaese dollars",
+    "symbol": "GYD",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Guyana",
+    "abbreviation": "GYT",
+    "current_time": "2025-03-10T06:45:39-04:00",
+    "name": "Guyana Time",
+    "offset": -14400,
+    "in_daylight_saving": false
+  }
+}

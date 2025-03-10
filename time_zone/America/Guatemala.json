@@ -1,0 +1,54 @@
+{
+  "country": {
+    "area": 108890,
+    "borders": [
+      "BZ",
+      "HN",
+      "MX",
+      "SV"
+    ],
+    "calling_code": "502",
+    "capital": "Guatemala City",
+    "code": "GT",
+    "name": "Guatemala",
+    "population": 18124838,
+    "population_density": 166.45,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      }
+    ],
+    "tld": ".gt"
+  },
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemalan Quetzal",
+    "name_native": "quetzal",
+    "plural": "Guatemalan quetzals",
+    "plural_native": "quetzales",
+    "symbol": "GTQ",
+    "symbol_native": "Q",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-Q",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "Q",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Guatemala",
+    "abbreviation": "CST",
+    "current_time": "2025-03-10T04:45:36-06:00",
+    "name": "Central Standard Time",
+    "offset": -21600,
+    "in_daylight_saving": false
+  }
+}

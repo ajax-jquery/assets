@@ -1,0 +1,49 @@
+{
+  "country": {
+    "area": 242,
+    "borders": [],
+    "calling_code": "508",
+    "capital": "Saint-Pierre",
+    "code": "PM",
+    "name": "France",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".pm"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "euro",
+    "plural": "euros",
+    "plural_native": "euros",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Miquelon",
+    "abbreviation": "PMST",
+    "current_time": "2025-03-10T08:46:01-02:00",
+    "name": "St. Pierre & Miquelon Standard Time",
+    "offset": -7200,
+    "in_daylight_saving": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "country": {
+    "area": 28051,
+    "borders": [
+      "CM",
+      "GA"
+    ],
+    "calling_code": "240",
+    "capital": "Malabo",
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "population": 1847549,
+    "population_density": 65.86,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "pt",
+        "name": "Portuguese",
+        "native": "português"
+      }
+    ],
+    "tld": ".gq"
+  },
+  "currency": {
+    "code": "XAF",
+    "name": "Central African CFA Franc",
+    "name_native": "franco CFA de África Central",
+    "plural": "Central African CFA francs",
+    "plural_native": "francos CFA de África Central",
+    "symbol": "FCFA",
+    "symbol_native": "FCFA",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-FCFA",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "FCFA",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Malabo",
+    "abbreviation": "WAT",
+    "current_time": "2025-03-10T11:45:42+01:00",
+    "name": "West Africa Standard Time",
+    "offset": 3600,
+    "in_daylight_saving": false
+  }
+}

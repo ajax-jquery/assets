@@ -1,0 +1,74 @@
+{
+  "country": {
+    "area": 2345410,
+    "borders": [
+      "AO",
+      "BI",
+      "CF",
+      "CG",
+      "RW",
+      "SS",
+      "TZ",
+      "UG",
+      "ZM"
+    ],
+    "calling_code": "243",
+    "capital": "Kinshasa",
+    "code": "CD",
+    "name": "Congo",
+    "population": 105789731,
+    "population_density": 45.11,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "ln",
+        "name": "Lingala",
+        "native": "lingála"
+      },
+      {
+        "code": "kg",
+        "name": "Kongo",
+        "native": "Kongo"
+      },
+      {
+        "code": "sw",
+        "name": "Swahili",
+        "native": "Kiswahili"
+      }
+    ],
+    "tld": ".cd"
+  },
+  "currency": {
+    "code": "CDF",
+    "name": "Congolese Franc",
+    "name_native": "franc congolais",
+    "plural": "Congolese francs",
+    "plural_native": "francs congolais",
+    "symbol": "CDF",
+    "symbol_native": "FC",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " FC"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " FC"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Kinshasa",
+    "abbreviation": "WAT",
+    "current_time": "2025-03-10T11:46:04+01:00",
+    "name": "West Africa Standard Time",
+    "offset": 3600,
+    "in_daylight_saving": false
+  }
+}

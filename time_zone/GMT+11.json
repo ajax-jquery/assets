@@ -1,0 +1,62 @@
+{
+  "country": {
+    "area": 9629091,
+    "borders": [
+      "CA",
+      "MX"
+    ],
+    "calling_code": "1",
+    "capital": "Washington D.C.",
+    "code": "US",
+    "name": "United States",
+    "population": 334914895,
+    "population_density": 34.78,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".us"
+  },
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar",
+    "name_native": "US Dollar",
+    "plural": "US dollars",
+    "plural_native": "US dollars",
+    "symbol": "$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "GMT+11",
+    "abbreviation": "GMT+11:00",
+    "current_time": "2025-03-10T21:46:02+11:00",
+    "name": "GMT+11:00",
+    "offset": 39600,
+    "in_daylight_saving": false
+  }
+}

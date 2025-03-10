@@ -1,0 +1,73 @@
+{
+  "country": {
+    "area": 324220,
+    "borders": [
+      "FI",
+      "RU",
+      "SE"
+    ],
+    "calling_code": "47",
+    "capital": "Oslo",
+    "code": "NO",
+    "name": "Norway",
+    "population": 5519594,
+    "population_density": 17.02,
+    "languages": [
+      {
+        "code": "no",
+        "name": "Norwegian",
+        "native": "norsk"
+      },
+      {
+        "code": "nb",
+        "name": "Norwegian Bokmål",
+        "native": "norsk bokmål"
+      },
+      {
+        "code": "nn",
+        "name": "Norwegian Nynorsk",
+        "native": "norsk nynorsk"
+      },
+      {
+        "code": "se",
+        "name": "Northern Sami",
+        "native": "davvisámegiella"
+      },
+      {
+        "code": "fi",
+        "name": "Finnish",
+        "native": "suomi"
+      }
+    ],
+    "tld": ".no"
+  },
+  "currency": {
+    "code": "NOK",
+    "name": "Norwegian Krone",
+    "name_native": "norske kroner",
+    "plural": "Norwegian kroner",
+    "plural_native": "norske kroner",
+    "symbol": "NOK",
+    "symbol_native": "kr",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "−",
+        "suffix": " kr"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " kr"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Oslo",
+    "abbreviation": "CET",
+    "current_time": "2025-03-10T11:45:25+01:00",
+    "name": "Central European Standard Time",
+    "offset": 3600,
+    "in_daylight_saving": false
+  }
+}

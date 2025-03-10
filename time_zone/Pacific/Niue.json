@@ -1,0 +1,49 @@
+{
+  "country": {
+    "area": 260,
+    "borders": [],
+    "calling_code": "683",
+    "capital": "Alofi",
+    "code": "NU",
+    "name": "Niue",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".nu"
+  },
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar",
+    "name_native": "New Zealand Dollar",
+    "plural": "New Zealand dollars",
+    "plural_native": "New Zealand dollars",
+    "symbol": "NZ$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Pacific/Niue",
+    "abbreviation": "NUT",
+    "current_time": "2025-03-09T23:46:00-11:00",
+    "name": "Niue Time",
+    "offset": -39600,
+    "in_daylight_saving": false
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "country": {
+    "area": 945087,
+    "borders": [
+      "BI",
+      "CD",
+      "KE",
+      "MW",
+      "MZ",
+      "RW",
+      "UG",
+      "ZM"
+    ],
+    "calling_code": "255",
+    "capital": "Dodoma",
+    "code": "TZ",
+    "name": "Tanzania",
+    "population": 66617606,
+    "population_density": 70.49,
+    "languages": [
+      {
+        "code": "sw",
+        "name": "Swahili",
+        "native": "Kiswahili"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      }
+    ],
+    "tld": ".tz"
+  },
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzanian Shilling",
+    "name_native": "Shilingi ya Tanzania",
+    "plural": "Tanzanian shillings",
+    "plural_native": "shilingi za Tanzania",
+    "symbol": "TZS",
+    "symbol_native": "TSh",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-TSh ",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "TSh ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Dar_es_Salaam",
+    "abbreviation": "EAT",
+    "current_time": "2025-03-10T13:45:45+03:00",
+    "name": "East Africa Time",
+    "offset": 10800,
+    "in_daylight_saving": false
+  }
+}

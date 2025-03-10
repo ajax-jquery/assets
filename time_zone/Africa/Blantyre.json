@@ -1,0 +1,53 @@
+{
+  "country": {
+    "area": 118480,
+    "borders": [
+      "MZ",
+      "TZ",
+      "ZM"
+    ],
+    "calling_code": "265",
+    "capital": "Lilongwe",
+    "code": "MW",
+    "name": "Malawi",
+    "population": 21104482,
+    "population_density": 178.13,
+    "languages": [
+      {
+        "code": "ny",
+        "name": "Nyanja",
+        "native": "Nyanja"
+      }
+    ],
+    "tld": ".mw"
+  },
+  "currency": {
+    "code": "MWK",
+    "name": "Malawian Kwacha",
+    "name_native": "Malawian Kwacha",
+    "plural": "Malawian kwachas",
+    "plural_native": "Malawian kwachas",
+    "symbol": "MWK",
+    "symbol_native": "MWK",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-MWK",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "MWK",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Blantyre",
+    "abbreviation": "CAT",
+    "current_time": "2025-03-10T12:45:44+02:00",
+    "name": "Central Africa Time",
+    "offset": 7200,
+    "in_daylight_saving": false
+  }
+}

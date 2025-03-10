@@ -1,0 +1,75 @@
+{
+  "country": {
+    "area": 185180,
+    "borders": [
+      "IL",
+      "IQ",
+      "JO",
+      "LB",
+      "TR"
+    ],
+    "calling_code": "963",
+    "capital": "Damascus",
+    "code": "SY",
+    "name": "Syrian Arab Republic",
+    "population": 23594623,
+    "population_density": 127.41,
+    "languages": [
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      },
+      {
+        "code": "ku",
+        "name": "Kurdish",
+        "native": "kurdî (kurmancî)"
+      },
+      {
+        "code": "hy",
+        "name": "Armenian",
+        "native": "հայերեն"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".sy"
+  },
+  "currency": {
+    "code": "SYP",
+    "name": "Syrian Pound",
+    "name_native": "ليرة سورية",
+    "plural": "Syrian pounds",
+    "plural_native": "ليرة سورية",
+    "symbol": "SYP",
+    "symbol_native": "ل.س.‏",
+    "format": {
+      "decimal_separator": "٫",
+      "group_separator": "٬",
+      "negative": {
+        "prefix": "؜-‏",
+        "suffix": " ل.س.‏"
+      },
+      "positive": {
+        "prefix": "‏",
+        "suffix": " ل.س.‏"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Damascus",
+    "abbreviation": "EET",
+    "current_time": "2025-03-10T13:45:19+03:00",
+    "name": "Eastern European Time",
+    "offset": 10800,
+    "in_daylight_saving": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "country": {
+    "area": 406750,
+    "borders": [
+      "AR",
+      "BO",
+      "BR"
+    ],
+    "calling_code": "595",
+    "capital": "Asunción",
+    "code": "PY",
+    "name": "Paraguay",
+    "population": 6844146,
+    "population_density": 16.83,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      },
+      {
+        "code": "gn",
+        "name": "Guarani",
+        "native": "Guarani"
+      }
+    ],
+    "tld": ".py"
+  },
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguayan Guarani",
+    "name_native": "guaraní paraguayo",
+    "plural": "Paraguayan guaranis",
+    "plural_native": "guaraníes paraguayos",
+    "symbol": "PYG",
+    "symbol_native": "Gs.",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "Gs. -",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "Gs. ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Asuncion",
+    "abbreviation": "PYT",
+    "current_time": "2025-03-10T07:45:38-03:00",
+    "name": "Paraguay Standard Time",
+    "offset": -10800,
+    "in_daylight_saving": true
+  }
+}

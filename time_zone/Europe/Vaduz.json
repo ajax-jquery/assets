@@ -1,0 +1,52 @@
+{
+  "country": {
+    "area": 160,
+    "borders": [
+      "AT",
+      "CH"
+    ],
+    "calling_code": "423",
+    "capital": "Vaduz",
+    "code": "LI",
+    "name": "Liechtenstein",
+    "population": 39850,
+    "population_density": 249.06,
+    "languages": [
+      {
+        "code": "de",
+        "name": "German",
+        "native": "Deutsch"
+      }
+    ],
+    "tld": ".li"
+  },
+  "currency": {
+    "code": "CHF",
+    "name": "Swiss Franc",
+    "name_native": "Schweizer Franken",
+    "plural": "Swiss francs",
+    "plural_native": "Schweizer Franken",
+    "symbol": "CHF",
+    "symbol_native": "CHF",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": "’",
+      "negative": {
+        "prefix": "-CHF ",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "CHF ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Vaduz",
+    "abbreviation": "CET",
+    "current_time": "2025-03-10T11:45:39+01:00",
+    "name": "Central European Standard Time",
+    "offset": 3600,
+    "in_daylight_saving": false
+  }
+}

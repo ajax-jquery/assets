@@ -1,0 +1,63 @@
+{
+  "country": {
+    "area": 121320,
+    "borders": [
+      "DJ",
+      "ET",
+      "SD"
+    ],
+    "calling_code": "291",
+    "capital": "Asmara",
+    "code": "ER",
+    "name": "Eritrea",
+    "population": 3470390,
+    "population_density": 28.61,
+    "languages": [
+      {
+        "code": "aa",
+        "name": "Afar",
+        "native": "Afar"
+      },
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      },
+      {
+        "code": "ti",
+        "name": "Tigrinya",
+        "native": "ትግርኛ"
+      }
+    ],
+    "tld": ".er"
+  },
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrean Nakfa",
+    "name_native": "Eritrean Nakfa",
+    "plural": "Eritrean nakfas",
+    "plural_native": "Eritrean nakfas",
+    "symbol": "ERN",
+    "symbol_native": "ERN",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-ERN",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "ERN",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Asmara",
+    "abbreviation": "EAT",
+    "current_time": "2025-03-10T13:45:45+03:00",
+    "name": "East Africa Time",
+    "offset": 10800,
+    "in_daylight_saving": false
+  }
+}

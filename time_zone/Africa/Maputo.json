@@ -1,0 +1,56 @@
+{
+  "country": {
+    "area": 801590,
+    "borders": [
+      "MW",
+      "SZ",
+      "TZ",
+      "ZA",
+      "ZM",
+      "ZW"
+    ],
+    "calling_code": "258",
+    "capital": "Maputo",
+    "code": "MZ",
+    "name": "Mozambique",
+    "population": 33635160,
+    "population_density": 41.96,
+    "languages": [
+      {
+        "code": "pt",
+        "name": "Portuguese",
+        "native": "português"
+      }
+    ],
+    "tld": ".mz"
+  },
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambican Metical",
+    "name_native": "metical moçambicano",
+    "plural": "Mozambican meticals",
+    "plural_native": "meticais moçambicanos",
+    "symbol": "MZN",
+    "symbol_native": "MTn",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " MTn"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " MTn"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Maputo",
+    "abbreviation": "CAT",
+    "current_time": "2025-03-10T12:45:43+02:00",
+    "name": "Central Africa Time",
+    "offset": 7200,
+    "in_daylight_saving": false
+  }
+}

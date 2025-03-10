@@ -1,0 +1,52 @@
+{
+  "country": {
+    "area": 36120,
+    "borders": [
+      "GN",
+      "SN"
+    ],
+    "calling_code": "245",
+    "capital": "Bissau",
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "population": 2153339,
+    "population_density": 59.62,
+    "languages": [
+      {
+        "code": "pt",
+        "name": "Portuguese",
+        "native": "português"
+      }
+    ],
+    "tld": ".gw"
+  },
+  "currency": {
+    "code": "XOF",
+    "name": "West African CFA Franc",
+    "name_native": "franco CFA (BCEAO)",
+    "plural": "West African CFA francs",
+    "plural_native": "francos CFA (BCEAO)",
+    "symbol": "F CFA",
+    "symbol_native": "F CFA",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " F CFA"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " F CFA"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Bissau",
+    "abbreviation": "GMT",
+    "current_time": "2025-03-10T10:45:47Z",
+    "name": "Greenwich Mean Time",
+    "offset": 0,
+    "in_daylight_saving": false
+  }
+}

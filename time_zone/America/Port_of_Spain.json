@@ -1,0 +1,64 @@
+{
+  "country": {
+    "area": 5128,
+    "borders": [],
+    "calling_code": "+1-868",
+    "capital": "Port of Spain",
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "population": 1367510,
+    "population_density": 266.68,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      },
+      {
+        "code": "zh",
+        "name": "Chinese",
+        "native": "中文"
+      }
+    ],
+    "tld": ".tt"
+  },
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad & Tobago Dollar",
+    "name_native": "Trinidad & Tobago Dollar",
+    "plural": "Trinidad & Tobago dollars",
+    "plural_native": "Trinidad & Tobago dollars",
+    "symbol": "TTD",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Port_of_Spain",
+    "abbreviation": "AST",
+    "current_time": "2025-03-10T06:45:25-04:00",
+    "name": "Atlantic Standard Time",
+    "offset": -14400,
+    "in_daylight_saving": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "country": {
+    "area": 98480,
+    "borders": [
+      "KP"
+    ],
+    "calling_code": "82",
+    "capital": "Seoul",
+    "code": "KR",
+    "name": "South Korea",
+    "population": 51712619,
+    "population_density": 525.11,
+    "languages": [
+      {
+        "code": "ko",
+        "name": "Korean",
+        "native": "한국어"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".kr"
+  },
+  "currency": {
+    "code": "KRW",
+    "name": "South Korean Won",
+    "name_native": "대한민국 원",
+    "plural": "South Korean won",
+    "plural_native": "대한민국 원",
+    "symbol": "₩",
+    "symbol_native": "₩",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-₩",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "₩",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Seoul",
+    "abbreviation": "KST",
+    "current_time": "2025-03-10T19:45:22+09:00",
+    "name": "Korean Standard Time",
+    "offset": 32400,
+    "in_daylight_saving": false
+  }
+}

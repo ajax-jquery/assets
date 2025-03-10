@@ -1,0 +1,64 @@
+{
+  "country": {
+    "area": 488100,
+    "borders": [
+      "AF",
+      "IR",
+      "KZ",
+      "UZ"
+    ],
+    "calling_code": "993",
+    "capital": "Ashgabat",
+    "code": "TM",
+    "name": "Turkmenistan",
+    "population": 7364438,
+    "population_density": 15.09,
+    "languages": [
+      {
+        "code": "tk",
+        "name": "Turkmen",
+        "native": "türkmen dili"
+      },
+      {
+        "code": "ru",
+        "name": "Russian",
+        "native": "русский"
+      },
+      {
+        "code": "uz",
+        "name": "Uzbek",
+        "native": "o‘zbek"
+      }
+    ],
+    "tld": ".tm"
+  },
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistani Manat",
+    "name_native": "Türkmen manady",
+    "plural": "Turkmenistani manat",
+    "plural_native": "türkmen manady",
+    "symbol": "TMT",
+    "symbol_native": "TMT",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " TMT"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " TMT"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Ashgabat",
+    "abbreviation": "TMT",
+    "current_time": "2025-03-10T15:45:49+05:00",
+    "name": "Turkmenistan Standard Time",
+    "offset": 18000,
+    "in_daylight_saving": false
+  }
+}

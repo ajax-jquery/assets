@@ -1,0 +1,53 @@
+{
+  "country": {
+    "area": 266000,
+    "borders": [
+      "DZ",
+      "MA",
+      "MR"
+    ],
+    "calling_code": "212",
+    "capital": "El Aaiún",
+    "code": "EH",
+    "name": "Western Sahara",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      }
+    ],
+    "tld": ".eh"
+  },
+  "currency": {
+    "code": "MAD",
+    "name": "Moroccan Dirham",
+    "name_native": "درهم مغربي",
+    "plural": "Moroccan dirhams",
+    "plural_native": "درهم مغربي",
+    "symbol": "MAD",
+    "symbol_native": "د.م.‏",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "‏‎-",
+        "suffix": " د.م.‏"
+      },
+      "positive": {
+        "prefix": "‏",
+        "suffix": " د.م.‏"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/El_Aaiun",
+    "abbreviation": "WET",
+    "current_time": "2025-03-10T10:46:02Z",
+    "name": "Western European Time",
+    "offset": 0,
+    "in_daylight_saving": false
+  }
+}

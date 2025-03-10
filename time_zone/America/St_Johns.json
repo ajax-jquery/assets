@@ -1,0 +1,61 @@
+{
+  "country": {
+    "area": 9984670,
+    "borders": [
+      "US"
+    ],
+    "calling_code": "1",
+    "capital": "Ottawa",
+    "code": "CA",
+    "name": "Canada",
+    "population": 40097761,
+    "population_density": 4.02,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "iu",
+        "name": "Inuktitut",
+        "native": "Inuktitut"
+      }
+    ],
+    "tld": ".ca"
+  },
+  "currency": {
+    "code": "CAD",
+    "name": "Canadian Dollar",
+    "name_native": "Canadian Dollar",
+    "plural": "Canadian dollars",
+    "plural_native": "Canadian dollars",
+    "symbol": "CA$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/St_Johns",
+    "abbreviation": "NST",
+    "current_time": "2025-03-10T08:15:53-02:30",
+    "name": "Newfoundland Standard Time",
+    "offset": -9000,
+    "in_daylight_saving": true
+  }
+}

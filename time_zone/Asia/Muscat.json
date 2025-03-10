@@ -1,0 +1,63 @@
+{
+  "country": {
+    "area": 212460,
+    "borders": [
+      "AE",
+      "SA",
+      "YE"
+    ],
+    "calling_code": "968",
+    "capital": "Muscat",
+    "code": "OM",
+    "name": "Oman",
+    "population": 5049269,
+    "population_density": 23.77,
+    "languages": [
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "ur",
+        "name": "Urdu",
+        "native": "اردو"
+      }
+    ],
+    "tld": ".om"
+  },
+  "currency": {
+    "code": "OMR",
+    "name": "Omani Rial",
+    "name_native": "ريال عماني",
+    "plural": "Omani rials",
+    "plural_native": "ريال عماني",
+    "symbol": "OMR",
+    "symbol_native": "ر.ع.‏",
+    "format": {
+      "decimal_separator": "٫",
+      "group_separator": "٬",
+      "negative": {
+        "prefix": "؜-‏",
+        "suffix": " ر.ع.‏"
+      },
+      "positive": {
+        "prefix": "‏",
+        "suffix": " ر.ع.‏"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Muscat",
+    "abbreviation": "GST",
+    "current_time": "2025-03-10T14:45:48+04:00",
+    "name": "Gulf Standard Time",
+    "offset": 14400,
+    "in_daylight_saving": false
+  }
+}

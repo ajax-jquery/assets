@@ -1,0 +1,54 @@
+{
+  "country": {
+    "area": 300000,
+    "borders": [],
+    "calling_code": "63",
+    "capital": "Manila",
+    "code": "PH",
+    "name": "Philippines",
+    "population": 114891199,
+    "population_density": 382.97,
+    "languages": [
+      {
+        "code": "tl",
+        "name": "Tagalog",
+        "native": "Tagalog"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".ph"
+  },
+  "currency": {
+    "code": "PHP",
+    "name": "Philippine Peso",
+    "name_native": "Piso ng Pilipinas",
+    "plural": "Philippine pesos",
+    "plural_native": "piso ng Pilipinas",
+    "symbol": "₱",
+    "symbol_native": "₱",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-₱",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "₱",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Manila",
+    "abbreviation": "PST",
+    "current_time": "2025-03-10T18:45:22+08:00",
+    "name": "Philippine Standard Time",
+    "offset": 28800,
+    "in_daylight_saving": false
+  }
+}

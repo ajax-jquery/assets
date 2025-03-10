@@ -1,0 +1,94 @@
+{
+  "country": {
+    "area": 17100000,
+    "borders": [
+      "AZ",
+      "BY",
+      "CN",
+      "EE",
+      "FI",
+      "GE",
+      "KP",
+      "KZ",
+      "LT",
+      "LV",
+      "MN",
+      "NO",
+      "PL",
+      "UA"
+    ],
+    "calling_code": "7",
+    "capital": "Moscow",
+    "code": "RU",
+    "name": "Russian Federation",
+    "population": 143826130,
+    "population_density": 8.41,
+    "languages": [
+      {
+        "code": "ru",
+        "name": "Russian",
+        "native": "русский"
+      },
+      {
+        "code": "tt",
+        "name": "Tatar",
+        "native": "татар"
+      },
+      {
+        "code": "kv",
+        "name": "Komi",
+        "native": "Komi"
+      },
+      {
+        "code": "ce",
+        "name": "Chechen",
+        "native": "нохчийн"
+      },
+      {
+        "code": "cv",
+        "name": "Chuvash",
+        "native": "чӑваш"
+      },
+      {
+        "code": "ba",
+        "name": "Bashkir",
+        "native": "Bashkir"
+      },
+      {
+        "code": "av",
+        "name": "Avaric",
+        "native": "Avaric"
+      }
+    ],
+    "tld": ".ru"
+  },
+  "currency": {
+    "code": "RUB",
+    "name": "Russian Ruble",
+    "name_native": "российский рубль",
+    "plural": "Russian rubles",
+    "plural_native": "российского рубля",
+    "symbol": "RUB",
+    "symbol_native": "₽",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " ₽"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " ₽"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Yakutsk",
+    "abbreviation": "YAKT",
+    "current_time": "2025-03-10T19:45:20+09:00",
+    "name": "Yakutsk Standard Time",
+    "offset": 32400,
+    "in_daylight_saving": false
+  }
+}

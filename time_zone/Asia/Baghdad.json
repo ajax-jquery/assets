@@ -1,0 +1,66 @@
+{
+  "country": {
+    "area": 437072,
+    "borders": [
+      "IR",
+      "JO",
+      "KW",
+      "SA",
+      "SY",
+      "TR"
+    ],
+    "calling_code": "964",
+    "capital": "Baghdad",
+    "code": "IQ",
+    "name": "Iraq",
+    "population": 45074049,
+    "population_density": 103.13,
+    "languages": [
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      },
+      {
+        "code": "ku",
+        "name": "Kurdish",
+        "native": "kurdî (kurmancî)"
+      },
+      {
+        "code": "hy",
+        "name": "Armenian",
+        "native": "հայերեն"
+      }
+    ],
+    "tld": ".iq"
+  },
+  "currency": {
+    "code": "IQD",
+    "name": "Iraqi Dinar",
+    "name_native": "دينار عراقي",
+    "plural": "Iraqi dinars",
+    "plural_native": "دينار عراقي",
+    "symbol": "IQD",
+    "symbol_native": "د.ع.‏",
+    "format": {
+      "decimal_separator": "٫",
+      "group_separator": "٬",
+      "negative": {
+        "prefix": "؜-‏",
+        "suffix": " د.ع.‏"
+      },
+      "positive": {
+        "prefix": "‏",
+        "suffix": " د.ع.‏"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Baghdad",
+    "abbreviation": "AST",
+    "current_time": "2025-03-10T13:45:20+03:00",
+    "name": "Arabian Standard Time",
+    "offset": 10800,
+    "in_daylight_saving": false
+  }
+}

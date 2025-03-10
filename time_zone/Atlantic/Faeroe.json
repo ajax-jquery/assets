@@ -1,0 +1,54 @@
+{
+  "country": {
+    "area": 1399,
+    "borders": [],
+    "calling_code": "298",
+    "capital": "Tórshavn",
+    "code": "FO",
+    "name": "Faroe Islands",
+    "population": 54482,
+    "population_density": 38.94,
+    "languages": [
+      {
+        "code": "fo",
+        "name": "Faroese",
+        "native": "føroyskt"
+      },
+      {
+        "code": "da",
+        "name": "Danish",
+        "native": "dansk"
+      }
+    ],
+    "tld": ".fo"
+  },
+  "currency": {
+    "code": "DKK",
+    "name": "Danish Krone",
+    "name_native": "donsk króna",
+    "plural": "Danish kroner",
+    "plural_native": "danskar krónur",
+    "symbol": "DKK",
+    "symbol_native": "kr",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "−",
+        "suffix": " kr"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " kr"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Atlantic/Faeroe",
+    "abbreviation": "WET",
+    "current_time": "2025-03-10T10:45:58Z",
+    "name": "Western European Standard Time",
+    "offset": 0,
+    "in_daylight_saving": false
+  }
+}

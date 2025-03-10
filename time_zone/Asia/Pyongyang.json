@@ -1,0 +1,53 @@
+{
+  "country": {
+    "area": 120540,
+    "borders": [
+      "CN",
+      "KR",
+      "RU"
+    ],
+    "calling_code": "850",
+    "capital": "Pyongyang",
+    "code": "KP",
+    "name": "North Korea",
+    "population": 26418204,
+    "population_density": 219.17,
+    "languages": [
+      {
+        "code": "ko",
+        "name": "Korean",
+        "native": "한국어"
+      }
+    ],
+    "tld": ".kp"
+  },
+  "currency": {
+    "code": "KPW",
+    "name": "North Korean Won",
+    "name_native": "조선 민주주의 인민 공화국 원",
+    "plural": "North Korean won",
+    "plural_native": "조선 민주주의 인민 공화국 원",
+    "symbol": "KPW",
+    "symbol_native": "KPW",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-KPW",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "KPW",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Pyongyang",
+    "abbreviation": "KST",
+    "current_time": "2025-03-10T19:45:36+09:00",
+    "name": "Korean Standard Time",
+    "offset": 32400,
+    "in_daylight_saving": false
+  }
+}

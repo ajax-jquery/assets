@@ -1,0 +1,53 @@
+{
+  "country": {
+    "area": 1972550,
+    "borders": [
+      "BZ",
+      "GT",
+      "US"
+    ],
+    "calling_code": "52",
+    "capital": "Mexico City",
+    "code": "MX",
+    "name": "Mexico",
+    "population": 129739759,
+    "population_density": 65.77,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      }
+    ],
+    "tld": ".mx"
+  },
+  "currency": {
+    "code": "MXN",
+    "name": "Mexican Peso",
+    "name_native": "peso mexicano",
+    "plural": "Mexican pesos",
+    "plural_native": "pesos mexicanos",
+    "symbol": "MX$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Monterrey",
+    "abbreviation": "CST",
+    "current_time": "2025-03-10T04:45:26-06:00",
+    "name": "Central Standard Time",
+    "offset": -21600,
+    "in_daylight_saving": false
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "country": {
+    "area": 431,
+    "borders": [],
+    "calling_code": "+1-246",
+    "capital": "Bridgetown",
+    "code": "BB",
+    "name": "Barbados",
+    "population": 282336,
+    "population_density": 655.07,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".bb"
+  },
+  "currency": {
+    "code": "BBD",
+    "name": "Barbadian Dollar",
+    "name_native": "Barbadian Dollar",
+    "plural": "Barbadian dollars",
+    "plural_native": "Barbadian dollars",
+    "symbol": "BBD",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Barbados",
+    "abbreviation": "AST",
+    "current_time": "2025-03-10T06:45:38-04:00",
+    "name": "Atlantic Standard Time",
+    "offset": -14400,
+    "in_daylight_saving": false
+  }
+}

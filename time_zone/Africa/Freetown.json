@@ -1,0 +1,52 @@
+{
+  "country": {
+    "area": 71740,
+    "borders": [
+      "GN",
+      "LR"
+    ],
+    "calling_code": "232",
+    "capital": "Freetown",
+    "code": "SL",
+    "name": "Sierra Leone",
+    "population": 8460512,
+    "population_density": 117.93,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".sl"
+  },
+  "currency": {
+    "code": "SLE",
+    "name": "Sierra Leonean Leone",
+    "name_native": "Sierra Leonean Leone",
+    "plural": "Sierra Leonean leones",
+    "plural_native": "Sierra Leonean leones",
+    "symbol": "SLE",
+    "symbol_native": "Le",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-Le",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "Le",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Freetown",
+    "abbreviation": "GMT",
+    "current_time": "2025-03-10T10:45:47Z",
+    "name": "Greenwich Mean Time",
+    "offset": 0,
+    "in_daylight_saving": false
+  }
+}

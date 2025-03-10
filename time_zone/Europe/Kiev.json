@@ -1,0 +1,72 @@
+{
+  "country": {
+    "area": 603700,
+    "borders": [
+      "BY",
+      "HU",
+      "MD",
+      "PL",
+      "RO",
+      "RU",
+      "SK"
+    ],
+    "calling_code": "380",
+    "capital": "Kyiv",
+    "code": "UA",
+    "name": "Ukraine",
+    "population": 37732836,
+    "population_density": 62.5,
+    "languages": [
+      {
+        "code": "uk",
+        "name": "Ukrainian",
+        "native": "українська"
+      },
+      {
+        "code": "ru",
+        "name": "Russian",
+        "native": "русский"
+      },
+      {
+        "code": "pl",
+        "name": "Polish",
+        "native": "polski"
+      },
+      {
+        "code": "hu",
+        "name": "Hungarian",
+        "native": "magyar"
+      }
+    ],
+    "tld": ".ua"
+  },
+  "currency": {
+    "code": "UAH",
+    "name": "Ukrainian Hryvnia",
+    "name_native": "українська гривня",
+    "plural": "Ukrainian hryvnias",
+    "plural_native": "української гривні",
+    "symbol": "UAH",
+    "symbol_native": "₴",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " ₴"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " ₴"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Kiev",
+    "abbreviation": "EET",
+    "current_time": "2025-03-10T12:45:19+02:00",
+    "name": "Eastern European Standard Time",
+    "offset": 7200,
+    "in_daylight_saving": false
+  }
+}

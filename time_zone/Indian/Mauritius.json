@@ -1,0 +1,54 @@
+{
+  "country": {
+    "area": 2040,
+    "borders": [],
+    "calling_code": "230",
+    "capital": "Port Louis",
+    "code": "MU",
+    "name": "Mauritius",
+    "population": 1261041,
+    "population_density": 618.16,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".mu"
+  },
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritian Rupee",
+    "name_native": "Mauritian Rupee",
+    "plural": "Mauritian rupees",
+    "plural_native": "Mauritian rupees",
+    "symbol": "MUR",
+    "symbol_native": "Rs",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-Rs",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "Rs",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Indian/Mauritius",
+    "abbreviation": "MUT",
+    "current_time": "2025-03-10T14:45:44+04:00",
+    "name": "Mauritius Standard Time",
+    "offset": 14400,
+    "in_daylight_saving": false
+  }
+}

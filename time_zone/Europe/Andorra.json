@@ -1,0 +1,52 @@
+{
+  "country": {
+    "area": 468,
+    "borders": [
+      "ES",
+      "FR"
+    ],
+    "calling_code": "376",
+    "capital": "Andorra la Vella",
+    "code": "AD",
+    "name": "Andorra",
+    "population": 80856,
+    "population_density": 172.77,
+    "languages": [
+      {
+        "code": "ca",
+        "name": "Catalan",
+        "native": "català"
+      }
+    ],
+    "tld": ".ad"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "euro",
+    "plural": "euros",
+    "plural_native": "euros",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Andorra",
+    "abbreviation": "CET",
+    "current_time": "2025-03-10T11:45:39+01:00",
+    "name": "Central European Standard Time",
+    "offset": 3600,
+    "in_daylight_saving": false
+  }
+}

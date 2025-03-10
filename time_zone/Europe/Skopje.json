@@ -1,0 +1,70 @@
+{
+  "country": {
+    "area": 25333,
+    "borders": [
+      "AL",
+      "BG",
+      "GR",
+      "RS",
+      "XK"
+    ],
+    "calling_code": "389",
+    "capital": "Skopje",
+    "code": "MK",
+    "name": "North Macedonia",
+    "population": 1827816,
+    "population_density": 72.15,
+    "languages": [
+      {
+        "code": "mk",
+        "name": "Macedonian",
+        "native": "македонски"
+      },
+      {
+        "code": "sq",
+        "name": "Albanian",
+        "native": "shqip"
+      },
+      {
+        "code": "tr",
+        "name": "Turkish",
+        "native": "Türkçe"
+      },
+      {
+        "code": "sr",
+        "name": "Serbian",
+        "native": "српски"
+      }
+    ],
+    "tld": ".mk"
+  },
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonian Denar",
+    "name_native": "Македонски денар",
+    "plural": "Macedonian denari",
+    "plural_native": "Македонски денари",
+    "symbol": "MKD",
+    "symbol_native": "ден.",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-",
+        "suffix": " ден."
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " ден."
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Skopje",
+    "abbreviation": "CET",
+    "current_time": "2025-03-10T11:45:27+01:00",
+    "name": "Central European Standard Time",
+    "offset": 3600,
+    "in_daylight_saving": false
+  }
+}

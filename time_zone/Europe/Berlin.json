@@ -1,0 +1,59 @@
+{
+  "country": {
+    "area": 357021,
+    "borders": [
+      "AT",
+      "BE",
+      "CH",
+      "CZ",
+      "DK",
+      "FR",
+      "LU",
+      "NL",
+      "PL"
+    ],
+    "calling_code": "49",
+    "capital": "Berlin",
+    "code": "DE",
+    "name": "Germany",
+    "population": 83280000,
+    "population_density": 233.26,
+    "languages": [
+      {
+        "code": "de",
+        "name": "German",
+        "native": "Deutsch"
+      }
+    ],
+    "tld": ".de"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "Euro",
+    "plural": "euros",
+    "plural_native": "Euro",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Berlin",
+    "abbreviation": "CET",
+    "current_time": "2025-03-10T11:45:17+01:00",
+    "name": "Central European Standard Time",
+    "offset": 3600,
+    "in_daylight_saving": false
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "country": {
+    "area": 18270,
+    "borders": [],
+    "calling_code": "679",
+    "capital": "Suva",
+    "code": "FJ",
+    "name": "Fiji",
+    "population": 924145,
+    "population_density": 50.58,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "fj",
+        "name": "Fijian",
+        "native": "Fijian"
+      }
+    ],
+    "tld": ".fj"
+  },
+  "currency": {
+    "code": "FJD",
+    "name": "Fijian Dollar",
+    "name_native": "Fijian Dollar",
+    "plural": "Fijian dollars",
+    "plural_native": "Fijian dollars",
+    "symbol": "FJD",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Pacific/Fiji",
+    "abbreviation": "FJT",
+    "current_time": "2025-03-10T22:45:34+12:00",
+    "name": "Fiji Standard Time",
+    "offset": 43200,
+    "in_daylight_saving": false
+  }
+}

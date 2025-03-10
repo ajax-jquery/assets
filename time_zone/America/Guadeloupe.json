@@ -1,0 +1,49 @@
+{
+  "country": {
+    "area": 1780,
+    "borders": [],
+    "calling_code": "590",
+    "capital": "Basse-Terre",
+    "code": "GP",
+    "name": "France",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".gp"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "euro",
+    "plural": "euros",
+    "plural_native": "euros",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Guadeloupe",
+    "abbreviation": "AST",
+    "current_time": "2025-03-10T06:45:59-04:00",
+    "name": "Atlantic Standard Time",
+    "offset": -14400,
+    "in_daylight_saving": false
+  }
+}
