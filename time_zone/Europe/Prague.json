@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 78866,
     "borders": [
@@ -13,6 +17,14 @@
     "name": "Czechia",
     "population": 10864042,
     "population_density": 137.75,
+    "flag": {
+      "emoji": "🇨🇿",
+      "emoji_unicode": "U+1F1E8 U+1F1FF",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/cz.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/cz.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/cz.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/cz.svg"
+    },
     "languages": [
       {
         "code": "cs",
@@ -51,7 +63,7 @@
   "time_zone": {
     "id": "Europe/Prague",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:20+01:00",
+    "current_time": "2025-03-10T12:38:49+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

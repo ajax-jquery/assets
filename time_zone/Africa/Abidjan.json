@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 322460,
     "borders": [
@@ -14,6 +18,14 @@
     "name": "Côte d'Ivoire",
     "population": 31165654,
     "population_density": 96.65,
+    "flag": {
+      "emoji": "🇨🇮",
+      "emoji_unicode": "U+1F1E8 U+1F1EE",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ci.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ci.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ci.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ci.svg"
+    },
     "languages": [
       {
         "code": "fr",
@@ -47,7 +59,7 @@
   "time_zone": {
     "id": "Africa/Abidjan",
     "abbreviation": "GMT",
-    "current_time": "2025-03-10T10:45:51Z",
+    "current_time": "2025-03-10T11:39:16Z",
     "name": "Greenwich Mean Time",
     "offset": 0,
     "in_daylight_saving": false

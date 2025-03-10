@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
   "country": {
     "area": 260,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Niue",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": "🇳🇺",
+      "emoji_unicode": "U+1F1F3 U+1F1FA",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/nu.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/nu.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/nu.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/nu.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "Pacific/Niue",
     "abbreviation": "NUT",
-    "current_time": "2025-03-09T23:46:00-11:00",
+    "current_time": "2025-03-10T00:39:25-11:00",
     "name": "Niue Time",
     "offset": -39600,
     "in_daylight_saving": false

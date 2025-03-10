@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "SA",
+    "name": "South America"
+  },
   "country": {
     "area": 214970,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "Guyana",
     "population": 826353,
     "population_density": 3.84,
+    "flag": {
+      "emoji": "🇬🇾",
+      "emoji_unicode": "U+1F1EC U+1F1FE",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/gy.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/gy.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/gy.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/gy.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -45,7 +57,7 @@
   "time_zone": {
     "id": "America/Guyana",
     "abbreviation": "GYT",
-    "current_time": "2025-03-10T06:45:39-04:00",
+    "current_time": "2025-03-10T07:39:06-04:00",
     "name": "Guyana Time",
     "offset": -14400,
     "in_daylight_saving": false

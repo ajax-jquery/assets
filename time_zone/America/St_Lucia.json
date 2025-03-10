@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 616,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Saint Lucia",
     "population": 179285,
     "population_density": 291.05,
+    "flag": {
+      "emoji": "🇱🇨",
+      "emoji_unicode": "U+1F1F1 U+1F1E8",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/lc.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/lc.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/lc.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/lc.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "America/St_Lucia",
     "abbreviation": "AST",
-    "current_time": "2025-03-10T06:45:38-04:00",
+    "current_time": "2025-03-10T07:39:04-04:00",
     "name": "Atlantic Standard Time",
     "offset": -14400,
     "in_daylight_saving": false

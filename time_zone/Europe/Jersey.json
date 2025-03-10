@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 116,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Jersey",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": "🇯🇪",
+      "emoji_unicode": "U+1F1EF U+1F1EA",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/je.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/je.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/je.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/je.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "Europe/Jersey",
     "abbreviation": "GMT",
-    "current_time": "2025-03-10T10:46:00Z",
+    "current_time": "2025-03-10T11:39:24Z",
     "name": "Greenwich Mean Time",
     "offset": 0,
     "in_daylight_saving": false

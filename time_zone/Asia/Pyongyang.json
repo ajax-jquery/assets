@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 120540,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "North Korea",
     "population": 26418204,
     "population_density": 219.17,
+    "flag": {
+      "emoji": "🇰🇵",
+      "emoji_unicode": "U+1F1F0 U+1F1F5",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/kp.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/kp.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/kp.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/kp.svg"
+    },
     "languages": [
       {
         "code": "ko",
@@ -45,7 +57,7 @@
   "time_zone": {
     "id": "Asia/Pyongyang",
     "abbreviation": "KST",
-    "current_time": "2025-03-10T19:45:36+09:00",
+    "current_time": "2025-03-10T20:39:03+09:00",
     "name": "Korean Standard Time",
     "offset": 32400,
     "in_daylight_saving": false

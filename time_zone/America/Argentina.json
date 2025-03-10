@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "SA",
+    "name": "South America"
+  },
   "country": {
     "area": 2766890,
     "borders": [
@@ -14,6 +18,14 @@
     "name": "Argentina",
     "population": 45538401,
     "population_density": 16.46,
+    "flag": {
+      "emoji": "🇦🇷",
+      "emoji_unicode": "U+1F1E6 U+1F1F7",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ar.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ar.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ar.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ar.svg"
+    },
     "languages": [
       {
         "code": "es",
@@ -72,7 +84,7 @@
   "time_zone": {
     "id": "America/Argentina/Jujuy",
     "abbreviation": "ART",
-    "current_time": "2025-03-10T07:46:03-03:00",
+    "current_time": "2025-03-10T08:39:28-03:00",
     "name": "Argentina Standard Time",
     "offset": -10800,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 572,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Isle of Man",
     "population": 84165,
     "population_density": 147.14,
+    "flag": {
+      "emoji": "🇮🇲",
+      "emoji_unicode": "U+1F1EE U+1F1F2",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/im.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/im.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/im.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/im.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "Europe/Isle_of_Man",
     "abbreviation": "GMT",
-    "current_time": "2025-03-10T10:45:59Z",
+    "current_time": "2025-03-10T11:39:24Z",
     "name": "Greenwich Mean Time",
     "offset": 0,
     "in_daylight_saving": false

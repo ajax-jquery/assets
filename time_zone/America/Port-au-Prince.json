@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 27750,
     "borders": [
@@ -10,6 +14,14 @@
     "name": "Haiti",
     "population": 11637398,
     "population_density": 419.37,
+    "flag": {
+      "emoji": "🇭🇹",
+      "emoji_unicode": "U+1F1ED U+1F1F9",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ht.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ht.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ht.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ht.svg"
+    },
     "languages": [
       {
         "code": "ht",
@@ -48,7 +60,7 @@
   "time_zone": {
     "id": "America/Port-au-Prince",
     "abbreviation": "EST",
-    "current_time": "2025-03-10T06:45:37-04:00",
+    "current_time": "2025-03-10T07:39:04-04:00",
     "name": "Eastern Standard Time",
     "offset": -14400,
     "in_daylight_saving": true

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 1030700,
     "borders": [
@@ -13,6 +17,14 @@
     "name": "Mauritania",
     "population": 5022441,
     "population_density": 4.87,
+    "flag": {
+      "emoji": "🇲🇷",
+      "emoji_unicode": "U+1F1F2 U+1F1F7",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/mr.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/mr.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/mr.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/mr.svg"
+    },
     "languages": [
       {
         "code": "ar",
@@ -56,7 +68,7 @@
   "time_zone": {
     "id": "Africa/Nouakchott",
     "abbreviation": "GMT",
-    "current_time": "2025-03-10T10:45:48Z",
+    "current_time": "2025-03-10T11:39:13Z",
     "name": "Greenwich Mean Time",
     "offset": 0,
     "in_daylight_saving": false

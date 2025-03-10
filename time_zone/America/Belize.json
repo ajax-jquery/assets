@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 22966,
     "borders": [
@@ -11,6 +15,14 @@
     "name": "Belize",
     "population": 411106,
     "population_density": 17.9,
+    "flag": {
+      "emoji": "🇧🇿",
+      "emoji_unicode": "U+1F1E7 U+1F1FF",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/bz.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/bz.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/bz.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/bz.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -49,7 +61,7 @@
   "time_zone": {
     "id": "America/Belize",
     "abbreviation": "CST",
-    "current_time": "2025-03-10T04:45:36-06:00",
+    "current_time": "2025-03-10T05:39:03-06:00",
     "name": "Central Standard Time",
     "offset": -21600,
     "in_daylight_saving": false

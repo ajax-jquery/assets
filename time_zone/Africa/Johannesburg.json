@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 30355,
     "borders": [
@@ -10,6 +14,14 @@
     "name": "Lesotho",
     "population": 2311472,
     "population_density": 76.15,
+    "flag": {
+      "emoji": "🇱🇸",
+      "emoji_unicode": "U+1F1F1 U+1F1F8",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ls.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ls.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ls.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ls.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -58,7 +70,7 @@
   "time_zone": {
     "id": "Africa/Johannesburg",
     "abbreviation": "SAST",
-    "current_time": "2025-03-10T12:45:43+02:00",
+    "current_time": "2025-03-10T13:39:08+02:00",
     "name": "South Africa Standard Time",
     "offset": 7200,
     "in_daylight_saving": false

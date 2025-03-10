@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
   "country": {
     "area": 2944,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Samoa",
     "population": 216663,
     "population_density": 73.59,
+    "flag": {
+      "emoji": "🇼🇸",
+      "emoji_unicode": "U+1F1FC U+1F1F8",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ws.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ws.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ws.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ws.svg"
+    },
     "languages": [
       {
         "code": "sm",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "Pacific/Apia",
     "abbreviation": "WSST",
-    "current_time": "2025-03-10T23:45:23+13:00",
+    "current_time": "2025-03-11T00:38:52+13:00",
     "name": "Apia Standard Time",
     "offset": 46800,
     "in_daylight_saving": false

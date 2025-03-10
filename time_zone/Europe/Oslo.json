@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 324220,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "Norway",
     "population": 5519594,
     "population_density": 17.02,
+    "flag": {
+      "emoji": "🇳🇴",
+      "emoji_unicode": "U+1F1F3 U+1F1F4",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/no.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/no.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/no.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/no.svg"
+    },
     "languages": [
       {
         "code": "no",
@@ -65,7 +77,7 @@
   "time_zone": {
     "id": "Europe/Oslo",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:25+01:00",
+    "current_time": "2025-03-10T12:38:53+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

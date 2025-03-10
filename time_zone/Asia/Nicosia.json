@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 9250,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Cyprus",
     "population": 1344976,
     "population_density": 145.4,
+    "flag": {
+      "emoji": "🇨🇾",
+      "emoji_unicode": "U+1F1E8 U+1F1FE",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/cy.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/cy.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/cy.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/cy.svg"
+    },
     "languages": [
       {
         "code": "el",
@@ -51,7 +63,7 @@
   "time_zone": {
     "id": "Asia/Nicosia",
     "abbreviation": "EET",
-    "current_time": "2025-03-10T12:45:30+02:00",
+    "current_time": "2025-03-10T13:38:58+02:00",
     "name": "Eastern European Standard Time",
     "offset": 7200,
     "in_daylight_saving": false

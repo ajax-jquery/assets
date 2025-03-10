@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 587040,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Madagascar",
     "population": 31195932,
     "population_density": 53.14,
+    "flag": {
+      "emoji": "🇲🇬",
+      "emoji_unicode": "U+1F1F2 U+1F1EC",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/mg.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/mg.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/mg.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/mg.svg"
+    },
     "languages": [
       {
         "code": "fr",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "Indian/Antananarivo",
     "abbreviation": "EAT",
-    "current_time": "2025-03-10T13:45:44+03:00",
+    "current_time": "2025-03-10T14:39:09+03:00",
     "name": "East Africa Time",
     "offset": 10800,
     "in_daylight_saving": false

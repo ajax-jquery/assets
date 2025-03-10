@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
   "country": {
     "area": 748,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Tonga",
     "population": 104597,
     "population_density": 139.84,
+    "flag": {
+      "emoji": "🇹🇴",
+      "emoji_unicode": "U+1F1F9 U+1F1F4",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/to.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/to.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/to.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/to.svg"
+    },
     "languages": [
       {
         "code": "to",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "Pacific/Tongatapu",
     "abbreviation": "TOT",
-    "current_time": "2025-03-10T23:45:34+13:00",
+    "current_time": "2025-03-11T00:39:01+13:00",
     "name": "Tonga Standard Time",
     "offset": 46800,
     "in_daylight_saving": false

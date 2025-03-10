@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
   "country": {
     "area": 28450,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Solomon Islands",
     "population": 800005,
     "population_density": 28.12,
+    "flag": {
+      "emoji": "🇸🇧",
+      "emoji_unicode": "U+1F1F8 U+1F1E7",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/sb.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/sb.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/sb.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/sb.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "Pacific/Guadalcanal",
     "abbreviation": "SBT",
-    "current_time": "2025-03-10T21:45:34+11:00",
+    "current_time": "2025-03-10T22:39:01+11:00",
     "name": "Solomon Islands Time",
     "offset": 39600,
     "in_daylight_saving": false

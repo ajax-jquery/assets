@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 1780,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "France",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": "🇬🇵",
+      "emoji_unicode": "U+1F1EC U+1F1F5",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/gp.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/gp.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/gp.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/gp.svg"
+    },
     "languages": [
       {
         "code": "fr",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "America/Guadeloupe",
     "abbreviation": "AST",
-    "current_time": "2025-03-10T06:45:59-04:00",
+    "current_time": "2025-03-10T07:39:24-04:00",
     "name": "Atlantic Standard Time",
     "offset": -14400,
     "in_daylight_saving": false

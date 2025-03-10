@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 129494,
     "borders": [
@@ -11,6 +15,14 @@
     "name": "Nicaragua",
     "population": 6823613,
     "population_density": 52.69,
+    "flag": {
+      "emoji": "🇳🇮",
+      "emoji_unicode": "U+1F1F3 U+1F1EE",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ni.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ni.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ni.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ni.svg"
+    },
     "languages": [
       {
         "code": "es",
@@ -49,7 +61,7 @@
   "time_zone": {
     "id": "America/Managua",
     "abbreviation": "CST",
-    "current_time": "2025-03-10T04:45:36-06:00",
+    "current_time": "2025-03-10T05:39:03-06:00",
     "name": "Central Standard Time",
     "offset": -21600,
     "in_daylight_saving": false

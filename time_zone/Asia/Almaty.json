@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 2717300,
     "borders": [
@@ -14,6 +18,14 @@
     "name": "Kazakhstan",
     "population": 20330104,
     "population_density": 7.48,
+    "flag": {
+      "emoji": "🇰🇿",
+      "emoji_unicode": "U+1F1F0 U+1F1FF",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/kz.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/kz.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/kz.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/kz.svg"
+    },
     "languages": [
       {
         "code": "kk",
@@ -52,7 +64,7 @@
   "time_zone": {
     "id": "Asia/Almaty",
     "abbreviation": "ALMT",
-    "current_time": "2025-03-10T15:45:56+05:00",
+    "current_time": "2025-03-10T16:39:21+05:00",
     "name": "East Kazakhstan Time",
     "offset": 18000,
     "in_daylight_saving": false

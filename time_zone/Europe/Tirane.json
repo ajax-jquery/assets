@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 28748,
     "borders": [
@@ -13,6 +17,14 @@
     "name": "Albania",
     "population": 2745972,
     "population_density": 95.52,
+    "flag": {
+      "emoji": "🇦🇱",
+      "emoji_unicode": "U+1F1E6 U+1F1F1",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/al.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/al.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/al.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/al.svg"
+    },
     "languages": [
       {
         "code": "sq",
@@ -51,7 +63,7 @@
   "time_zone": {
     "id": "Europe/Tirane",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:48+01:00",
+    "current_time": "2025-03-10T12:39:13+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

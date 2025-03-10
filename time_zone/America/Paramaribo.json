@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "SA",
+    "name": "South America"
+  },
   "country": {
     "area": 163270,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "Suriname",
     "population": 628886,
     "population_density": 3.85,
+    "flag": {
+      "emoji": "🇸🇷",
+      "emoji_unicode": "U+1F1F8 U+1F1F7",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/sr.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/sr.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/sr.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/sr.svg"
+    },
     "languages": [
       {
         "code": "nl",
@@ -55,7 +67,7 @@
   "time_zone": {
     "id": "America/Paramaribo",
     "abbreviation": "SRT",
-    "current_time": "2025-03-10T07:45:39-03:00",
+    "current_time": "2025-03-10T08:39:05-03:00",
     "name": "Suriname Time",
     "offset": -10800,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 547030,
     "borders": [
@@ -17,6 +21,14 @@
     "name": "France",
     "population": 68287487,
     "population_density": 124.83,
+    "flag": {
+      "emoji": "🇫🇷",
+      "emoji_unicode": "U+1F1EB U+1F1F7",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/fr.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/fr.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/fr.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/fr.svg"
+    },
     "languages": [
       {
         "code": "fr",
@@ -75,7 +87,7 @@
   "time_zone": {
     "id": "Europe/Paris",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:15+01:00",
+    "current_time": "2025-03-10T12:38:44+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

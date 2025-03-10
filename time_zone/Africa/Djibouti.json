@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 23000,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "Djibouti",
     "population": 1152944,
     "population_density": 50.13,
+    "flag": {
+      "emoji": "🇩🇯",
+      "emoji_unicode": "U+1F1E9 U+1F1EF",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/dj.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/dj.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/dj.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/dj.svg"
+    },
     "languages": [
       {
         "code": "fr",
@@ -60,7 +72,7 @@
   "time_zone": {
     "id": "Africa/Djibouti",
     "abbreviation": "EAT",
-    "current_time": "2025-03-10T13:45:45+03:00",
+    "current_time": "2025-03-10T14:39:10+03:00",
     "name": "East Africa Time",
     "offset": 10800,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 329750,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "Malaysia",
     "population": 35126298,
     "population_density": 106.52,
+    "flag": {
+      "emoji": "🇲🇾",
+      "emoji_unicode": "U+1F1F2 U+1F1FE",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/my.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/my.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/my.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/my.svg"
+    },
     "languages": [
       {
         "code": "ms",
@@ -80,7 +92,7 @@
   "time_zone": {
     "id": "Asia/Kuala_Lumpur",
     "abbreviation": "MYT",
-    "current_time": "2025-03-10T18:45:15+08:00",
+    "current_time": "2025-03-10T19:38:44+08:00",
     "name": "Malaysia Time",
     "offset": 28800,
     "in_daylight_saving": false

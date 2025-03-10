@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 1919440,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "Indonesia",
     "population": 281190067,
     "population_density": 146.5,
+    "flag": {
+      "emoji": "🇮🇩",
+      "emoji_unicode": "U+1F1EE U+1F1E9",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/id.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/id.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/id.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/id.svg"
+    },
     "languages": [
       {
         "code": "id",
@@ -60,7 +72,7 @@
   "time_zone": {
     "id": "Asia/Makassar",
     "abbreviation": "WITA",
-    "current_time": "2025-03-10T18:45:31+08:00",
+    "current_time": "2025-03-10T19:38:59+08:00",
     "name": "Central Indonesia Time",
     "offset": 28800,
     "in_daylight_saving": false

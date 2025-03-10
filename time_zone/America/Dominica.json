@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 754,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Dominica",
     "population": 66510,
     "population_density": 88.21,
+    "flag": {
+      "emoji": "🇩🇲",
+      "emoji_unicode": "U+1F1E9 U+1F1F2",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/dm.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/dm.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/dm.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/dm.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "America/Dominica",
     "abbreviation": "AST",
-    "current_time": "2025-03-10T06:45:58-04:00",
+    "current_time": "2025-03-10T07:39:23-04:00",
     "name": "Atlantic Standard Time",
     "offset": -14400,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 300000,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Philippines",
     "population": 114891199,
     "population_density": 382.97,
+    "flag": {
+      "emoji": "🇵🇭",
+      "emoji_unicode": "U+1F1F5 U+1F1ED",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ph.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ph.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ph.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ph.svg"
+    },
     "languages": [
       {
         "code": "tl",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "Asia/Manila",
     "abbreviation": "PST",
-    "current_time": "2025-03-10T18:45:22+08:00",
+    "current_time": "2025-03-10T19:38:51+08:00",
     "name": "Philippine Standard Time",
     "offset": 28800,
     "in_daylight_saving": false

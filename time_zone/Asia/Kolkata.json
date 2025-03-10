@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 3287590,
     "borders": [
@@ -15,6 +19,14 @@
     "name": "India",
     "population": 1438069596,
     "population_density": 437.42,
+    "flag": {
+      "emoji": "🇮🇳",
+      "emoji_unicode": "U+1F1EE U+1F1F3",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/in.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/in.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/in.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/in.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -138,7 +150,7 @@
   "time_zone": {
     "id": "Asia/Kolkata",
     "abbreviation": "IST",
-    "current_time": "2025-03-10T16:15:14+05:30",
+    "current_time": "2025-03-10T17:08:43+05:30",
     "name": "India Standard Time",
     "offset": 19800,
     "in_daylight_saving": false

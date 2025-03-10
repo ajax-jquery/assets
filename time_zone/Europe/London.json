@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 244820,
     "borders": [
@@ -10,6 +14,14 @@
     "name": "United Kingdom",
     "population": 68350000,
     "population_density": 279.18,
+    "flag": {
+      "emoji": "🇬🇧",
+      "emoji_unicode": "U+1F1EC U+1F1E7",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/gb.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/gb.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/gb.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/gb.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -53,7 +65,7 @@
   "time_zone": {
     "id": "Europe/London",
     "abbreviation": "GMT",
-    "current_time": "2025-03-10T10:45:26Z",
+    "current_time": "2025-03-10T11:38:54Z",
     "name": "Greenwich Mean Time",
     "offset": 0,
     "in_daylight_saving": false

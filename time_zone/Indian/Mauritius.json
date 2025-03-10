@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 2040,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Mauritius",
     "population": 1261041,
     "population_density": 618.16,
+    "flag": {
+      "emoji": "🇲🇺",
+      "emoji_unicode": "U+1F1F2 U+1F1FA",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/mu.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/mu.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/mu.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/mu.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "Indian/Mauritius",
     "abbreviation": "MUT",
-    "current_time": "2025-03-10T14:45:44+04:00",
+    "current_time": "2025-03-10T15:39:09+04:00",
     "name": "Mauritius Standard Time",
     "offset": 14400,
     "in_daylight_saving": false

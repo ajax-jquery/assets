@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
   "country": {
     "area": 199,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "United States",
     "population": 47521,
     "population_density": 238.8,
+    "flag": {
+      "emoji": "🇦🇸",
+      "emoji_unicode": "U+1F1E6 U+1F1F8",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/as.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/as.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/as.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/as.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -51,7 +63,7 @@
   "time_zone": {
     "id": "Pacific/Pago_Pago",
     "abbreviation": "SST",
-    "current_time": "2025-03-09T23:45:57-11:00",
+    "current_time": "2025-03-10T00:39:22-11:00",
     "name": "Samoa Standard Time",
     "offset": -39600,
     "in_daylight_saving": false

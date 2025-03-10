@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 447400,
     "borders": [
@@ -14,6 +18,14 @@
     "name": "Uzbekistan",
     "population": 35652307,
     "population_density": 79.69,
+    "flag": {
+      "emoji": "🇺🇿",
+      "emoji_unicode": "U+1F1FA U+1F1FF",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/uz.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/uz.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/uz.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/uz.svg"
+    },
     "languages": [
       {
         "code": "uz",
@@ -57,7 +69,7 @@
   "time_zone": {
     "id": "Asia/Tashkent",
     "abbreviation": "UZT",
-    "current_time": "2025-03-10T15:45:50+05:00",
+    "current_time": "2025-03-10T16:39:14+05:00",
     "name": "Uzbekistan Standard Time",
     "offset": 18000,
     "in_daylight_saving": false

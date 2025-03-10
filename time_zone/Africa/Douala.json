@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 475440,
     "borders": [
@@ -15,6 +19,14 @@
     "name": "Cameroon",
     "population": 28372687,
     "population_density": 59.68,
+    "flag": {
+      "emoji": "🇨🇲",
+      "emoji_unicode": "U+1F1E8 U+1F1F2",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/cm.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/cm.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/cm.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/cm.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -53,7 +65,7 @@
   "time_zone": {
     "id": "Africa/Douala",
     "abbreviation": "WAT",
-    "current_time": "2025-03-10T11:45:46+01:00",
+    "current_time": "2025-03-10T12:39:11+01:00",
     "name": "West Africa Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

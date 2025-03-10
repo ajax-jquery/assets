@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 300,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Maldives",
     "population": 525994,
     "population_density": 1753.31,
+    "flag": {
+      "emoji": "🇲🇻",
+      "emoji_unicode": "U+1F1F2 U+1F1FB",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/mv.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/mv.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/mv.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/mv.svg"
+    },
     "languages": [
       {
         "code": "dv",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "Indian/Maldives",
     "abbreviation": "MVT",
-    "current_time": "2025-03-10T15:45:36+05:00",
+    "current_time": "2025-03-10T16:39:03+05:00",
     "name": "Maldives Time",
     "offset": 18000,
     "in_daylight_saving": false

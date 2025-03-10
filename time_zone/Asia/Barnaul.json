@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 17100000,
     "borders": [
@@ -23,6 +27,14 @@
     "name": "Russian Federation",
     "population": 143826130,
     "population_density": 8.41,
+    "flag": {
+      "emoji": "🇷🇺",
+      "emoji_unicode": "U+1F1F7 U+1F1FA",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ru.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ru.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ru.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ru.svg"
+    },
     "languages": [
       {
         "code": "ru",
@@ -86,7 +98,7 @@
   "time_zone": {
     "id": "Asia/Barnaul",
     "abbreviation": "GMT+07:00",
-    "current_time": "2025-03-10T17:45:51+07:00",
+    "current_time": "2025-03-10T18:39:16+07:00",
     "name": "Barnaul Standard Time",
     "offset": 25200,
     "in_daylight_saving": false

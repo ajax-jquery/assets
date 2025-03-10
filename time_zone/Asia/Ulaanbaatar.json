@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 1565000,
     "borders": [
@@ -11,6 +15,14 @@
     "name": "Mongolia",
     "population": 3481145,
     "population_density": 2.22,
+    "flag": {
+      "emoji": "🇲🇳",
+      "emoji_unicode": "U+1F1F2 U+1F1F3",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/mn.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/mn.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/mn.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/mn.svg"
+    },
     "languages": [
       {
         "code": "mn",
@@ -49,7 +61,7 @@
   "time_zone": {
     "id": "Asia/Ulaanbaatar",
     "abbreviation": "ULAT",
-    "current_time": "2025-03-10T18:45:22+08:00",
+    "current_time": "2025-03-10T19:38:50+08:00",
     "name": "Ulaanbaatar Standard Time",
     "offset": 28800,
     "in_daylight_saving": false

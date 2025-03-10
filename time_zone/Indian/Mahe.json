@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 455,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Seychelles",
     "population": 119773,
     "population_density": 263.24,
+    "flag": {
+      "emoji": "🇸🇨",
+      "emoji_unicode": "U+1F1F8 U+1F1E8",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/sc.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/sc.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/sc.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/sc.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "Indian/Mahe",
     "abbreviation": "SCT",
-    "current_time": "2025-03-10T14:45:44+04:00",
+    "current_time": "2025-03-10T15:39:09+04:00",
     "name": "Seychelles Time",
     "offset": 14400,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 198500,
     "borders": [
@@ -13,6 +17,14 @@
     "name": "Kyrgyzstan",
     "population": 7099750,
     "population_density": 35.77,
+    "flag": {
+      "emoji": "🇰🇬",
+      "emoji_unicode": "U+1F1F0 U+1F1EC",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/kg.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/kg.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/kg.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/kg.svg"
+    },
     "languages": [
       {
         "code": "ky",
@@ -56,7 +68,7 @@
   "time_zone": {
     "id": "Asia/Bishkek",
     "abbreviation": "KGT",
-    "current_time": "2025-03-10T16:45:50+06:00",
+    "current_time": "2025-03-10T17:39:15+06:00",
     "name": "Kyrgyzstan Time",
     "offset": 21600,
     "in_daylight_saving": false

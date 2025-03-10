@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 11300,
     "borders": [
@@ -10,6 +14,14 @@
     "name": "Gambia",
     "population": 2697845,
     "population_density": 238.75,
+    "flag": {
+      "emoji": "🇬🇲",
+      "emoji_unicode": "U+1F1EC U+1F1F2",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/gm.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/gm.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/gm.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/gm.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -53,7 +65,7 @@
   "time_zone": {
     "id": "Africa/Banjul",
     "abbreviation": "GMT",
-    "current_time": "2025-03-10T10:45:47Z",
+    "current_time": "2025-03-10T11:39:12Z",
     "name": "Greenwich Mean Time",
     "offset": 0,
     "in_daylight_saving": false

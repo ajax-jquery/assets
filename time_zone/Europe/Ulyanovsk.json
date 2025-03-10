@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 17100000,
     "borders": [
@@ -23,6 +27,14 @@
     "name": "Russian Federation",
     "population": 143826130,
     "population_density": 8.41,
+    "flag": {
+      "emoji": "🇷🇺",
+      "emoji_unicode": "U+1F1F7 U+1F1FA",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ru.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ru.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ru.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ru.svg"
+    },
     "languages": [
       {
         "code": "ru",
@@ -86,7 +98,7 @@
   "time_zone": {
     "id": "Europe/Ulyanovsk",
     "abbreviation": "GMT+04:00",
-    "current_time": "2025-03-10T14:45:55+04:00",
+    "current_time": "2025-03-10T15:39:20+04:00",
     "name": "Ulyanovsk Standard Time",
     "offset": 14400,
     "in_daylight_saving": false

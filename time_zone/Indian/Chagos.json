@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 60,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "British Indian Ocean Territory",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": "🇮🇴",
+      "emoji_unicode": "U+1F1EE U+1F1F4",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/io.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/io.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/io.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/io.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "Indian/Chagos",
     "abbreviation": "IOT",
-    "current_time": "2025-03-10T16:45:58+06:00",
+    "current_time": "2025-03-10T17:39:22+06:00",
     "name": "Indian Ocean Time",
     "offset": 21600,
     "in_daylight_saving": false

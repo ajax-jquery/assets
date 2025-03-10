@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 236040,
     "borders": [
@@ -14,6 +18,14 @@
     "name": "Uganda",
     "population": 48656601,
     "population_density": 206.14,
+    "flag": {
+      "emoji": "🇺🇬",
+      "emoji_unicode": "U+1F1FA U+1F1EC",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ug.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ug.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ug.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ug.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -62,7 +74,7 @@
   "time_zone": {
     "id": "Africa/Kampala",
     "abbreviation": "EAT",
-    "current_time": "2025-03-10T13:45:45+03:00",
+    "current_time": "2025-03-10T14:39:10+03:00",
     "name": "East Africa Time",
     "offset": 10800,
     "in_daylight_saving": false

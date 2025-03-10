@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AN",
+    "name": "Antarctica"
+  },
   "country": {
     "area": 0,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Bouvet Island",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": null,
+      "emoji_unicode": null,
+      "emojitwo": null,
+      "noto": null,
+      "twemoji": null,
+      "wikimedia": null
+    },
     "languages": [],
     "tld": null
   },
@@ -35,7 +47,7 @@
   "time_zone": {
     "id": "Etc/GMT",
     "abbreviation": "GMT",
-    "current_time": "2025-03-10T10:45:58Z",
+    "current_time": "2025-03-10T11:39:22Z",
     "name": "Greenwich Mean Time",
     "offset": 0,
     "in_daylight_saving": false

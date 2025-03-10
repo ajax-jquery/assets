@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 5970,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "Palestine",
     "population": 5165775,
     "population_density": 865.29,
+    "flag": {
+      "emoji": "🇵🇸",
+      "emoji_unicode": "U+1F1F5 U+1F1F8",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ps.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ps.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ps.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ps.svg"
+    },
     "languages": [
       {
         "code": "ar",
@@ -45,7 +57,7 @@
   "time_zone": {
     "id": "Asia/Jerusalem",
     "abbreviation": "IST",
-    "current_time": "2025-03-10T12:45:55+02:00",
+    "current_time": "2025-03-10T13:39:19+02:00",
     "name": "Israel Standard Time",
     "offset": 7200,
     "in_daylight_saving": false

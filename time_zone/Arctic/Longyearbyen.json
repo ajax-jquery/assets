@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 62049,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Norway",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": "🇸🇯",
+      "emoji_unicode": "U+1F1F8 U+1F1EF",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/sj.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/sj.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/sj.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/sj.svg"
+    },
     "languages": [
       {
         "code": "no",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "Arctic/Longyearbyen",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:46:02+01:00",
+    "current_time": "2025-03-10T12:39:26+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

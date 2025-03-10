@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 582650,
     "borders": [
@@ -14,6 +18,14 @@
     "name": "Kenya",
     "population": 55339003,
     "population_density": 94.98,
+    "flag": {
+      "emoji": "🇰🇪",
+      "emoji_unicode": "U+1F1F0 U+1F1EA",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ke.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ke.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ke.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ke.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -52,7 +64,7 @@
   "time_zone": {
     "id": "Africa/Nairobi",
     "abbreviation": "EAT",
-    "current_time": "2025-03-10T13:45:45+03:00",
+    "current_time": "2025-03-10T14:39:09+03:00",
     "name": "East Africa Time",
     "offset": 10800,
     "in_daylight_saving": false

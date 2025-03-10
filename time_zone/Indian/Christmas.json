@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 135,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Christmas Island",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": "🇨🇽",
+      "emoji_unicode": "U+1F1E8 U+1F1FD",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/cx.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/cx.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/cx.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/cx.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -51,7 +63,7 @@
   "time_zone": {
     "id": "Indian/Christmas",
     "abbreviation": "CXT",
-    "current_time": "2025-03-10T17:45:58+07:00",
+    "current_time": "2025-03-10T18:39:23+07:00",
     "name": "Christmas Island Time",
     "offset": 25200,
     "in_daylight_saving": false

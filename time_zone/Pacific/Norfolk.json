@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
   "country": {
     "area": 34,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Norfolk Island",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": "🇳🇫",
+      "emoji_unicode": "U+1F1F3 U+1F1EB",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/nf.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/nf.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/nf.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/nf.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "Pacific/Norfolk",
     "abbreviation": "NFT",
-    "current_time": "2025-03-10T22:46:00+12:00",
+    "current_time": "2025-03-10T23:39:25+12:00",
     "name": "Norfolk Island Standard Time",
     "offset": 43200,
     "in_daylight_saving": true

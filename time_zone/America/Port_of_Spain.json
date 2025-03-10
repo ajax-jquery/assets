@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 5128,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Trinidad and Tobago",
     "population": 1367510,
     "population_density": 266.68,
+    "flag": {
+      "emoji": "🇹🇹",
+      "emoji_unicode": "U+1F1F9 U+1F1F9",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/tt.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/tt.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/tt.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/tt.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -56,7 +68,7 @@
   "time_zone": {
     "id": "America/Port_of_Spain",
     "abbreviation": "AST",
-    "current_time": "2025-03-10T06:45:25-04:00",
+    "current_time": "2025-03-10T07:38:54-04:00",
     "name": "Atlantic Standard Time",
     "offset": -14400,
     "in_daylight_saving": false

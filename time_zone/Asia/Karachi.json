@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 803940,
     "borders": [
@@ -13,6 +17,14 @@
     "name": "Pakistan",
     "population": 247504495,
     "population_density": 307.86,
+    "flag": {
+      "emoji": "🇵🇰",
+      "emoji_unicode": "U+1F1F5 U+1F1F0",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/pk.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/pk.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/pk.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/pk.svg"
+    },
     "languages": [
       {
         "code": "ur",
@@ -66,7 +78,7 @@
   "time_zone": {
     "id": "Asia/Karachi",
     "abbreviation": "PKT",
-    "current_time": "2025-03-10T15:45:24+05:00",
+    "current_time": "2025-03-10T16:38:52+05:00",
     "name": "Pakistan Standard Time",
     "offset": 18000,
     "in_daylight_saving": false

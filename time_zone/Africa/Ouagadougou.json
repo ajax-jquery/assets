@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 274200,
     "borders": [
@@ -15,6 +19,14 @@
     "name": "Burkina Faso",
     "population": 23025776,
     "population_density": 83.97,
+    "flag": {
+      "emoji": "🇧🇫",
+      "emoji_unicode": "U+1F1E7 U+1F1EB",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/bf.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/bf.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/bf.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/bf.svg"
+    },
     "languages": [
       {
         "code": "fr",
@@ -48,7 +60,7 @@
   "time_zone": {
     "id": "Africa/Ouagadougou",
     "abbreviation": "GMT",
-    "current_time": "2025-03-10T10:45:47Z",
+    "current_time": "2025-03-10T11:39:11Z",
     "name": "Greenwich Mean Time",
     "offset": 0,
     "in_daylight_saving": false

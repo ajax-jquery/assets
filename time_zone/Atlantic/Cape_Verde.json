@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 4033,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Cabo Verde",
     "population": 522331,
     "population_density": 129.51,
+    "flag": {
+      "emoji": "🇨🇻",
+      "emoji_unicode": "U+1F1E8 U+1F1FB",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/cv.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/cv.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/cv.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/cv.svg"
+    },
     "languages": [
       {
         "code": "pt",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "Atlantic/Cape_Verde",
     "abbreviation": "CVT",
-    "current_time": "2025-03-10T09:45:47-01:00",
+    "current_time": "2025-03-10T10:39:12-01:00",
     "name": "Cape Verde Standard Time",
     "offset": -3600,
     "in_daylight_saving": false

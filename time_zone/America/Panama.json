@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 78200,
     "borders": [
@@ -11,6 +15,14 @@
     "name": "Panama",
     "population": 4458759,
     "population_density": 57.02,
+    "flag": {
+      "emoji": "🇵🇦",
+      "emoji_unicode": "U+1F1F5 U+1F1E6",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/pa.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/pa.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/pa.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/pa.svg"
+    },
     "languages": [
       {
         "code": "es",
@@ -49,7 +61,7 @@
   "time_zone": {
     "id": "America/Panama",
     "abbreviation": "EST",
-    "current_time": "2025-03-10T05:45:28-05:00",
+    "current_time": "2025-03-10T06:38:56-05:00",
     "name": "Eastern Standard Time",
     "offset": -18000,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 1267000,
     "borders": [
@@ -16,6 +20,14 @@
     "name": "Niger",
     "population": 26159867,
     "population_density": 20.65,
+    "flag": {
+      "emoji": "🇳🇪",
+      "emoji_unicode": "U+1F1F3 U+1F1EA",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ne.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ne.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ne.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ne.svg"
+    },
     "languages": [
       {
         "code": "fr",
@@ -59,7 +71,7 @@
   "time_zone": {
     "id": "Africa/Niamey",
     "abbreviation": "WAT",
-    "current_time": "2025-03-10T11:45:46+01:00",
+    "current_time": "2025-03-10T12:39:11+01:00",
     "name": "West Africa Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

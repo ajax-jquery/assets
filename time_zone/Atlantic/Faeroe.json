@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 1399,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Faroe Islands",
     "population": 54482,
     "population_density": 38.94,
+    "flag": {
+      "emoji": "🇫🇴",
+      "emoji_unicode": "U+1F1EB U+1F1F4",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/fo.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/fo.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/fo.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/fo.svg"
+    },
     "languages": [
       {
         "code": "fo",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "Atlantic/Faeroe",
     "abbreviation": "WET",
-    "current_time": "2025-03-10T10:45:58Z",
+    "current_time": "2025-03-10T11:39:23Z",
     "name": "Western European Standard Time",
     "offset": 0,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
   "country": {
     "area": 477,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Northern Mariana Islands",
     "population": 45143,
     "population_density": 94.64,
+    "flag": {
+      "emoji": "🇲🇵",
+      "emoji_unicode": "U+1F1F2 U+1F1F5",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/mp.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/mp.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/mp.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/mp.svg"
+    },
     "languages": [
       {
         "code": "tl",
@@ -56,7 +68,7 @@
   "time_zone": {
     "id": "Pacific/Saipan",
     "abbreviation": "ChST",
-    "current_time": "2025-03-10T20:45:22+10:00",
+    "current_time": "2025-03-10T21:38:51+10:00",
     "name": "Chamorro Standard Time",
     "offset": 36000,
     "in_daylight_saving": false

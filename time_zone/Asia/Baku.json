@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 86600,
     "borders": [
@@ -14,6 +18,14 @@
     "name": "Azerbaijan",
     "population": 10153958,
     "population_density": 117.25,
+    "flag": {
+      "emoji": "🇦🇿",
+      "emoji_unicode": "U+1F1E6 U+1F1FF",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/az.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/az.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/az.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/az.svg"
+    },
     "languages": [
       {
         "code": "az",
@@ -57,7 +69,7 @@
   "time_zone": {
     "id": "Asia/Baku",
     "abbreviation": "AZT",
-    "current_time": "2025-03-10T14:45:49+04:00",
+    "current_time": "2025-03-10T15:39:14+04:00",
     "name": "Azerbaijan Standard Time",
     "offset": 14400,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 131940,
     "borders": [
@@ -13,6 +17,14 @@
     "name": "Greece",
     "population": 10405588,
     "population_density": 78.87,
+    "flag": {
+      "emoji": "🇬🇷",
+      "emoji_unicode": "U+1F1EC U+1F1F7",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/gr.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/gr.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/gr.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/gr.svg"
+    },
     "languages": [
       {
         "code": "el",
@@ -56,7 +68,7 @@
   "time_zone": {
     "id": "Europe/Athens",
     "abbreviation": "EET",
-    "current_time": "2025-03-10T12:45:30+02:00",
+    "current_time": "2025-03-10T13:38:57+02:00",
     "name": "Eastern European Standard Time",
     "offset": 7200,
     "in_daylight_saving": false

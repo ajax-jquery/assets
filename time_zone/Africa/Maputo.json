@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 801590,
     "borders": [
@@ -15,6 +19,14 @@
     "name": "Mozambique",
     "population": 33635160,
     "population_density": 41.96,
+    "flag": {
+      "emoji": "🇲🇿",
+      "emoji_unicode": "U+1F1F2 U+1F1FF",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/mz.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/mz.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/mz.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/mz.svg"
+    },
     "languages": [
       {
         "code": "pt",
@@ -48,7 +60,7 @@
   "time_zone": {
     "id": "Africa/Maputo",
     "abbreviation": "CAT",
-    "current_time": "2025-03-10T12:45:43+02:00",
+    "current_time": "2025-03-10T13:39:08+02:00",
     "name": "Central Africa Time",
     "offset": 7200,
     "in_daylight_saving": false

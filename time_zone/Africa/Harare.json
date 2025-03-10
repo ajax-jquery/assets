@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 390580,
     "borders": [
@@ -13,6 +17,14 @@
     "name": "Zimbabwe",
     "population": 16340822,
     "population_density": 41.84,
+    "flag": {
+      "emoji": "🇿🇼",
+      "emoji_unicode": "U+1F1FF U+1F1FC",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/zw.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/zw.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/zw.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/zw.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -61,7 +73,7 @@
   "time_zone": {
     "id": "Africa/Harare",
     "abbreviation": "CAT",
-    "current_time": "2025-03-10T12:45:43+02:00",
+    "current_time": "2025-03-10T13:39:08+02:00",
     "name": "Central Africa Time",
     "offset": 7200,
     "in_daylight_saving": false

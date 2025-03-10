@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": null,
+    "name": null
+  },
   "country": {
     "area": 328,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Bonaire",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": "",
+      "emoji_unicode": "",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/bq.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/bq.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/bq.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/bq.svg"
+    },
     "languages": [
       {
         "code": "nl",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "America/Kralendijk",
     "abbreviation": "AST",
-    "current_time": "2025-03-10T06:45:53-04:00",
+    "current_time": "2025-03-10T07:39:18-04:00",
     "name": "Atlantic Standard Time",
     "offset": -14400,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 344,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Grenada",
     "population": 117081,
     "population_density": 340.35,
+    "flag": {
+      "emoji": "🇬🇩",
+      "emoji_unicode": "U+1F1EC U+1F1E9",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/gd.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/gd.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/gd.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/gd.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "America/Grenada",
     "abbreviation": "AST",
-    "current_time": "2025-03-10T06:45:38-04:00",
+    "current_time": "2025-03-10T07:39:05-04:00",
     "name": "Atlantic Standard Time",
     "offset": -14400,
     "in_daylight_saving": false

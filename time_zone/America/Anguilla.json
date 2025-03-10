@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 102,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Anguilla",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": "🇦🇮",
+      "emoji_unicode": "U+1F1E6 U+1F1EE",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ai.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ai.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ai.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ai.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "America/Anguilla",
     "abbreviation": "AST",
-    "current_time": "2025-03-10T06:45:57-04:00",
+    "current_time": "2025-03-10T07:39:22-04:00",
     "name": "Atlantic Standard Time",
     "offset": -14400,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "SA",
+    "name": "South America"
+  },
   "country": {
     "area": 91000,
     "borders": [
@@ -11,6 +15,14 @@
     "name": "French Guiana",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": "🇬🇫",
+      "emoji_unicode": "U+1F1EC U+1F1EB",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/gf.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/gf.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/gf.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/gf.svg"
+    },
     "languages": [
       {
         "code": "fr",
@@ -44,7 +56,7 @@
   "time_zone": {
     "id": "America/Cayenne",
     "abbreviation": "GFT",
-    "current_time": "2025-03-10T07:45:39-03:00",
+    "current_time": "2025-03-10T08:39:06-03:00",
     "name": "French Guiana Time",
     "offset": -10800,
     "in_daylight_saving": false

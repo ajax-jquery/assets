@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 88361,
     "borders": [
@@ -17,6 +21,14 @@
     "name": "Serbia",
     "population": 6623183,
     "population_density": 74.96,
+    "flag": {
+      "emoji": "🇷🇸",
+      "emoji_unicode": "U+1F1F7 U+1F1F8",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/rs.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/rs.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/rs.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/rs.svg"
+    },
     "languages": [
       {
         "code": "sr",
@@ -60,7 +72,7 @@
   "time_zone": {
     "id": "Europe/Belgrade",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:27+01:00",
+    "current_time": "2025-03-10T12:38:55+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

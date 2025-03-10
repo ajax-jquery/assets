@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
   "country": {
     "area": 7686850,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Australia",
     "population": 26658948,
     "population_density": 3.47,
+    "flag": {
+      "emoji": "🇦🇺",
+      "emoji_unicode": "U+1F1E6 U+1F1FA",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/au.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/au.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/au.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/au.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "Australia/Perth",
     "abbreviation": "AWST",
-    "current_time": "2025-03-10T18:45:24+08:00",
+    "current_time": "2025-03-10T19:38:52+08:00",
     "name": "Australian Western Standard Time",
     "offset": 28800,
     "in_daylight_saving": false

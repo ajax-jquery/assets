@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 70280,
     "borders": [
@@ -10,6 +14,14 @@
     "name": "Ireland",
     "population": 5307600,
     "population_density": 75.52,
+    "flag": {
+      "emoji": "🇮🇪",
+      "emoji_unicode": "U+1F1EE U+1F1EA",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ie.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ie.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ie.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ie.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -48,7 +60,7 @@
   "time_zone": {
     "id": "Europe/Dublin",
     "abbreviation": "GMT",
-    "current_time": "2025-03-10T10:45:16Z",
+    "current_time": "2025-03-10T11:38:45Z",
     "name": "Greenwich Mean Time",
     "offset": 0,
     "in_daylight_saving": false

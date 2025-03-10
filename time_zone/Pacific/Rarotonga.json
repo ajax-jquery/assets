@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
   "country": {
     "area": 240,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Cook Islands",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": "🇨🇰",
+      "emoji_unicode": "U+1F1E8 U+1F1F0",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ck.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ck.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ck.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ck.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "Pacific/Rarotonga",
     "abbreviation": "CKT",
-    "current_time": "2025-03-10T00:45:58-10:00",
+    "current_time": "2025-03-10T01:39:23-10:00",
     "name": "Cook Islands Standard Time",
     "offset": -36000,
     "in_daylight_saving": false

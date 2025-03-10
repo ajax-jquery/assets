@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 51129,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "Bosnia and Herzegovina",
     "population": 3185073,
     "population_density": 62.29,
+    "flag": {
+      "emoji": "🇧🇦",
+      "emoji_unicode": "U+1F1E7 U+1F1E6",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ba.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ba.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ba.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ba.svg"
+    },
     "languages": [
       {
         "code": "bs",
@@ -55,7 +67,7 @@
   "time_zone": {
     "id": "Europe/Sarajevo",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:49+01:00",
+    "current_time": "2025-03-10T12:39:14+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
   "country": {
     "area": 10,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Tokelau",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": "🇹🇰",
+      "emoji_unicode": "U+1F1F9 U+1F1F0",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/tk.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/tk.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/tk.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/tk.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "Pacific/Fakaofo",
     "abbreviation": "TKT",
-    "current_time": "2025-03-10T23:45:56+13:00",
+    "current_time": "2025-03-11T00:39:21+13:00",
     "name": "Tokelau Time",
     "offset": 46800,
     "in_daylight_saving": false

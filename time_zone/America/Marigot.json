@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 53,
     "borders": [
@@ -10,6 +14,14 @@
     "name": "France",
     "population": 27515,
     "population_density": 519.15,
+    "flag": {
+      "emoji": "🇲🇫",
+      "emoji_unicode": "U+1F1F2 U+1F1EB",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/mf.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/mf.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/mf.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/mf.svg"
+    },
     "languages": [
       {
         "code": "fr",
@@ -43,7 +55,7 @@
   "time_zone": {
     "id": "America/Marigot",
     "abbreviation": "AST",
-    "current_time": "2025-03-10T06:46:01-04:00",
+    "current_time": "2025-03-10T07:39:26-04:00",
     "name": "Atlantic Standard Time",
     "offset": -14400,
     "in_daylight_saving": false

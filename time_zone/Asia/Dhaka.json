@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 144000,
     "borders": [
@@ -11,6 +15,14 @@
     "name": "Bangladesh",
     "population": 171466990,
     "population_density": 1190.74,
+    "flag": {
+      "emoji": "🇧🇩",
+      "emoji_unicode": "U+1F1E7 U+1F1E9",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/bd.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/bd.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/bd.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/bd.svg"
+    },
     "languages": [
       {
         "code": "bn",
@@ -49,7 +61,7 @@
   "time_zone": {
     "id": "Asia/Dhaka",
     "abbreviation": "BDT",
-    "current_time": "2025-03-10T16:45:24+06:00",
+    "current_time": "2025-03-10T17:38:52+06:00",
     "name": "Bangladesh Standard Time",
     "offset": 21600,
     "in_daylight_saving": false

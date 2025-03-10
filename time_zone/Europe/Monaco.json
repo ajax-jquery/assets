@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 1,
     "borders": [
@@ -10,6 +14,14 @@
     "name": "Monaco",
     "population": 38956,
     "population_density": 38956,
+    "flag": {
+      "emoji": "🇲🇨",
+      "emoji_unicode": "U+1F1F2 U+1F1E8",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/mc.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/mc.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/mc.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/mc.svg"
+    },
     "languages": [
       {
         "code": "fr",
@@ -53,7 +65,7 @@
   "time_zone": {
     "id": "Europe/Monaco",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:40+01:00",
+    "current_time": "2025-03-10T12:39:06+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

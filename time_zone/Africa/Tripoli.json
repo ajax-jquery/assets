@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 1759540,
     "borders": [
@@ -15,6 +19,14 @@
     "name": "Libya",
     "population": 7305659,
     "population_density": 4.15,
+    "flag": {
+      "emoji": "🇱🇾",
+      "emoji_unicode": "U+1F1F1 U+1F1FE",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ly.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ly.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ly.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ly.svg"
+    },
     "languages": [
       {
         "code": "ar",
@@ -58,7 +70,7 @@
   "time_zone": {
     "id": "Africa/Tripoli",
     "abbreviation": "EET",
-    "current_time": "2025-03-10T12:45:30+02:00",
+    "current_time": "2025-03-10T13:38:57+02:00",
     "name": "Eastern European Standard Time",
     "offset": 7200,
     "in_daylight_saving": false

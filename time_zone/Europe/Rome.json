@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 0,
     "borders": [
@@ -10,6 +14,14 @@
     "name": "Holy See",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": "🇻🇦",
+      "emoji_unicode": "U+1F1FB U+1F1E6",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/va.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/va.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/va.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/va.svg"
+    },
     "languages": [
       {
         "code": "la",
@@ -53,7 +65,7 @@
   "time_zone": {
     "id": "Europe/Rome",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:46:03+01:00",
+    "current_time": "2025-03-10T12:39:28+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

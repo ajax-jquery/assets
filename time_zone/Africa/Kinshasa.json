@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 2345410,
     "borders": [
@@ -18,6 +22,14 @@
     "name": "Congo",
     "population": 105789731,
     "population_density": 45.11,
+    "flag": {
+      "emoji": "🇨🇩",
+      "emoji_unicode": "U+1F1E8 U+1F1E9",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/cd.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/cd.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/cd.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/cd.svg"
+    },
     "languages": [
       {
         "code": "fr",
@@ -66,7 +78,7 @@
   "time_zone": {
     "id": "Africa/Kinshasa",
     "abbreviation": "WAT",
-    "current_time": "2025-03-10T11:46:04+01:00",
+    "current_time": "2025-03-10T12:39:29+01:00",
     "name": "West Africa Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

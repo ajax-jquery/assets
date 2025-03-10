@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 9984670,
     "borders": [
@@ -10,6 +14,14 @@
     "name": "Canada",
     "population": 40097761,
     "population_density": 4.02,
+    "flag": {
+      "emoji": "🇨🇦",
+      "emoji_unicode": "U+1F1E8 U+1F1E6",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ca.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ca.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ca.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ca.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -53,7 +65,7 @@
   "time_zone": {
     "id": "America/Edmonton",
     "abbreviation": "MST",
-    "current_time": "2025-03-10T04:45:18-06:00",
+    "current_time": "2025-03-10T05:38:47-06:00",
     "name": "Mountain Standard Time",
     "offset": -21600,
     "in_daylight_saving": true

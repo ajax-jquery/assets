@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
   "country": {
     "area": 811,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Kiribati",
     "population": 132530,
     "population_density": 163.42,
+    "flag": {
+      "emoji": "🇰🇮",
+      "emoji_unicode": "U+1F1F0 U+1F1EE",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ki.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ki.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ki.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ki.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "Pacific/Tarawa",
     "abbreviation": "GILT",
-    "current_time": "2025-03-10T22:45:35+12:00",
+    "current_time": "2025-03-10T23:39:02+12:00",
     "name": "Gilbert Islands Time",
     "offset": 43200,
     "in_daylight_saving": false

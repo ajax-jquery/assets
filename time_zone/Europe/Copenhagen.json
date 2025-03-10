@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 43094,
     "borders": [
@@ -10,6 +14,14 @@
     "name": "Denmark",
     "population": 5946952,
     "population_density": 138,
+    "flag": {
+      "emoji": "🇩🇰",
+      "emoji_unicode": "U+1F1E9 U+1F1F0",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/dk.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/dk.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/dk.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/dk.svg"
+    },
     "languages": [
       {
         "code": "da",
@@ -58,7 +70,7 @@
   "time_zone": {
     "id": "Europe/Copenhagen",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:26+01:00",
+    "current_time": "2025-03-10T12:38:54+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 504782,
     "borders": [
@@ -14,6 +18,14 @@
     "name": "Spain",
     "population": 48347910,
     "population_density": 95.78,
+    "flag": {
+      "emoji": "🇪🇸",
+      "emoji_unicode": "U+1F1EA U+1F1F8",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/es.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/es.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/es.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/es.svg"
+    },
     "languages": [
       {
         "code": "es",
@@ -67,7 +79,7 @@
   "time_zone": {
     "id": "Europe/Madrid",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:51+01:00",
+    "current_time": "2025-03-10T12:39:15+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

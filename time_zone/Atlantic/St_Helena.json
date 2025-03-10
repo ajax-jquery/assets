@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 410,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Saint Helena",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": "🇸🇭",
+      "emoji_unicode": "U+1F1F8 U+1F1ED",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/sh.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/sh.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/sh.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/sh.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "Atlantic/St_Helena",
     "abbreviation": "GMT",
-    "current_time": "2025-03-10T10:46:01Z",
+    "current_time": "2025-03-10T11:39:25Z",
     "name": "Greenwich Mean Time",
     "offset": 0,
     "in_daylight_saving": false

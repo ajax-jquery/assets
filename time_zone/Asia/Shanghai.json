@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 9596960,
     "borders": [
@@ -25,6 +29,14 @@
     "name": "China",
     "population": 1410710000,
     "population_density": 147,
+    "flag": {
+      "emoji": "🇨🇳",
+      "emoji_unicode": "U+1F1E8 U+1F1F3",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/cn.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/cn.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/cn.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/cn.svg"
+    },
     "languages": [
       {
         "code": "zh",
@@ -68,7 +80,7 @@
   "time_zone": {
     "id": "Asia/Shanghai",
     "abbreviation": "CST",
-    "current_time": "2025-03-10T18:45:14+08:00",
+    "current_time": "2025-03-10T19:38:43+08:00",
     "name": "China Standard Time",
     "offset": 28800,
     "in_daylight_saving": false

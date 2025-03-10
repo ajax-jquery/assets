@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 236800,
     "borders": [
@@ -14,6 +18,14 @@
     "name": "Lao People's Democratic Republic",
     "population": 7664993,
     "population_density": 32.37,
+    "flag": {
+      "emoji": "🇱🇦",
+      "emoji_unicode": "U+1F1F1 U+1F1E6",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/la.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/la.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/la.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/la.svg"
+    },
     "languages": [
       {
         "code": "lo",
@@ -57,7 +69,7 @@
   "time_zone": {
     "id": "Asia/Vientiane",
     "abbreviation": "ICT",
-    "current_time": "2025-03-10T17:45:35+07:00",
+    "current_time": "2025-03-10T18:39:02+07:00",
     "name": "Indochina Time",
     "offset": 25200,
     "in_daylight_saving": false

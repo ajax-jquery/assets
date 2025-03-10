@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 5770,
     "borders": [
@@ -10,6 +14,14 @@
     "name": "Brunei Darussalam",
     "population": 458949,
     "population_density": 79.54,
+    "flag": {
+      "emoji": "🇧🇳",
+      "emoji_unicode": "U+1F1E7 U+1F1F3",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/bn.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/bn.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/bn.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/bn.svg"
+    },
     "languages": [
       {
         "code": "ms",
@@ -48,7 +60,7 @@
   "time_zone": {
     "id": "Asia/Brunei",
     "abbreviation": "BNT",
-    "current_time": "2025-03-10T18:45:36+08:00",
+    "current_time": "2025-03-10T19:39:03+08:00",
     "name": "Brunei Darussalam Time",
     "offset": 28800,
     "in_daylight_saving": false

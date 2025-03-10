@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 389,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Saint Vincent and the Grenadines",
     "population": 101323,
     "population_density": 260.47,
+    "flag": {
+      "emoji": "🇻🇨",
+      "emoji_unicode": "U+1F1FB U+1F1E8",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/vc.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/vc.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/vc.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/vc.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "America/St_Vincent",
     "abbreviation": "AST",
-    "current_time": "2025-03-10T06:45:38-04:00",
+    "current_time": "2025-03-10T07:39:05-04:00",
     "name": "Atlantic Standard Time",
     "offset": -14400,
     "in_daylight_saving": false

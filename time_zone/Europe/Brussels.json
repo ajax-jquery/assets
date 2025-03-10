@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 30510,
     "borders": [
@@ -13,6 +17,14 @@
     "name": "Belgium",
     "population": 11787423,
     "population_density": 386.35,
+    "flag": {
+      "emoji": "🇧🇪",
+      "emoji_unicode": "U+1F1E7 U+1F1EA",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/be.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/be.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/be.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/be.svg"
+    },
     "languages": [
       {
         "code": "nl",
@@ -56,7 +68,7 @@
   "time_zone": {
     "id": "Europe/Brussels",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:21+01:00",
+    "current_time": "2025-03-10T12:38:50+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

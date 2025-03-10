@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 678500,
     "borders": [
@@ -14,6 +18,14 @@
     "name": "Myanmar",
     "population": 54133798,
     "population_density": 79.78,
+    "flag": {
+      "emoji": "🇲🇲",
+      "emoji_unicode": "U+1F1F2 U+1F1F2",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/mm.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/mm.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/mm.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/mm.svg"
+    },
     "languages": [
       {
         "code": "my",
@@ -47,7 +59,7 @@
   "time_zone": {
     "id": "Asia/Yangon",
     "abbreviation": "MMT",
-    "current_time": "2025-03-10T17:15:35+06:30",
+    "current_time": "2025-03-10T18:09:02+06:30",
     "name": "Myanmar Time",
     "offset": 23400,
     "in_daylight_saving": false

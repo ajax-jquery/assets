@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AN",
+    "name": "Antarctica"
+  },
   "country": {
     "area": 0,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Heard Island and McDonald Islands",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": null,
+      "emoji_unicode": null,
+      "emojitwo": null,
+      "noto": null,
+      "twemoji": null,
+      "wikimedia": null
+    },
     "languages": [],
     "tld": null
   },
@@ -35,7 +47,7 @@
   "time_zone": {
     "id": "GMT-5",
     "abbreviation": "GMT-05:00",
-    "current_time": "2025-03-10T05:45:59-05:00",
+    "current_time": "2025-03-10T06:39:24-05:00",
     "name": "GMT-05:00",
     "offset": -18000,
     "in_daylight_saving": false

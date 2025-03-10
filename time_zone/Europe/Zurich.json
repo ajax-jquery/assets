@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 41290,
     "borders": [
@@ -14,6 +18,14 @@
     "name": "Switzerland",
     "population": 8888093,
     "population_density": 215.26,
+    "flag": {
+      "emoji": "🇨🇭",
+      "emoji_unicode": "U+1F1E8 U+1F1ED",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ch.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ch.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ch.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ch.svg"
+    },
     "languages": [
       {
         "code": "de",
@@ -62,7 +74,7 @@
   "time_zone": {
     "id": "Europe/Zurich",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:18+01:00",
+    "current_time": "2025-03-10T12:38:47+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

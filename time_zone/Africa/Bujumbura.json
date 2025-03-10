@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 27830,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "Burundi",
     "population": 13689450,
     "population_density": 491.9,
+    "flag": {
+      "emoji": "🇧🇮",
+      "emoji_unicode": "U+1F1E7 U+1F1EE",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/bi.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/bi.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/bi.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/bi.svg"
+    },
     "languages": [
       {
         "code": "fr",
@@ -50,7 +62,7 @@
   "time_zone": {
     "id": "Africa/Bujumbura",
     "abbreviation": "CAT",
-    "current_time": "2025-03-10T12:45:45+02:00",
+    "current_time": "2025-03-10T13:39:10+02:00",
     "name": "Central Africa Time",
     "offset": 7200,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 468,
     "borders": [
@@ -11,6 +15,14 @@
     "name": "Andorra",
     "population": 80856,
     "population_density": 172.77,
+    "flag": {
+      "emoji": "🇦🇩",
+      "emoji_unicode": "U+1F1E6 U+1F1E9",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ad.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ad.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ad.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ad.svg"
+    },
     "languages": [
       {
         "code": "ca",
@@ -44,7 +56,7 @@
   "time_zone": {
     "id": "Europe/Andorra",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:39+01:00",
+    "current_time": "2025-03-10T12:39:06+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

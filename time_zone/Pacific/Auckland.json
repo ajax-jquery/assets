@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
   "country": {
     "area": 268680,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "New Zealand",
     "population": 5223100,
     "population_density": 19.44,
+    "flag": {
+      "emoji": "🇳🇿",
+      "emoji_unicode": "U+1F1F3 U+1F1FF",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/nz.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/nz.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/nz.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/nz.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "Pacific/Auckland",
     "abbreviation": "NZST",
-    "current_time": "2025-03-10T23:45:16+13:00",
+    "current_time": "2025-03-11T00:38:45+13:00",
     "name": "New Zealand Standard Time",
     "offset": 46800,
     "in_daylight_saving": true

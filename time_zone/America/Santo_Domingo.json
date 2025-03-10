@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 48730,
     "borders": [
@@ -10,6 +14,14 @@
     "name": "Dominican Republic",
     "population": 11331265,
     "population_density": 232.53,
+    "flag": {
+      "emoji": "🇩🇴",
+      "emoji_unicode": "U+1F1E9 U+1F1F4",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/do.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/do.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/do.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/do.svg"
+    },
     "languages": [
       {
         "code": "es",
@@ -43,7 +55,7 @@
   "time_zone": {
     "id": "America/Santo_Domingo",
     "abbreviation": "AST",
-    "current_time": "2025-03-10T06:45:31-04:00",
+    "current_time": "2025-03-10T07:38:58-04:00",
     "name": "Atlantic Standard Time",
     "offset": -14400,
     "in_daylight_saving": false

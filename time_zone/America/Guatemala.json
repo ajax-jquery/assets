@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 108890,
     "borders": [
@@ -13,6 +17,14 @@
     "name": "Guatemala",
     "population": 18124838,
     "population_density": 166.45,
+    "flag": {
+      "emoji": "🇬🇹",
+      "emoji_unicode": "U+1F1EC U+1F1F9",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/gt.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/gt.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/gt.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/gt.svg"
+    },
     "languages": [
       {
         "code": "es",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "America/Guatemala",
     "abbreviation": "CST",
-    "current_time": "2025-03-10T04:45:36-06:00",
+    "current_time": "2025-03-10T05:39:03-06:00",
     "name": "Central Standard Time",
     "offset": -21600,
     "in_daylight_saving": false

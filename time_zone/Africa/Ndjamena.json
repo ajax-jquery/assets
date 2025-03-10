@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 1284000,
     "borders": [
@@ -15,6 +19,14 @@
     "name": "Chad",
     "population": 19319064,
     "population_density": 15.05,
+    "flag": {
+      "emoji": "🇹🇩",
+      "emoji_unicode": "U+1F1F9 U+1F1E9",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/td.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/td.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/td.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/td.svg"
+    },
     "languages": [
       {
         "code": "fr",
@@ -53,7 +65,7 @@
   "time_zone": {
     "id": "Africa/Ndjamena",
     "abbreviation": "WAT",
-    "current_time": "2025-03-10T11:45:42+01:00",
+    "current_time": "2025-03-10T12:39:07+01:00",
     "name": "West Africa Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

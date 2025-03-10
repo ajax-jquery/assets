@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
   "country": {
     "area": 21,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Nauru",
     "population": 11875,
     "population_density": 565.48,
+    "flag": {
+      "emoji": "🇳🇷",
+      "emoji_unicode": "U+1F1F3 U+1F1F7",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/nr.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/nr.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/nr.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/nr.svg"
+    },
     "languages": [
       {
         "code": "na",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "Pacific/Majuro",
     "abbreviation": "MHT",
-    "current_time": "2025-03-10T22:45:35+12:00",
+    "current_time": "2025-03-10T23:39:02+12:00",
     "name": "Marshall Islands Time",
     "offset": 43200,
     "in_daylight_saving": false

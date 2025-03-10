@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
   "country": {
     "area": 12200,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Vanuatu",
     "population": 320409,
     "population_density": 26.26,
+    "flag": {
+      "emoji": "🇻🇺",
+      "emoji_unicode": "U+1F1FB U+1F1FA",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/vu.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/vu.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/vu.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/vu.svg"
+    },
     "languages": [
       {
         "code": "bi",
@@ -51,7 +63,7 @@
   "time_zone": {
     "id": "Pacific/Efate",
     "abbreviation": "VUT",
-    "current_time": "2025-03-10T21:45:23+11:00",
+    "current_time": "2025-03-10T22:38:51+11:00",
     "name": "Vanuatu Standard Time",
     "offset": 39600,
     "in_daylight_saving": false

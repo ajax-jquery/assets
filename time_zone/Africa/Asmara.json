@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 121320,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "Eritrea",
     "population": 3470390,
     "population_density": 28.61,
+    "flag": {
+      "emoji": "🇪🇷",
+      "emoji_unicode": "U+1F1EA U+1F1F7",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/er.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/er.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/er.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/er.svg"
+    },
     "languages": [
       {
         "code": "aa",
@@ -55,7 +67,7 @@
   "time_zone": {
     "id": "Africa/Asmara",
     "abbreviation": "EAT",
-    "current_time": "2025-03-10T13:45:45+03:00",
+    "current_time": "2025-03-10T14:39:10+03:00",
     "name": "East Africa Time",
     "offset": 10800,
     "in_daylight_saving": false

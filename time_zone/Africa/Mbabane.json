@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 17363,
     "borders": [
@@ -11,6 +15,14 @@
     "name": "Eswatini",
     "population": 1230506,
     "population_density": 70.87,
+    "flag": {
+      "emoji": "🇸🇿",
+      "emoji_unicode": "U+1F1F8 U+1F1FF",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/sz.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/sz.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/sz.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/sz.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -49,7 +61,7 @@
   "time_zone": {
     "id": "Africa/Mbabane",
     "abbreviation": "SAST",
-    "current_time": "2025-03-10T12:45:43+02:00",
+    "current_time": "2025-03-10T13:39:08+02:00",
     "name": "South Africa Standard Time",
     "offset": 7200,
     "in_daylight_saving": false

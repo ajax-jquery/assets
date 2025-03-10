@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 437072,
     "borders": [
@@ -15,6 +19,14 @@
     "name": "Iraq",
     "population": 45074049,
     "population_density": 103.13,
+    "flag": {
+      "emoji": "🇮🇶",
+      "emoji_unicode": "U+1F1EE U+1F1F6",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/iq.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/iq.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/iq.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/iq.svg"
+    },
     "languages": [
       {
         "code": "ar",
@@ -58,7 +70,7 @@
   "time_zone": {
     "id": "Asia/Baghdad",
     "abbreviation": "AST",
-    "current_time": "2025-03-10T13:45:20+03:00",
+    "current_time": "2025-03-10T14:38:49+03:00",
     "name": "Arabian Standard Time",
     "offset": 10800,
     "in_daylight_saving": false

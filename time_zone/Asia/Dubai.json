@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 82880,
     "borders": [
@@ -11,6 +15,14 @@
     "name": "United Arab Emirates",
     "population": 10483751,
     "population_density": 126.49,
+    "flag": {
+      "emoji": "🇦🇪",
+      "emoji_unicode": "U+1F1E6 U+1F1EA",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ae.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ae.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ae.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ae.svg"
+    },
     "languages": [
       {
         "code": "ar",
@@ -64,7 +76,7 @@
   "time_zone": {
     "id": "Asia/Dubai",
     "abbreviation": "GST",
-    "current_time": "2025-03-10T14:45:16+04:00",
+    "current_time": "2025-03-10T15:38:45+04:00",
     "name": "Gulf Standard Time",
     "offset": 14400,
     "in_daylight_saving": false

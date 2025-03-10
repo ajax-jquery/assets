@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 923768,
     "borders": [
@@ -13,6 +17,14 @@
     "name": "Nigeria",
     "population": 227882945,
     "population_density": 246.69,
+    "flag": {
+      "emoji": "🇳🇬",
+      "emoji_unicode": "U+1F1F3 U+1F1EC",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ng.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ng.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ng.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ng.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -66,7 +78,7 @@
   "time_zone": {
     "id": "Africa/Lagos",
     "abbreviation": "WAT",
-    "current_time": "2025-03-10T11:45:46+01:00",
+    "current_time": "2025-03-10T12:39:10+01:00",
     "name": "West Africa Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

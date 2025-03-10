@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 153,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Virgin Islands (British)",
     "population": 38985,
     "population_density": 254.8,
+    "flag": {
+      "emoji": "🇻🇬",
+      "emoji_unicode": "U+1F1FB U+1F1EC",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/vg.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/vg.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/vg.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/vg.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "America/Tortola",
     "abbreviation": "AST",
-    "current_time": "2025-03-10T06:45:56-04:00",
+    "current_time": "2025-03-10T07:39:21-04:00",
     "name": "Atlantic Standard Time",
     "offset": -14400,
     "in_daylight_saving": false

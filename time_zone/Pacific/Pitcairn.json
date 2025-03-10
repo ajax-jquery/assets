@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
   "country": {
     "area": 47,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Pitcairn",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": "🇵🇳",
+      "emoji_unicode": "U+1F1F5 U+1F1F3",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/pn.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/pn.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/pn.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/pn.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "Pacific/Pitcairn",
     "abbreviation": "PST",
-    "current_time": "2025-03-10T02:46:00-08:00",
+    "current_time": "2025-03-10T03:39:25-08:00",
     "name": "Pitcairn Time",
     "offset": -28800,
     "in_daylight_saving": false

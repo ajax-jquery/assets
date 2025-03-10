@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 1001,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Sao Tome and Principe",
     "population": 230871,
     "population_density": 230.64,
+    "flag": {
+      "emoji": "🇸🇹",
+      "emoji_unicode": "U+1F1F8 U+1F1F9",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/st.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/st.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/st.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/st.svg"
+    },
     "languages": [
       {
         "code": "pt",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "Africa/Sao_Tome",
     "abbreviation": "GMT",
-    "current_time": "2025-03-10T10:45:43Z",
+    "current_time": "2025-03-10T11:39:07Z",
     "name": "Greenwich Mean Time",
     "offset": 0,
     "in_daylight_saving": false

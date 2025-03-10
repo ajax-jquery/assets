@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "SA",
+    "name": "South America"
+  },
   "country": {
     "area": 406750,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "Paraguay",
     "population": 6844146,
     "population_density": 16.83,
+    "flag": {
+      "emoji": "🇵🇾",
+      "emoji_unicode": "U+1F1F5 U+1F1FE",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/py.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/py.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/py.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/py.svg"
+    },
     "languages": [
       {
         "code": "es",
@@ -50,7 +62,7 @@
   "time_zone": {
     "id": "America/Asuncion",
     "abbreviation": "PYT",
-    "current_time": "2025-03-10T07:45:38-03:00",
+    "current_time": "2025-03-10T08:39:05-03:00",
     "name": "Paraguay Standard Time",
     "offset": -10800,
     "in_daylight_saving": true

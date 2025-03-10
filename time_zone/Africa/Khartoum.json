@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 1861484,
     "borders": [
@@ -16,6 +20,14 @@
     "name": "Sudan",
     "population": 50042791,
     "population_density": 26.88,
+    "flag": {
+      "emoji": "🇸🇩",
+      "emoji_unicode": "U+1F1F8 U+1F1E9",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/sd.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/sd.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/sd.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/sd.svg"
+    },
     "languages": [
       {
         "code": "ar",
@@ -54,7 +66,7 @@
   "time_zone": {
     "id": "Africa/Khartoum",
     "abbreviation": "CAT",
-    "current_time": "2025-03-10T12:45:57+02:00",
+    "current_time": "2025-03-10T13:39:21+02:00",
     "name": "Central Africa Time",
     "offset": 7200,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 69700,
     "borders": [
@@ -13,6 +17,14 @@
     "name": "Georgia",
     "population": 3715483,
     "population_density": 53.31,
+    "flag": {
+      "emoji": "🇬🇪",
+      "emoji_unicode": "U+1F1EC U+1F1EA",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ge.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ge.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ge.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ge.svg"
+    },
     "languages": [
       {
         "code": "ka",
@@ -61,7 +73,7 @@
   "time_zone": {
     "id": "Asia/Tbilisi",
     "abbreviation": "GET",
-    "current_time": "2025-03-10T14:45:31+04:00",
+    "current_time": "2025-03-10T15:38:58+04:00",
     "name": "Georgia Standard Time",
     "offset": 14400,
     "in_daylight_saving": false

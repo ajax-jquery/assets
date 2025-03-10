@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 752614,
     "borders": [
@@ -17,6 +21,14 @@
     "name": "Zambia",
     "population": 20723965,
     "population_density": 27.54,
+    "flag": {
+      "emoji": "🇿🇲",
+      "emoji_unicode": "U+1F1FF U+1F1F2",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/zm.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/zm.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/zm.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/zm.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -55,7 +67,7 @@
   "time_zone": {
     "id": "Africa/Lusaka",
     "abbreviation": "CAT",
-    "current_time": "2025-03-10T12:45:42+02:00",
+    "current_time": "2025-03-10T13:39:07+02:00",
     "name": "Central Africa Time",
     "offset": 7200,
     "in_daylight_saving": false

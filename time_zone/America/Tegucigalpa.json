@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 112090,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "Honduras",
     "population": 10644851,
     "population_density": 94.97,
+    "flag": {
+      "emoji": "🇭🇳",
+      "emoji_unicode": "U+1F1ED U+1F1F3",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/hn.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/hn.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/hn.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/hn.svg"
+    },
     "languages": [
       {
         "code": "es",
@@ -45,7 +57,7 @@
   "time_zone": {
     "id": "America/Tegucigalpa",
     "abbreviation": "CST",
-    "current_time": "2025-03-10T04:45:32-06:00",
+    "current_time": "2025-03-10T05:38:59-06:00",
     "name": "Central Standard Time",
     "offset": -21600,
     "in_daylight_saving": false

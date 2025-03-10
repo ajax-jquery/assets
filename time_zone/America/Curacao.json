@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": null,
+    "name": null
+  },
   "country": {
     "area": 444,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Curaçao",
     "population": 147862,
     "population_density": 333.02,
+    "flag": {
+      "emoji": "🇨🇼",
+      "emoji_unicode": "U+1F1E8 U+1F1FC",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/cw.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/cw.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/cw.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/cw.svg"
+    },
     "languages": [
       {
         "code": "nl",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "America/Curacao",
     "abbreviation": "AST",
-    "current_time": "2025-03-10T06:45:54-04:00",
+    "current_time": "2025-03-10T07:39:18-04:00",
     "name": "Atlantic Standard Time",
     "offset": -14400,
     "in_daylight_saving": false

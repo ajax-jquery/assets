@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 33843,
     "borders": [
@@ -11,6 +15,14 @@
     "name": "Moldova",
     "population": 2457783,
     "population_density": 72.62,
+    "flag": {
+      "emoji": "🇲🇩",
+      "emoji_unicode": "U+1F1F2 U+1F1E9",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/md.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/md.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/md.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/md.svg"
+    },
     "languages": [
       {
         "code": "ro",
@@ -54,7 +66,7 @@
   "time_zone": {
     "id": "Europe/Chisinau",
     "abbreviation": "EET",
-    "current_time": "2025-03-10T12:45:49+02:00",
+    "current_time": "2025-03-10T13:39:14+02:00",
     "name": "Eastern European Standard Time",
     "offset": 7200,
     "in_daylight_saving": false

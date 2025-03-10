@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 196190,
     "borders": [
@@ -14,6 +18,14 @@
     "name": "Senegal",
     "population": 18077573,
     "population_density": 92.14,
+    "flag": {
+      "emoji": "🇸🇳",
+      "emoji_unicode": "U+1F1F8 U+1F1F3",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/sn.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/sn.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/sn.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/sn.svg"
+    },
     "languages": [
       {
         "code": "fr",
@@ -52,7 +64,7 @@
   "time_zone": {
     "id": "Africa/Dakar",
     "abbreviation": "GMT",
-    "current_time": "2025-03-10T10:45:46Z",
+    "current_time": "2025-03-10T11:39:11Z",
     "name": "Greenwich Mean Time",
     "offset": 0,
     "in_daylight_saving": false

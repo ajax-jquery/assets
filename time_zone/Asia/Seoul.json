@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 98480,
     "borders": [
@@ -10,6 +14,14 @@
     "name": "South Korea",
     "population": 51712619,
     "population_density": 525.11,
+    "flag": {
+      "emoji": "🇰🇷",
+      "emoji_unicode": "U+1F1F0 U+1F1F7",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/kr.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/kr.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/kr.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/kr.svg"
+    },
     "languages": [
       {
         "code": "ko",
@@ -48,7 +60,7 @@
   "time_zone": {
     "id": "Asia/Seoul",
     "abbreviation": "KST",
-    "current_time": "2025-03-10T19:45:22+09:00",
+    "current_time": "2025-03-10T20:38:50+09:00",
     "name": "Korean Standard Time",
     "offset": 32400,
     "in_daylight_saving": false

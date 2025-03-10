@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "SA",
+    "name": "South America"
+  },
   "country": {
     "area": 8511965,
     "borders": [
@@ -19,6 +23,14 @@
     "name": "Brazil",
     "population": 211140729,
     "population_density": 24.81,
+    "flag": {
+      "emoji": "🇧🇷",
+      "emoji_unicode": "U+1F1E7 U+1F1F7",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/br.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/br.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/br.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/br.svg"
+    },
     "languages": [
       {
         "code": "pt",
@@ -67,7 +79,7 @@
   "time_zone": {
     "id": "America/Maceio",
     "abbreviation": "BRT",
-    "current_time": "2025-03-10T07:45:52-03:00",
+    "current_time": "2025-03-10T08:39:17-03:00",
     "name": "Brasilia Standard Time",
     "offset": -10800,
     "in_daylight_saving": false

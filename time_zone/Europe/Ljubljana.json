@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 20273,
     "borders": [
@@ -13,6 +17,14 @@
     "name": "Slovenia",
     "population": 2120461,
     "population_density": 104.6,
+    "flag": {
+      "emoji": "🇸🇮",
+      "emoji_unicode": "U+1F1F8 U+1F1EE",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/si.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/si.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/si.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/si.svg"
+    },
     "languages": [
       {
         "code": "sl",
@@ -51,7 +63,7 @@
   "time_zone": {
     "id": "Europe/Ljubljana",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:33+01:00",
+    "current_time": "2025-03-10T12:39:00+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

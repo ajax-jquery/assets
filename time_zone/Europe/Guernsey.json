@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 78,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Guernsey",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": "🇬🇬",
+      "emoji_unicode": "U+1F1EC U+1F1EC",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/gg.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/gg.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/gg.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/gg.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "Europe/Guernsey",
     "abbreviation": "GMT",
-    "current_time": "2025-03-10T10:45:59Z",
+    "current_time": "2025-03-10T11:39:24Z",
     "name": "Greenwich Mean Time",
     "offset": 0,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 51100,
     "borders": [
@@ -11,6 +15,14 @@
     "name": "Costa Rica",
     "population": 5105525,
     "population_density": 99.91,
+    "flag": {
+      "emoji": "🇨🇷",
+      "emoji_unicode": "U+1F1E8 U+1F1F7",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/cr.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/cr.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/cr.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/cr.svg"
+    },
     "languages": [
       {
         "code": "es",
@@ -49,7 +61,7 @@
   "time_zone": {
     "id": "America/Costa_Rica",
     "abbreviation": "CST",
-    "current_time": "2025-03-10T04:45:26-06:00",
+    "current_time": "2025-03-10T05:38:54-06:00",
     "name": "Central Standard Time",
     "offset": -21600,
     "in_daylight_saving": false

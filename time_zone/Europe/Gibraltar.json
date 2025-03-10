@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 6,
     "borders": [
@@ -10,6 +14,14 @@
     "name": "Gibraltar",
     "population": 38471,
     "population_density": 6411.83,
+    "flag": {
+      "emoji": "🇬🇮",
+      "emoji_unicode": "U+1F1EC U+1F1EE",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/gi.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/gi.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/gi.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/gi.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -58,7 +70,7 @@
   "time_zone": {
     "id": "Europe/Gibraltar",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:59+01:00",
+    "current_time": "2025-03-10T12:39:24+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

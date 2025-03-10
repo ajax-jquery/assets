@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 245857,
     "borders": [
@@ -15,6 +19,14 @@
     "name": "Guinea",
     "population": 14405468,
     "population_density": 58.59,
+    "flag": {
+      "emoji": "🇬🇳",
+      "emoji_unicode": "U+1F1EC U+1F1F3",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/gn.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/gn.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/gn.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/gn.svg"
+    },
     "languages": [
       {
         "code": "fr",
@@ -48,7 +60,7 @@
   "time_zone": {
     "id": "Africa/Conakry",
     "abbreviation": "GMT",
-    "current_time": "2025-03-10T10:45:47Z",
+    "current_time": "2025-03-10T11:39:12Z",
     "name": "Greenwich Mean Time",
     "offset": 0,
     "in_daylight_saving": false

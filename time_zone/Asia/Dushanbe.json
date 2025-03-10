@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 143100,
     "borders": [
@@ -13,6 +17,14 @@
     "name": "Tajikistan",
     "population": 10389799,
     "population_density": 72.61,
+    "flag": {
+      "emoji": "🇹🇯",
+      "emoji_unicode": "U+1F1F9 U+1F1EF",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/tj.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/tj.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/tj.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/tj.svg"
+    },
     "languages": [
       {
         "code": "tg",
@@ -51,7 +63,7 @@
   "time_zone": {
     "id": "Asia/Dushanbe",
     "abbreviation": "TJT",
-    "current_time": "2025-03-10T15:45:50+05:00",
+    "current_time": "2025-03-10T16:39:15+05:00",
     "name": "Tajikistan Time",
     "offset": 18000,
     "in_daylight_saving": false

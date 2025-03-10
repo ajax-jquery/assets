@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 2166086,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Greenland",
     "population": 56865,
     "population_density": 0.03,
+    "flag": {
+      "emoji": "🇬🇱",
+      "emoji_unicode": "U+1F1EC U+1F1F1",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/gl.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/gl.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/gl.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/gl.svg"
+    },
     "languages": [
       {
         "code": "kl",
@@ -51,7 +63,7 @@
   "time_zone": {
     "id": "America/Nuuk",
     "abbreviation": "WGT",
-    "current_time": "2025-03-10T08:45:51-02:00",
+    "current_time": "2025-03-10T09:39:16-02:00",
     "name": "West Greenland Standard Time",
     "offset": -7200,
     "in_daylight_saving": false

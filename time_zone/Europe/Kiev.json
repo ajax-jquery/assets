@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 603700,
     "borders": [
@@ -16,6 +20,14 @@
     "name": "Ukraine",
     "population": 37732836,
     "population_density": 62.5,
+    "flag": {
+      "emoji": "🇺🇦",
+      "emoji_unicode": "U+1F1FA U+1F1E6",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ua.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ua.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ua.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ua.svg"
+    },
     "languages": [
       {
         "code": "uk",
@@ -64,7 +76,7 @@
   "time_zone": {
     "id": "Europe/Kiev",
     "abbreviation": "EET",
-    "current_time": "2025-03-10T12:45:19+02:00",
+    "current_time": "2025-03-10T13:38:48+02:00",
     "name": "Eastern European Standard Time",
     "offset": 7200,
     "in_daylight_saving": false

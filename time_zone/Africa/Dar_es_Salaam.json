@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 945087,
     "borders": [
@@ -17,6 +21,14 @@
     "name": "Tanzania",
     "population": 66617606,
     "population_density": 70.49,
+    "flag": {
+      "emoji": "🇹🇿",
+      "emoji_unicode": "U+1F1F9 U+1F1FF",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/tz.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/tz.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/tz.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/tz.svg"
+    },
     "languages": [
       {
         "code": "sw",
@@ -60,7 +72,7 @@
   "time_zone": {
     "id": "Africa/Dar_es_Salaam",
     "abbreviation": "EAT",
-    "current_time": "2025-03-10T13:45:45+03:00",
+    "current_time": "2025-03-10T14:39:09+03:00",
     "name": "East Africa Time",
     "offset": 10800,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 35980,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Taiwan",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": "🇹🇼",
+      "emoji_unicode": "U+1F1F9 U+1F1FC",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/tw.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/tw.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/tw.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/tw.svg"
+    },
     "languages": [
       {
         "code": "zh",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "Asia/Taipei",
     "abbreviation": "CST",
-    "current_time": "2025-03-10T18:45:18+08:00",
+    "current_time": "2025-03-10T19:38:47+08:00",
     "name": "Taipei Standard Time",
     "offset": 28800,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 93030,
     "borders": [
@@ -16,6 +20,14 @@
     "name": "Hungary",
     "population": 9592186,
     "population_density": 103.11,
+    "flag": {
+      "emoji": "🇭🇺",
+      "emoji_unicode": "U+1F1ED U+1F1FA",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/hu.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/hu.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/hu.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/hu.svg"
+    },
     "languages": [
       {
         "code": "hu",
@@ -49,7 +61,7 @@
   "time_zone": {
     "id": "Europe/Budapest",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:30+01:00",
+    "current_time": "2025-03-10T12:38:57+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

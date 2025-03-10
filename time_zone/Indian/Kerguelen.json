@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AN",
+    "name": "Antarctica"
+  },
   "country": {
     "area": 0,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "French Southern Territories",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": null,
+      "emoji_unicode": null,
+      "emojitwo": null,
+      "noto": null,
+      "twemoji": null,
+      "wikimedia": null
+    },
     "languages": [],
     "tld": null
   },
@@ -35,7 +47,7 @@
   "time_zone": {
     "id": "Indian/Kerguelen",
     "abbreviation": "TFT",
-    "current_time": "2025-03-10T15:45:59+05:00",
+    "current_time": "2025-03-10T16:39:23+05:00",
     "name": "French Southern & Antarctic Time",
     "offset": 18000,
     "in_daylight_saving": false

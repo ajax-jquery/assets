@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 212460,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "Oman",
     "population": 5049269,
     "population_density": 23.77,
+    "flag": {
+      "emoji": "🇴🇲",
+      "emoji_unicode": "U+1F1F4 U+1F1F2",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/om.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/om.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/om.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/om.svg"
+    },
     "languages": [
       {
         "code": "ar",
@@ -55,7 +67,7 @@
   "time_zone": {
     "id": "Asia/Muscat",
     "abbreviation": "GST",
-    "current_time": "2025-03-10T14:45:48+04:00",
+    "current_time": "2025-03-10T15:39:13+04:00",
     "name": "Gulf Standard Time",
     "offset": 14400,
     "in_daylight_saving": false

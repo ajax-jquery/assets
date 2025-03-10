@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
   "country": {
     "area": 549,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "United States",
     "population": 166506,
     "population_density": 303.29,
+    "flag": {
+      "emoji": "🇬🇺",
+      "emoji_unicode": "U+1F1EC U+1F1FA",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/gu.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/gu.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/gu.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/gu.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -46,7 +58,7 @@
   "time_zone": {
     "id": "Pacific/Guam",
     "abbreviation": "ChST",
-    "current_time": "2025-03-10T20:45:21+10:00",
+    "current_time": "2025-03-10T21:38:49+10:00",
     "name": "Chamorro Standard Time",
     "offset": 36000,
     "in_daylight_saving": false

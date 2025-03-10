@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 446550,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "Morocco",
     "population": 37712505,
     "population_density": 84.45,
+    "flag": {
+      "emoji": "🇲🇦",
+      "emoji_unicode": "U+1F1F2 U+1F1E6",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ma.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ma.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ma.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ma.svg"
+    },
     "languages": [
       {
         "code": "ar",
@@ -50,7 +62,7 @@
   "time_zone": {
     "id": "Africa/Casablanca",
     "abbreviation": "WET",
-    "current_time": "2025-03-10T10:45:29Z",
+    "current_time": "2025-03-10T11:38:57Z",
     "name": "Western European Time",
     "offset": 0,
     "in_daylight_saving": false

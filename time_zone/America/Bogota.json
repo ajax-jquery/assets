@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "SA",
+    "name": "South America"
+  },
   "country": {
     "area": 1138910,
     "borders": [
@@ -14,6 +18,14 @@
     "name": "Colombia",
     "population": 52321152,
     "population_density": 45.94,
+    "flag": {
+      "emoji": "🇨🇴",
+      "emoji_unicode": "U+1F1E8 U+1F1F4",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/co.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/co.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/co.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/co.svg"
+    },
     "languages": [
       {
         "code": "es",
@@ -47,7 +59,7 @@
   "time_zone": {
     "id": "America/Bogota",
     "abbreviation": "COT",
-    "current_time": "2025-03-10T05:45:26-05:00",
+    "current_time": "2025-03-10T06:38:54-05:00",
     "name": "Colombia Standard Time",
     "offset": -18000,
     "in_daylight_saving": false

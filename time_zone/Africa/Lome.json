@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 56785,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "Togo",
     "population": 9304337,
     "population_density": 163.85,
+    "flag": {
+      "emoji": "🇹🇬",
+      "emoji_unicode": "U+1F1F9 U+1F1EC",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/tg.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/tg.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/tg.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/tg.svg"
+    },
     "languages": [
       {
         "code": "fr",
@@ -55,7 +67,7 @@
   "time_zone": {
     "id": "Africa/Lome",
     "abbreviation": "GMT",
-    "current_time": "2025-03-10T10:45:46Z",
+    "current_time": "2025-03-10T11:39:11Z",
     "name": "Greenwich Mean Time",
     "offset": 0,
     "in_daylight_saving": false

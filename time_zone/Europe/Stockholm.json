@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 449964,
     "borders": [
@@ -11,6 +15,14 @@
     "name": "Sweden",
     "population": 10536632,
     "population_density": 23.42,
+    "flag": {
+      "emoji": "🇸🇪",
+      "emoji_unicode": "U+1F1F8 U+1F1EA",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/se.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/se.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/se.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/se.svg"
+    },
     "languages": [
       {
         "code": "sv",
@@ -54,7 +66,7 @@
   "time_zone": {
     "id": "Europe/Stockholm",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:31+01:00",
+    "current_time": "2025-03-10T12:38:58+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

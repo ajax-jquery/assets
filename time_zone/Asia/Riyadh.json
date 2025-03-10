@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 1960582,
     "borders": [
@@ -16,6 +20,14 @@
     "name": "Saudi Arabia",
     "population": 33264292,
     "population_density": 16.97,
+    "flag": {
+      "emoji": "🇸🇦",
+      "emoji_unicode": "U+1F1F8 U+1F1E6",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/sa.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/sa.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/sa.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/sa.svg"
+    },
     "languages": [
       {
         "code": "ar",
@@ -49,7 +61,7 @@
   "time_zone": {
     "id": "Asia/Riyadh",
     "abbreviation": "AST",
-    "current_time": "2025-03-10T13:45:29+03:00",
+    "current_time": "2025-03-10T14:38:56+03:00",
     "name": "Arabian Standard Time",
     "offset": 10800,
     "in_daylight_saving": false

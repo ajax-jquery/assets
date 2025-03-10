@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 41526,
     "borders": [
@@ -11,6 +15,14 @@
     "name": "Netherlands",
     "population": 17877117,
     "population_density": 430.5,
+    "flag": {
+      "emoji": "🇳🇱",
+      "emoji_unicode": "U+1F1F3 U+1F1F1",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/nl.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/nl.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/nl.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/nl.svg"
+    },
     "languages": [
       {
         "code": "nl",
@@ -49,7 +61,7 @@
   "time_zone": {
     "id": "Europe/Amsterdam",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:46:04+01:00",
+    "current_time": "2025-03-10T12:39:29+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

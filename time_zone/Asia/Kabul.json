@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 647500,
     "borders": [
@@ -15,6 +19,14 @@
     "name": "Afghanistan",
     "population": 41454761,
     "population_density": 64.02,
+    "flag": {
+      "emoji": "🇦🇫",
+      "emoji_unicode": "U+1F1E6 U+1F1EB",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/af.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/af.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/af.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/af.svg"
+    },
     "languages": [
       {
         "code": "fa",
@@ -63,7 +75,7 @@
   "time_zone": {
     "id": "Asia/Kabul",
     "abbreviation": "AFT",
-    "current_time": "2025-03-10T15:15:53+04:30",
+    "current_time": "2025-03-10T16:09:18+04:30",
     "name": "Afghanistan Time",
     "offset": 16200,
     "in_daylight_saving": false

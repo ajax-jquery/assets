@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 237500,
     "borders": [
@@ -14,6 +18,14 @@
     "name": "Romania",
     "population": 19059479,
     "population_density": 80.25,
+    "flag": {
+      "emoji": "🇷🇴",
+      "emoji_unicode": "U+1F1F7 U+1F1F4",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ro.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ro.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ro.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ro.svg"
+    },
     "languages": [
       {
         "code": "ro",
@@ -52,7 +64,7 @@
   "time_zone": {
     "id": "Europe/Bucharest",
     "abbreviation": "EET",
-    "current_time": "2025-03-10T12:45:33+02:00",
+    "current_time": "2025-03-10T13:39:00+02:00",
     "name": "Eastern European Standard Time",
     "offset": 7200,
     "in_daylight_saving": false

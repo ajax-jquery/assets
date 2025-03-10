@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 185180,
     "borders": [
@@ -14,6 +18,14 @@
     "name": "Syrian Arab Republic",
     "population": 23594623,
     "population_density": 127.41,
+    "flag": {
+      "emoji": "🇸🇾",
+      "emoji_unicode": "U+1F1F8 U+1F1FE",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/sy.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/sy.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/sy.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/sy.svg"
+    },
     "languages": [
       {
         "code": "ar",
@@ -67,7 +79,7 @@
   "time_zone": {
     "id": "Asia/Damascus",
     "abbreviation": "EET",
-    "current_time": "2025-03-10T13:45:19+03:00",
+    "current_time": "2025-03-10T14:38:48+03:00",
     "name": "Eastern European Time",
     "offset": 10800,
     "in_daylight_saving": false

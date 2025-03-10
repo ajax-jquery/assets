@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 65610,
     "borders": [
@@ -10,6 +14,14 @@
     "name": "Sri Lanka",
     "population": 22037000,
     "population_density": 335.88,
+    "flag": {
+      "emoji": "🇱🇰",
+      "emoji_unicode": "U+1F1F1 U+1F1F0",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/lk.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/lk.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/lk.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/lk.svg"
+    },
     "languages": [
       {
         "code": "si",
@@ -53,7 +65,7 @@
   "time_zone": {
     "id": "Asia/Colombo",
     "abbreviation": "IST",
-    "current_time": "2025-03-10T16:15:23+05:30",
+    "current_time": "2025-03-10T17:08:52+05:30",
     "name": "India Standard Time",
     "offset": 19800,
     "in_daylight_saving": false

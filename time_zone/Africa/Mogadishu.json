@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 637657,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "Somalia",
     "population": 18358615,
     "population_density": 28.79,
+    "flag": {
+      "emoji": "🇸🇴",
+      "emoji_unicode": "U+1F1F8 U+1F1F4",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/so.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/so.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/so.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/so.svg"
+    },
     "languages": [
       {
         "code": "so",
@@ -60,7 +72,7 @@
   "time_zone": {
     "id": "Africa/Mogadishu",
     "abbreviation": "EAT",
-    "current_time": "2025-03-10T13:46:01+03:00",
+    "current_time": "2025-03-10T14:39:26+03:00",
     "name": "East Africa Time",
     "offset": 10800,
     "in_daylight_saving": false

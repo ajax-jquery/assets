@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 26338,
     "borders": [
@@ -13,6 +17,14 @@
     "name": "Rwanda",
     "population": 13954471,
     "population_density": 529.82,
+    "flag": {
+      "emoji": "🇷🇼",
+      "emoji_unicode": "U+1F1F7 U+1F1FC",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/rw.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/rw.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/rw.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/rw.svg"
+    },
     "languages": [
       {
         "code": "rw",
@@ -61,7 +73,7 @@
   "time_zone": {
     "id": "Africa/Kigali",
     "abbreviation": "CAT",
-    "current_time": "2025-03-10T12:45:46+02:00",
+    "current_time": "2025-03-10T13:39:10+02:00",
     "name": "Central Africa Time",
     "offset": 7200,
     "in_daylight_saving": false

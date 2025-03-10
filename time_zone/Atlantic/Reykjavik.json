@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 103000,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Iceland",
     "population": 393349,
     "population_density": 3.82,
+    "flag": {
+      "emoji": "🇮🇸",
+      "emoji_unicode": "U+1F1EE U+1F1F8",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/is.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/is.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/is.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/is.svg"
+    },
     "languages": [
       {
         "code": "is",
@@ -66,7 +78,7 @@
   "time_zone": {
     "id": "Atlantic/Reykjavik",
     "abbreviation": "GMT",
-    "current_time": "2025-03-10T10:45:48Z",
+    "current_time": "2025-03-10T11:39:13Z",
     "name": "Greenwich Mean Time",
     "offset": 0,
     "in_daylight_saving": false

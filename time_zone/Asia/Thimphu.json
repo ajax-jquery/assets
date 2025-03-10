@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 47000,
     "borders": [
@@ -11,6 +15,14 @@
     "name": "Bhutan",
     "population": 786385,
     "population_density": 16.73,
+    "flag": {
+      "emoji": "🇧🇹",
+      "emoji_unicode": "U+1F1E7 U+1F1F9",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/bt.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/bt.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/bt.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/bt.svg"
+    },
     "languages": [
       {
         "code": "dz",
@@ -44,7 +56,7 @@
   "time_zone": {
     "id": "Asia/Thimphu",
     "abbreviation": "BTT",
-    "current_time": "2025-03-10T16:45:23+06:00",
+    "current_time": "2025-03-10T17:38:51+06:00",
     "name": "Bhutan Time",
     "offset": 21600,
     "in_daylight_saving": false

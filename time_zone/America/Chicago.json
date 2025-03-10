@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 9629091,
     "borders": [
@@ -11,6 +15,14 @@
     "name": "United States",
     "population": 334914895,
     "population_density": 34.78,
+    "flag": {
+      "emoji": "🇺🇸",
+      "emoji_unicode": "U+1F1FA U+1F1F8",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/us.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/us.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/us.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/us.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -54,7 +66,7 @@
   "time_zone": {
     "id": "America/Chicago",
     "abbreviation": "CST",
-    "current_time": "2025-03-10T05:45:50-05:00",
+    "current_time": "2025-03-10T06:39:15-05:00",
     "name": "Central Standard Time",
     "offset": -18000,
     "in_daylight_saving": true

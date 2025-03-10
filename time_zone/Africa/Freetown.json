@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
   "country": {
     "area": 71740,
     "borders": [
@@ -11,6 +15,14 @@
     "name": "Sierra Leone",
     "population": 8460512,
     "population_density": 117.93,
+    "flag": {
+      "emoji": "🇸🇱",
+      "emoji_unicode": "U+1F1F8 U+1F1F1",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/sl.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/sl.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/sl.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/sl.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -44,7 +56,7 @@
   "time_zone": {
     "id": "Africa/Freetown",
     "abbreviation": "GMT",
-    "current_time": "2025-03-10T10:45:47Z",
+    "current_time": "2025-03-10T11:39:12Z",
     "name": "Greenwich Mean Time",
     "offset": 0,
     "in_daylight_saving": false

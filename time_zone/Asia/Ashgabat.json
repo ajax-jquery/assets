@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 488100,
     "borders": [
@@ -13,6 +17,14 @@
     "name": "Turkmenistan",
     "population": 7364438,
     "population_density": 15.09,
+    "flag": {
+      "emoji": "🇹🇲",
+      "emoji_unicode": "U+1F1F9 U+1F1F2",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/tm.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/tm.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/tm.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/tm.svg"
+    },
     "languages": [
       {
         "code": "tk",
@@ -56,7 +68,7 @@
   "time_zone": {
     "id": "Asia/Ashgabat",
     "abbreviation": "TMT",
-    "current_time": "2025-03-10T15:45:49+05:00",
+    "current_time": "2025-03-10T16:39:14+05:00",
     "name": "Turkmenistan Standard Time",
     "offset": 18000,
     "in_daylight_saving": false

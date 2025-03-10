@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AN",
+    "name": "Antarctica"
+  },
   "country": {
     "area": 0,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "South Georgia and the South Sandwich Islands",
     "population": 0,
     "population_density": 0,
+    "flag": {
+      "emoji": null,
+      "emoji_unicode": null,
+      "emojitwo": null,
+      "noto": null,
+      "twemoji": null,
+      "wikimedia": null
+    },
     "languages": [],
     "tld": null
   },
@@ -35,7 +47,7 @@
   "time_zone": {
     "id": "Atlantic/South_Georgia",
     "abbreviation": "GST",
-    "current_time": "2025-03-10T08:46:01-02:00",
+    "current_time": "2025-03-10T09:39:26-02:00",
     "name": "South Georgia Time",
     "offset": -7200,
     "in_daylight_saving": false

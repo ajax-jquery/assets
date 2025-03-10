@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 443,
     "borders": [],
@@ -8,6 +12,14 @@
     "name": "Antigua and Barbuda",
     "population": 93316,
     "population_density": 210.65,
+    "flag": {
+      "emoji": "🇦🇬",
+      "emoji_unicode": "U+1F1E6 U+1F1EC",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ag.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ag.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ag.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ag.svg"
+    },
     "languages": [
       {
         "code": "en",
@@ -41,7 +53,7 @@
   "time_zone": {
     "id": "America/Antigua",
     "abbreviation": "AST",
-    "current_time": "2025-03-10T06:45:38-04:00",
+    "current_time": "2025-03-10T07:39:04-04:00",
     "name": "Atlantic Standard Time",
     "offset": -14400,
     "in_daylight_saving": false

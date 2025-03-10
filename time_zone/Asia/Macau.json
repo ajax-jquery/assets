@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 254,
     "borders": [
@@ -10,6 +14,14 @@
     "name": "China",
     "population": 678800,
     "population_density": 2672.44,
+    "flag": {
+      "emoji": "🇲🇴",
+      "emoji_unicode": "U+1F1F2 U+1F1F4",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/mo.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/mo.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/mo.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/mo.svg"
+    },
     "languages": [
       {
         "code": "zh",
@@ -53,7 +65,7 @@
   "time_zone": {
     "id": "Asia/Macau",
     "abbreviation": "CST",
-    "current_time": "2025-03-10T18:46:00+08:00",
+    "current_time": "2025-03-10T19:39:24+08:00",
     "name": "China Standard Time",
     "offset": 28800,
     "in_daylight_saving": false

@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
   "country": {
     "area": 1972550,
     "borders": [
@@ -12,6 +16,14 @@
     "name": "Mexico",
     "population": 129739759,
     "population_density": 65.77,
+    "flag": {
+      "emoji": "🇲🇽",
+      "emoji_unicode": "U+1F1F2 U+1F1FD",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/mx.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/mx.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/mx.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/mx.svg"
+    },
     "languages": [
       {
         "code": "es",
@@ -45,7 +57,7 @@
   "time_zone": {
     "id": "America/Mexico_City",
     "abbreviation": "CST",
-    "current_time": "2025-03-10T04:45:28-06:00",
+    "current_time": "2025-03-10T05:38:56-06:00",
     "name": "Central Standard Time",
     "offset": -21600,
     "in_daylight_saving": false

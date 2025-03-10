@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 48845,
     "borders": [
@@ -14,6 +18,14 @@
     "name": "Slovakia",
     "population": 5426740,
     "population_density": 111.1,
+    "flag": {
+      "emoji": "🇸🇰",
+      "emoji_unicode": "U+1F1F8 U+1F1F0",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/sk.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/sk.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/sk.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/sk.svg"
+    },
     "languages": [
       {
         "code": "sk",
@@ -52,7 +64,7 @@
   "time_zone": {
     "id": "Europe/Bratislava",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:26+01:00",
+    "current_time": "2025-03-10T12:38:54+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false

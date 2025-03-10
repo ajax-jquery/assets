@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "SA",
+    "name": "South America"
+  },
   "country": {
     "area": 283560,
     "borders": [
@@ -11,6 +15,14 @@
     "name": "Ecuador",
     "population": 17980083,
     "population_density": 63.41,
+    "flag": {
+      "emoji": "🇪🇨",
+      "emoji_unicode": "U+1F1EA U+1F1E8",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/ec.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/ec.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/ec.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/ec.svg"
+    },
     "languages": [
       {
         "code": "es",
@@ -44,7 +56,7 @@
   "time_zone": {
     "id": "America/Guayaquil",
     "abbreviation": "ECT",
-    "current_time": "2025-03-10T05:45:32-05:00",
+    "current_time": "2025-03-10T06:38:59-05:00",
     "name": "Ecuador Time",
     "offset": -18000,
     "in_daylight_saving": false

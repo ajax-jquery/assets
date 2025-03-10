@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
   "country": {
     "area": 15007,
     "borders": [
@@ -10,6 +14,14 @@
     "name": "Timor-Leste",
     "population": 1384286,
     "population_density": 92.24,
+    "flag": {
+      "emoji": "🇹🇱",
+      "emoji_unicode": "U+1F1F9 U+1F1F1",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/tl.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/tl.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/tl.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/tl.svg"
+    },
     "languages": [
       {
         "code": "pt",
@@ -53,7 +65,7 @@
   "time_zone": {
     "id": "Asia/Dili",
     "abbreviation": "TLT",
-    "current_time": "2025-03-10T19:45:23+09:00",
+    "current_time": "2025-03-10T20:38:51+09:00",
     "name": "East Timor Time",
     "offset": 32400,
     "in_daylight_saving": false

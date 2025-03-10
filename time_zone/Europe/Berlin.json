@@ -1,4 +1,8 @@
 {
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
   "country": {
     "area": 357021,
     "borders": [
@@ -18,6 +22,14 @@
     "name": "Germany",
     "population": 83280000,
     "population_density": 233.26,
+    "flag": {
+      "emoji": "🇩🇪",
+      "emoji_unicode": "U+1F1E9 U+1F1EA",
+      "emojitwo": "https://cdn.ipregistry.co/flags/emojitwo/de.svg",
+      "noto": "https://cdn.ipregistry.co/flags/noto/de.png",
+      "twemoji": "https://cdn.ipregistry.co/flags/twemoji/de.svg",
+      "wikimedia": "https://cdn.ipregistry.co/flags/wikimedia/de.svg"
+    },
     "languages": [
       {
         "code": "de",
@@ -51,7 +63,7 @@
   "time_zone": {
     "id": "Europe/Berlin",
     "abbreviation": "CET",
-    "current_time": "2025-03-10T11:45:17+01:00",
+    "current_time": "2025-03-10T12:38:46+01:00",
     "name": "Central European Standard Time",
     "offset": 3600,
     "in_daylight_saving": false
