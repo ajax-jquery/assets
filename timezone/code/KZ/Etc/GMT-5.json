@@ -1,0 +1,64 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 2717300,
+    "borders": [
+      "CN",
+      "KG",
+      "RU",
+      "TM",
+      "UZ"
+    ],
+    "calling_code": "7",
+    "capital": "Astana",
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "population": 20330104,
+    "population_density": 7.48,
+    "languages": [
+      {
+        "code": "kk",
+        "name": "Kazakh",
+        "native": "қазақ тілі"
+      },
+      {
+        "code": "ru",
+        "name": "Russian",
+        "native": "русский"
+      }
+    ],
+    "tld": ".kz"
+  },
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstani Tenge",
+    "name_native": "Қазақстан теңгесі",
+    "plural": "Kazakhstani tenges",
+    "plural_native": "Қазақстан теңгесі",
+    "symbol": "KZT",
+    "symbol_native": "₸",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " ₸"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " ₸"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-5",
+    "abbreviation": "QYZT",
+    "name": "West Kazakhstan Time",
+    "offset": 5,
+    "offset_with_dst": 5,
+    "time_zone": "Asia/Qyzylorda"
+  }
+}

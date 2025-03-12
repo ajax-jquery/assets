@@ -1,0 +1,59 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 678500,
+    "borders": [
+      "BD",
+      "CN",
+      "IN",
+      "LA",
+      "TH"
+    ],
+    "calling_code": "95",
+    "capital": "Naypyidaw",
+    "code": "MM",
+    "name": "Myanmar",
+    "population": 54133798,
+    "population_density": 79.78,
+    "languages": [
+      {
+        "code": "my",
+        "name": "Burmese",
+        "native": "မြန်မာ"
+      }
+    ],
+    "tld": ".mm"
+  },
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar Kyat",
+    "name_native": "မြန်မာ ကျပ်",
+    "plural": "Myanmar kyats",
+    "plural_native": "မြန်မာ ကျပ်",
+    "symbol": "MMK",
+    "symbol_native": "K",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-",
+        "suffix": " K"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " K"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-6.5",
+    "abbreviation": "MMT",
+    "name": "Myanmar Time",
+    "offset": 6.5,
+    "offset_with_dst": 6.5,
+    "time_zone": "Asia/Yangon"
+  }
+}

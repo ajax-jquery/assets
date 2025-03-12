@@ -1,0 +1,58 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 2170,
+    "borders": [],
+    "calling_code": "269",
+    "capital": "Moroni",
+    "code": "KM",
+    "name": "Comoros",
+    "population": 850387,
+    "population_density": 391.88,
+    "languages": [
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".km"
+  },
+  "currency": {
+    "code": "KMF",
+    "name": "Comorian Franc",
+    "name_native": "فرنك جزر القمر",
+    "plural": "Comorian francs",
+    "plural_native": "فرنك جزر القمر",
+    "symbol": "KMF",
+    "symbol_native": "CF",
+    "format": {
+      "decimal_separator": "٫",
+      "group_separator": "٬",
+      "negative": {
+        "prefix": "؜-‏",
+        "suffix": " CF"
+      },
+      "positive": {
+        "prefix": "‏",
+        "suffix": " CF"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-3",
+    "abbreviation": "EAT",
+    "name": "East Africa Time",
+    "offset": 3,
+    "offset_with_dst": 3,
+    "time_zone": "Indian/Comoro"
+  }
+}

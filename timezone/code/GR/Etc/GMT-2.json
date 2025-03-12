@@ -1,0 +1,68 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 131940,
+    "borders": [
+      "AL",
+      "BG",
+      "MK",
+      "TR"
+    ],
+    "calling_code": "30",
+    "capital": "Athens",
+    "code": "GR",
+    "name": "Greece",
+    "population": 10405588,
+    "population_density": 78.87,
+    "languages": [
+      {
+        "code": "el",
+        "name": "Greek",
+        "native": "Ελληνικά"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".gr"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "Ευρώ",
+    "plural": "euros",
+    "plural_native": "ευρώ",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-2",
+    "abbreviation": "EET",
+    "name": "Eastern European Standard Time",
+    "offset": 2,
+    "offset_with_dst": 2,
+    "time_zone": "Europe/Athens"
+  }
+}

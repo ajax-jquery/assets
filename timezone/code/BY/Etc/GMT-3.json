@@ -1,0 +1,64 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 207600,
+    "borders": [
+      "LT",
+      "LV",
+      "PL",
+      "RU",
+      "UA"
+    ],
+    "calling_code": "375",
+    "capital": "Minsk",
+    "code": "BY",
+    "name": "Belarus",
+    "population": 9178298,
+    "population_density": 44.21,
+    "languages": [
+      {
+        "code": "be",
+        "name": "Belarusian",
+        "native": "беларуская"
+      },
+      {
+        "code": "ru",
+        "name": "Russian",
+        "native": "русский"
+      }
+    ],
+    "tld": ".by"
+  },
+  "currency": {
+    "code": "BYN",
+    "name": "Belarusian Ruble",
+    "name_native": "беларускі рубель",
+    "plural": "Belarusian rubles",
+    "plural_native": "беларускага рубля",
+    "symbol": "BYN",
+    "symbol_native": "Br",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " Br"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " Br"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-3",
+    "abbreviation": "MSK",
+    "name": "Moscow Standard Time",
+    "offset": 3,
+    "offset_with_dst": 3,
+    "time_zone": "Europe/Minsk"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 60,
+    "borders": [],
+    "calling_code": "246",
+    "capital": "Diego Garcia",
+    "code": "IO",
+    "name": "British Indian Ocean Territory",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".io"
+  },
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar",
+    "name_native": "US Dollar",
+    "plural": "US dollars",
+    "plural_native": "US dollars",
+    "symbol": "$",
+    "symbol_native": "US$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-US$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "US$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-6",
+    "abbreviation": "IOT",
+    "name": "Indian Ocean Time",
+    "offset": 6,
+    "offset_with_dst": 6,
+    "time_zone": "Indian/Chagos"
+  }
+}

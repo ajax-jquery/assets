@@ -1,0 +1,55 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 53,
+    "borders": [
+      "SX"
+    ],
+    "calling_code": "590",
+    "capital": "Marigot",
+    "code": "MF",
+    "name": "Saint Martin",
+    "population": 27515,
+    "population_density": 519.15,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".gp"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "euro",
+    "plural": "euros",
+    "plural_native": "euros",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT+4",
+    "abbreviation": "AST",
+    "name": "Atlantic Standard Time",
+    "offset": -4,
+    "offset_with_dst": -4,
+    "time_zone": "America/Marigot"
+  }
+}

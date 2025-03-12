@@ -1,0 +1,58 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 300,
+    "borders": [],
+    "calling_code": "960",
+    "capital": "Malé",
+    "code": "MV",
+    "name": "Maldives",
+    "population": 525994,
+    "population_density": 1753.31,
+    "languages": [
+      {
+        "code": "dv",
+        "name": "Divehi",
+        "native": "Divehi"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".mv"
+  },
+  "currency": {
+    "code": "MVR",
+    "name": "Maldivian Rufiyaa",
+    "name_native": "Maldivian Rufiyaa",
+    "plural": "Maldivian rufiyaas",
+    "plural_native": "Maldivian rufiyaas",
+    "symbol": "MVR",
+    "symbol_native": "MVR",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-MVR",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "MVR",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-5",
+    "abbreviation": "MVT",
+    "name": "Maldives Time",
+    "offset": 5,
+    "offset_with_dst": 5,
+    "time_zone": "Indian/Maldives"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 181,
+    "borders": [],
+    "calling_code": "692",
+    "capital": "Majuro",
+    "code": "MH",
+    "name": "Marshall Islands",
+    "population": 38827,
+    "population_density": 214.51,
+    "languages": [
+      {
+        "code": "mh",
+        "name": "Marshallese",
+        "native": "Marshallese"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".mh"
+  },
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar",
+    "name_native": "US Dollar",
+    "plural": "US dollars",
+    "plural_native": "US dollars",
+    "symbol": "$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-12",
+    "abbreviation": "MHT",
+    "name": "Marshall Islands Time",
+    "offset": 12,
+    "offset_with_dst": 12,
+    "time_zone": "Pacific/Majuro"
+  }
+}

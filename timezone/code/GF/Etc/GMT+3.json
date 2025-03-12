@@ -1,0 +1,56 @@
+{
+  "continent": {
+    "code": "SA",
+    "name": "South America"
+  },
+  "country": {
+    "area": 91000,
+    "borders": [
+      "BR",
+      "SR"
+    ],
+    "calling_code": "594",
+    "capital": "Cayenne",
+    "code": "GF",
+    "name": "France",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".gf"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "euro",
+    "plural": "euros",
+    "plural_native": "euros",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT+3",
+    "abbreviation": "GFT",
+    "name": "French Guiana Time",
+    "offset": -3,
+    "offset_with_dst": -3,
+    "time_zone": "America/Cayenne"
+  }
+}

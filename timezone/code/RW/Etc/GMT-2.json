@@ -1,0 +1,73 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 26338,
+    "borders": [
+      "BI",
+      "CD",
+      "TZ",
+      "UG"
+    ],
+    "calling_code": "250",
+    "capital": "Kigali",
+    "code": "RW",
+    "name": "Rwanda",
+    "population": 13954471,
+    "population_density": 529.82,
+    "languages": [
+      {
+        "code": "rw",
+        "name": "Kinyarwanda",
+        "native": "Ikinyarwanda"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "sw",
+        "name": "Swahili",
+        "native": "Kiswahili"
+      }
+    ],
+    "tld": ".rw"
+  },
+  "currency": {
+    "code": "RWF",
+    "name": "Rwandan Franc",
+    "name_native": "RWF",
+    "plural": "Rwandan francs",
+    "plural_native": "RWF",
+    "symbol": "RWF",
+    "symbol_native": "RF",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-RF ",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "RF ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-2",
+    "abbreviation": "CAT",
+    "name": "Central Africa Time",
+    "offset": 2,
+    "offset_with_dst": 2,
+    "time_zone": "Africa/Kigali"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 261,
+    "borders": [],
+    "calling_code": "+1-869",
+    "capital": "Basseterre",
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "population": 46758,
+    "population_density": 179.15,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".kn"
+  },
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar",
+    "name_native": "East Caribbean Dollar",
+    "plural": "East Caribbean dollars",
+    "plural_native": "East Caribbean dollars",
+    "symbol": "EC$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT+4",
+    "abbreviation": "AST",
+    "name": "Atlantic Standard Time",
+    "offset": -4,
+    "offset_with_dst": -4,
+    "time_zone": "America/St_Kitts"
+  }
+}

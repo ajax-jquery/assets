@@ -1,0 +1,67 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 2586,
+    "borders": [
+      "BE",
+      "DE",
+      "FR"
+    ],
+    "calling_code": "352",
+    "capital": "Luxembourg",
+    "code": "LU",
+    "name": "Luxembourg",
+    "population": 666430,
+    "population_density": 257.71,
+    "languages": [
+      {
+        "code": "lb",
+        "name": "Luxembourgish",
+        "native": "Lëtzebuergesch"
+      },
+      {
+        "code": "de",
+        "name": "German",
+        "native": "Deutsch"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".lu"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "Euro",
+    "plural": "euros",
+    "plural_native": "Euro",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-1",
+    "abbreviation": "CET",
+    "name": "Central European Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1,
+    "time_zone": "Europe/Luxembourg"
+  }
+}

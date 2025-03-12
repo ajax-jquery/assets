@@ -1,0 +1,69 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 86600,
+    "borders": [
+      "AM",
+      "GE",
+      "IR",
+      "RU",
+      "TR"
+    ],
+    "calling_code": "994",
+    "capital": "Baku",
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "population": 10153958,
+    "population_density": 117.25,
+    "languages": [
+      {
+        "code": "az",
+        "name": "Azerbaijani",
+        "native": "azərbaycan"
+      },
+      {
+        "code": "ru",
+        "name": "Russian",
+        "native": "русский"
+      },
+      {
+        "code": "hy",
+        "name": "Armenian",
+        "native": "հայերեն"
+      }
+    ],
+    "tld": ".az"
+  },
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijani Manat",
+    "name_native": "Azərbaycan Manatı",
+    "plural": "Azerbaijani manats",
+    "plural_native": "Azərbaycan manatı",
+    "symbol": "AZN",
+    "symbol_native": "₼",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-",
+        "suffix": " ₼"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " ₼"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-4",
+    "abbreviation": "AZT",
+    "name": "Azerbaijan Standard Time",
+    "offset": 4,
+    "offset_with_dst": 4,
+    "time_zone": "Asia/Baku"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 69700,
+    "borders": [
+      "AM",
+      "AZ",
+      "RU",
+      "TR"
+    ],
+    "calling_code": "995",
+    "capital": "Tbilisi",
+    "code": "GE",
+    "name": "Georgia",
+    "population": 3715483,
+    "population_density": 53.31,
+    "languages": [
+      {
+        "code": "ka",
+        "name": "Georgian",
+        "native": "ქართული"
+      },
+      {
+        "code": "ru",
+        "name": "Russian",
+        "native": "русский"
+      },
+      {
+        "code": "hy",
+        "name": "Armenian",
+        "native": "հայերեն"
+      },
+      {
+        "code": "az",
+        "name": "Azerbaijani",
+        "native": "azərbaycan"
+      }
+    ],
+    "tld": ".ge"
+  },
+  "currency": {
+    "code": "GEL",
+    "name": "Georgian Lari",
+    "name_native": "ქართული ლარი",
+    "plural": "Georgian laris",
+    "plural_native": "ქართული ლარი",
+    "symbol": "GEL",
+    "symbol_native": "₾",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " ₾"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " ₾"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-4",
+    "abbreviation": "GET",
+    "name": "Georgia Standard Time",
+    "offset": 4,
+    "offset_with_dst": 4,
+    "time_zone": "Asia/Tbilisi"
+  }
+}

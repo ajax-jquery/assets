@@ -1,0 +1,58 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 240,
+    "borders": [],
+    "calling_code": "682",
+    "capital": "Avarua",
+    "code": "CK",
+    "name": "Cook Islands",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "mi",
+        "name": "Māori",
+        "native": "Māori"
+      }
+    ],
+    "tld": ".ck"
+  },
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar",
+    "name_native": "New Zealand Dollar",
+    "plural": "New Zealand dollars",
+    "plural_native": "New Zealand dollars",
+    "symbol": "NZ$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT+10",
+    "abbreviation": "CKT",
+    "name": "Cook Islands Standard Time",
+    "offset": -10,
+    "offset_with_dst": -10,
+    "time_zone": "Pacific/Rarotonga"
+  }
+}

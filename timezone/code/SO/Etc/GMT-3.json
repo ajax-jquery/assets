@@ -1,0 +1,72 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 637657,
+    "borders": [
+      "DJ",
+      "ET",
+      "KE"
+    ],
+    "calling_code": "252",
+    "capital": "Mogadishu",
+    "code": "SO",
+    "name": "Somalia",
+    "population": 18358615,
+    "population_density": 28.79,
+    "languages": [
+      {
+        "code": "so",
+        "name": "Somali",
+        "native": "Soomaali"
+      },
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      },
+      {
+        "code": "it",
+        "name": "Italian",
+        "native": "italiano"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".so"
+  },
+  "currency": {
+    "code": "SOS",
+    "name": "Somali Shilling",
+    "name_native": "Shilingka Soomaaliya",
+    "plural": "Somali shillings",
+    "plural_native": "Shilingka Soomaaliya",
+    "symbol": "SOS",
+    "symbol_native": "S",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-S",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "S",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-3",
+    "abbreviation": "EAT",
+    "name": "East Africa Time",
+    "offset": 3,
+    "offset_with_dst": 3,
+    "time_zone": "Africa/Mogadishu"
+  }
+}

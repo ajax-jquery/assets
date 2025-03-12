@@ -1,0 +1,57 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 111370,
+    "borders": [
+      "CI",
+      "GN",
+      "SL"
+    ],
+    "calling_code": "231",
+    "capital": "Monrovia",
+    "code": "LR",
+    "name": "Liberia",
+    "population": 5493031,
+    "population_density": 49.32,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".lr"
+  },
+  "currency": {
+    "code": "LRD",
+    "name": "Liberian Dollar",
+    "name_native": "Liberian Dollar",
+    "plural": "Liberian dollars",
+    "plural_native": "Liberian dollars",
+    "symbol": "LRD",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT",
+    "abbreviation": "GMT",
+    "name": "Greenwich Mean Time",
+    "offset": 0,
+    "offset_with_dst": 0,
+    "time_zone": "Africa/Monrovia"
+  }
+}

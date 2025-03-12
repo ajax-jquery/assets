@@ -1,0 +1,65 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 1,
+    "borders": [
+      "FR"
+    ],
+    "calling_code": "377",
+    "capital": "Monaco",
+    "code": "MC",
+    "name": "Monaco",
+    "population": 38956,
+    "population_density": 38956,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "it",
+        "name": "Italian",
+        "native": "italiano"
+      }
+    ],
+    "tld": ".mc"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "euro",
+    "plural": "euros",
+    "plural_native": "euros",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-1",
+    "abbreviation": "CET",
+    "name": "Central European Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1,
+    "time_zone": "Europe/Monaco"
+  }
+}

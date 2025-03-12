@@ -1,0 +1,61 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 17363,
+    "borders": [
+      "MZ",
+      "ZA"
+    ],
+    "calling_code": "268",
+    "capital": "Lobamba",
+    "code": "SZ",
+    "name": "Eswatini",
+    "population": 1230506,
+    "population_density": 70.87,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "ss",
+        "name": "Swati",
+        "native": "Swati"
+      }
+    ],
+    "tld": ".sz"
+  },
+  "currency": {
+    "code": "SZL",
+    "name": "Swazi Lilangeni",
+    "name_native": "Swazi Lilangeni",
+    "plural": "Swazi emalangeni",
+    "plural_native": "Swazi emalangeni",
+    "symbol": "SZL",
+    "symbol_native": "E",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-E",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "E",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-2",
+    "abbreviation": "SAST",
+    "name": "South Africa Standard Time",
+    "offset": 2,
+    "offset_with_dst": 2,
+    "time_zone": "Africa/Mbabane"
+  }
+}

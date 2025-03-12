@@ -1,0 +1,63 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 12200,
+    "borders": [],
+    "calling_code": "678",
+    "capital": "Port Vila",
+    "code": "VU",
+    "name": "Vanuatu",
+    "population": 320409,
+    "population_density": 26.26,
+    "languages": [
+      {
+        "code": "bi",
+        "name": "Bislama",
+        "native": "Bislama"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".vu"
+  },
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu",
+    "name_native": "Vanuatu Vatu",
+    "plural": "Vanuatu vatus",
+    "plural_native": "Vanuatu vatus",
+    "symbol": "VUV",
+    "symbol_native": "VUV",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-VUV",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "VUV",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-11",
+    "abbreviation": "VUT",
+    "name": "Vanuatu Standard Time",
+    "offset": 11,
+    "offset_with_dst": 11,
+    "time_zone": "Pacific/Efate"
+  }
+}

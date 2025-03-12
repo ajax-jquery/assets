@@ -1,0 +1,60 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 245857,
+    "borders": [
+      "CI",
+      "GW",
+      "LR",
+      "ML",
+      "SL",
+      "SN"
+    ],
+    "calling_code": "224",
+    "capital": "Conakry",
+    "code": "GN",
+    "name": "Guinea",
+    "population": 14405468,
+    "population_density": 58.59,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".gn"
+  },
+  "currency": {
+    "code": "GNF",
+    "name": "Guinean Franc",
+    "name_native": "franc guinéen",
+    "plural": "Guinean francs",
+    "plural_native": "francs guinéens",
+    "symbol": "GNF",
+    "symbol_native": "FG",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " FG"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " FG"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT",
+    "abbreviation": "GMT",
+    "name": "Greenwich Mean Time",
+    "offset": 0,
+    "offset_with_dst": 0,
+    "time_zone": "Africa/Conakry"
+  }
+}

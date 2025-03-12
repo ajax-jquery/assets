@@ -1,0 +1,65 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 1284000,
+    "borders": [
+      "CF",
+      "CM",
+      "LY",
+      "NE",
+      "NG",
+      "SD"
+    ],
+    "calling_code": "235",
+    "capital": "N'Djamena",
+    "code": "TD",
+    "name": "Chad",
+    "population": 19319064,
+    "population_density": 15.05,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      }
+    ],
+    "tld": ".td"
+  },
+  "currency": {
+    "code": "XAF",
+    "name": "Central African CFA Franc",
+    "name_native": "franc CFA (BEAC)",
+    "plural": "Central African CFA francs",
+    "plural_native": "francs CFA (BEAC)",
+    "symbol": "FCFA",
+    "symbol_native": "FCFA",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " FCFA"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " FCFA"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-1",
+    "abbreviation": "WAT",
+    "name": "West Africa Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1,
+    "time_zone": "Africa/Ndjamena"
+  }
+}

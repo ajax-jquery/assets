@@ -1,0 +1,61 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 22966,
+    "borders": [
+      "GT",
+      "MX"
+    ],
+    "calling_code": "501",
+    "capital": "Belmopan",
+    "code": "BZ",
+    "name": "Belize",
+    "population": 411106,
+    "population_density": 17.9,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      }
+    ],
+    "tld": ".bz"
+  },
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar",
+    "name_native": "Belize Dollar",
+    "plural": "Belize dollars",
+    "plural_native": "Belize dollars",
+    "symbol": "BZD",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT+6",
+    "abbreviation": "CST",
+    "name": "Central Standard Time",
+    "offset": -6,
+    "offset_with_dst": -6,
+    "time_zone": "America/Belize"
+  }
+}

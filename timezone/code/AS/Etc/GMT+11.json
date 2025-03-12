@@ -1,0 +1,63 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 199,
+    "borders": [],
+    "calling_code": "+1-684",
+    "capital": "Pago Pago",
+    "code": "AS",
+    "name": "United States",
+    "population": 47521,
+    "population_density": 238.8,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "sm",
+        "name": "Samoan",
+        "native": "Samoan"
+      },
+      {
+        "code": "to",
+        "name": "Tongan",
+        "native": "lea fakatonga"
+      }
+    ],
+    "tld": ".as"
+  },
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar",
+    "name_native": "US Dollar",
+    "plural": "US dollars",
+    "plural_native": "US dollars",
+    "symbol": "$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT+11",
+    "abbreviation": "SST",
+    "name": "Samoa Standard Time",
+    "offset": -11,
+    "offset_with_dst": -11,
+    "time_zone": "Pacific/Pago_Pago"
+  }
+}

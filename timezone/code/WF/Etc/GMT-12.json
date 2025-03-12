@@ -1,0 +1,53 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 274,
+    "borders": [],
+    "calling_code": "681",
+    "capital": "Mata-Utu",
+    "code": "WF",
+    "name": "Wallis and Futuna",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".wf"
+  },
+  "currency": {
+    "code": "XPF",
+    "name": "CFP Franc",
+    "name_native": "franc CFP",
+    "plural": "CFP francs",
+    "plural_native": "francs CFP",
+    "symbol": "CFPF",
+    "symbol_native": "FCFP",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " FCFP"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " FCFP"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Etc/GMT-12",
+    "abbreviation": "WFT",
+    "name": "Wallis & Futuna Time",
+    "offset": 12,
+    "offset_with_dst": 12,
+    "time_zone": "Pacific/Wallis"
+  }
+}
