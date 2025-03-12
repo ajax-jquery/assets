@@ -1,0 +1,65 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 0,
+    "borders": [
+      "IT"
+    ],
+    "calling_code": "379",
+    "capital": "Vatican City",
+    "code": "VA",
+    "name": "Holy See",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "la",
+        "name": "Latin",
+        "native": "Latin"
+      },
+      {
+        "code": "it",
+        "name": "Italian",
+        "native": "italiano"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".va"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "Euro",
+    "plural": "euros",
+    "plural_native": "euros",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-€",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "€",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Vatican",
+    "abbreviation": "CET",
+    "name": "Central European Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1,
+    "time_zone": "Europe/Vatican"
+  }
+}

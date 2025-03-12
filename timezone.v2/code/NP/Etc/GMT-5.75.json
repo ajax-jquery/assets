@@ -1,0 +1,60 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 140800,
+    "borders": [
+      "CN",
+      "IN"
+    ],
+    "calling_code": "977",
+    "capital": "Kathmandu",
+    "code": "NP",
+    "name": "Nepal",
+    "population": 29694614,
+    "population_density": 210.9,
+    "languages": [
+      {
+        "code": "ne",
+        "name": "Nepali",
+        "native": "नेपाली"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".np"
+  },
+  "currency": {
+    "code": "NPR",
+    "name": "Nepalese Rupee",
+    "name_native": "नेपाली रूपैयाँ",
+    "plural": "Nepalese rupees",
+    "plural_native": "नेपाली रूपैयाँ",
+    "symbol": "NPR",
+    "symbol_native": "नेरू",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-नेरू ",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "नेरू ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Kathmandu",
+    "abbreviation": "NPT",
+    "offset": 5.75,
+    "offset_with_dst": 5.75,
+    "time_zone_Etc": "Etc/GMT-5.75"
+  }
+}

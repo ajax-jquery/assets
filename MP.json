@@ -1,0 +1,50 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 464,
+    "borders": [],
+    "calling_code": "+1-670",
+    "capital": "Saipan",
+    "code": "MP",
+    "name": "Northern Mariana Islands",
+    "population": 47329,
+    "population_density": 102,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "ch",
+        "name": "Chamorro",
+        "native": "Chamoru"
+      }
+    ],
+    "tld": ".mp"
+  },
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar",
+    "name_native": "$",
+    "plural": "US dollars",
+    "plural_native": "$",
+    "symbol": "$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  }
+}

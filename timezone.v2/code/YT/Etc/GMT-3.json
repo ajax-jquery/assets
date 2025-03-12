@@ -1,0 +1,52 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 374,
+    "borders": [],
+    "calling_code": "262",
+    "capital": "Mamoudzou",
+    "code": "YT",
+    "name": "France",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".yt"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "euro",
+    "plural": "euros",
+    "plural_native": "euros",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Indian/Mayotte",
+    "abbreviation": "EAT",
+    "offset": 3,
+    "offset_with_dst": 3,
+    "time_zone_Etc": "Etc/GMT-3"
+  }
+}

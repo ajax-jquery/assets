@@ -1,0 +1,62 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 28748,
+    "borders": [
+      "GR",
+      "ME",
+      "MK",
+      "XK"
+    ],
+    "calling_code": "355",
+    "capital": "Tirana",
+    "code": "AL",
+    "name": "Albania",
+    "population": 2745972,
+    "population_density": 95.52,
+    "languages": [
+      {
+        "code": "sq",
+        "name": "Albanian",
+        "native": "shqip"
+      },
+      {
+        "code": "el",
+        "name": "Greek",
+        "native": "Ελληνικά"
+      }
+    ],
+    "tld": ".al"
+  },
+  "currency": {
+    "code": "ALL",
+    "name": "Albanian Lek",
+    "name_native": "Leku shqiptar",
+    "plural": "Albanian lekë",
+    "plural_native": "lekë shqiptar",
+    "symbol": "ALL",
+    "symbol_native": "Lekë",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " Lekë"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " Lekë"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Tirane",
+    "abbreviation": "CET",
+    "offset": 1,
+    "offset_with_dst": 1,
+    "time_zone_Etc": "Etc/GMT-1"
+  }
+}

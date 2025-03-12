@@ -1,0 +1,59 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 17820,
+    "borders": [
+      "IQ",
+      "SA"
+    ],
+    "calling_code": "965",
+    "capital": "Kuwait City",
+    "code": "KW",
+    "name": "Kuwait",
+    "population": 4853420,
+    "population_density": 272.36,
+    "languages": [
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".kw"
+  },
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwaiti Dinar",
+    "name_native": "دينار كويتي",
+    "plural": "Kuwaiti dinars",
+    "plural_native": "دينار كويتي",
+    "symbol": "KWD",
+    "symbol_native": "د.ك.‏",
+    "format": {
+      "decimal_separator": "٫",
+      "group_separator": "٬",
+      "negative": {
+        "prefix": "؜-‏",
+        "suffix": " د.ك.‏"
+      },
+      "positive": {
+        "prefix": "‏",
+        "suffix": " د.ك.‏"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Kuwait",
+    "abbreviation": "AST",
+    "offset": 3,
+    "offset_with_dst": 3
+  }
+}

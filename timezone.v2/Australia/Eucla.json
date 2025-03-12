@@ -1,0 +1,51 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 7686850,
+    "borders": [],
+    "calling_code": "61",
+    "capital": "Canberra",
+    "code": "AU",
+    "name": "Australia",
+    "population": 26658948,
+    "population_density": 3.47,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".au"
+  },
+  "currency": {
+    "code": "AUD",
+    "name": "Australian Dollar",
+    "name_native": "Australian Dollar",
+    "plural": "Australian dollars",
+    "plural_native": "Australian dollars",
+    "symbol": "A$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Australia/Eucla",
+    "abbreviation": "ACWST",
+    "offset": 8.75,
+    "offset_with_dst": 8.75
+  }
+}

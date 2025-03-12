@@ -1,0 +1,79 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 9596960,
+    "borders": [
+      "AF",
+      "BT",
+      "HK",
+      "IN",
+      "KG",
+      "KP",
+      "KZ",
+      "LA",
+      "MM",
+      "MN",
+      "MO",
+      "NP",
+      "PK",
+      "RU",
+      "TJ",
+      "VN"
+    ],
+    "calling_code": "86",
+    "capital": "Beijing",
+    "code": "CN",
+    "name": "China",
+    "population": 1410710000,
+    "population_density": 147,
+    "languages": [
+      {
+        "code": "zh",
+        "name": "Chinese",
+        "native": "中文"
+      },
+      {
+        "code": "ug",
+        "name": "Uyghur",
+        "native": "ئۇيغۇرچە"
+      },
+      {
+        "code": "za",
+        "name": "Zhuang",
+        "native": "Vahcuengh"
+      }
+    ],
+    "tld": ".cn"
+  },
+  "currency": {
+    "code": "CNY",
+    "name": "Chinese Yuan",
+    "name_native": "人民币",
+    "plural": "Chinese yuan",
+    "plural_native": "人民币",
+    "symbol": "CN¥",
+    "symbol_native": "¥",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-¥",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "¥",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Urumqi",
+    "abbreviation": "URUT",
+    "offset": 6,
+    "offset_with_dst": 6,
+    "time_zone_Etc": "Etc/GMT-6"
+  }
+}

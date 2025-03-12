@@ -1,0 +1,62 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 48845,
+    "borders": [
+      "AT",
+      "CZ",
+      "HU",
+      "PL",
+      "UA"
+    ],
+    "calling_code": "421",
+    "capital": "Bratislava",
+    "code": "SK",
+    "name": "Slovakia",
+    "population": 5426740,
+    "population_density": 111.1,
+    "languages": [
+      {
+        "code": "sk",
+        "name": "Slovak",
+        "native": "slovenčina"
+      },
+      {
+        "code": "hu",
+        "name": "Hungarian",
+        "native": "magyar"
+      }
+    ],
+    "tld": ".sk"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "euro",
+    "plural": "euros",
+    "plural_native": "eur",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Bratislava",
+    "abbreviation": "CET",
+    "offset": 1,
+    "offset_with_dst": 1
+  }
+}

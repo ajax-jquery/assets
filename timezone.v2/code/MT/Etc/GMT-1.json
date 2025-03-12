@@ -1,0 +1,57 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 316,
+    "borders": [],
+    "calling_code": "356",
+    "capital": "Valletta",
+    "code": "MT",
+    "name": "Malta",
+    "population": 552747,
+    "population_density": 1749.2,
+    "languages": [
+      {
+        "code": "mt",
+        "name": "Maltese",
+        "native": "Malti"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".mt"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "ewro",
+    "plural": "euros",
+    "plural_native": "ewro",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-€",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "€",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Malta",
+    "abbreviation": "CET",
+    "offset": 1,
+    "offset_with_dst": 1,
+    "time_zone_Etc": "Etc/GMT-1"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "continent": {
+    "code": null,
+    "name": null
+  },
+  "country": {
+    "area": 644329,
+    "borders": [
+      "CD",
+      "CF",
+      "ET",
+      "KE",
+      "SD",
+      "UG"
+    ],
+    "calling_code": "211",
+    "capital": "Juba",
+    "code": "SS",
+    "name": "South Sudan",
+    "population": 11483374,
+    "population_density": 17.82,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".ss"
+  },
+  "currency": {
+    "code": "SSP",
+    "name": "South Sudanese Pound",
+    "name_native": "South Sudanese Pound",
+    "plural": "South Sudanese pounds",
+    "plural_native": "South Sudanese pounds",
+    "symbol": "SSP",
+    "symbol_native": "£",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-£",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "£",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Juba",
+    "abbreviation": "CAT",
+    "offset": 2,
+    "offset_with_dst": 2
+  }
+}

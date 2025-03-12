@@ -1,0 +1,57 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 389,
+    "borders": [],
+    "calling_code": "+1-784",
+    "capital": "Kingstown",
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "population": 101323,
+    "population_density": 260.47,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".vc"
+  },
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar",
+    "name_native": "East Caribbean Dollar",
+    "plural": "East Caribbean dollars",
+    "plural_native": "East Caribbean dollars",
+    "symbol": "EC$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/St_Vincent",
+    "abbreviation": "AST",
+    "offset": -4,
+    "offset_with_dst": -4,
+    "time_zone_Etc": "Etc/GMT+4"
+  }
+}

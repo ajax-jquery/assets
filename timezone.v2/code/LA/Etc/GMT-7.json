@@ -1,0 +1,68 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 236800,
+    "borders": [
+      "CN",
+      "KH",
+      "MM",
+      "TH",
+      "VN"
+    ],
+    "calling_code": "856",
+    "capital": "Vientiane",
+    "code": "LA",
+    "name": "Lao People's Democratic Republic",
+    "population": 7664993,
+    "population_density": 32.37,
+    "languages": [
+      {
+        "code": "lo",
+        "name": "Lao",
+        "native": "ລາວ"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".la"
+  },
+  "currency": {
+    "code": "LAK",
+    "name": "Laotian Kip",
+    "name_native": "ລາວ ກີບ",
+    "plural": "Laotian kips",
+    "plural_native": "ລາວ ກີບ",
+    "symbol": "LAK",
+    "symbol_native": "₭",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "₭-",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "₭",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Vientiane",
+    "abbreviation": "ICT",
+    "offset": 7,
+    "offset_with_dst": 7,
+    "time_zone_Etc": "Etc/GMT-7"
+  }
+}

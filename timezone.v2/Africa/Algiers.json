@@ -1,0 +1,59 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 2381740,
+    "borders": [
+      "EH",
+      "LY",
+      "MA",
+      "ML",
+      "MR",
+      "NE",
+      "TN"
+    ],
+    "calling_code": "213",
+    "capital": "Algiers",
+    "code": "DZ",
+    "name": "Algeria",
+    "population": 46164219,
+    "population_density": 19.38,
+    "languages": [
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      }
+    ],
+    "tld": ".dz"
+  },
+  "currency": {
+    "code": "DZD",
+    "name": "Algerian Dinar",
+    "name_native": "دينار جزائري",
+    "plural": "Algerian dinars",
+    "plural_native": "دينار جزائري",
+    "symbol": "DZD",
+    "symbol_native": "د.ج.‏",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "‏‎-",
+        "suffix": " د.ج.‏"
+      },
+      "positive": {
+        "prefix": "‏",
+        "suffix": " د.ج.‏"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Algiers",
+    "abbreviation": "CET",
+    "offset": 1,
+    "offset_with_dst": 1
+  }
+}

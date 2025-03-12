@@ -1,0 +1,53 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 262,
+    "borders": [],
+    "calling_code": "+1-345",
+    "capital": "George Town",
+    "code": "KY",
+    "name": "Cayman Islands",
+    "population": 73038,
+    "population_density": 278.77,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".ky"
+  },
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar",
+    "name_native": "Cayman Islands Dollar",
+    "plural": "Cayman Islands dollars",
+    "plural_native": "Cayman Islands dollars",
+    "symbol": "KYD",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Cayman",
+    "abbreviation": "EST",
+    "name": "Eastern Standard Time",
+    "offset": -5,
+    "offset_with_dst": -5,
+    "time_zone": "America/Cayman"
+  }
+}

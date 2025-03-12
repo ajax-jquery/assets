@@ -1,0 +1,76 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 923768,
+    "borders": [
+      "BJ",
+      "CM",
+      "NE",
+      "TD"
+    ],
+    "calling_code": "234",
+    "capital": "Abuja",
+    "code": "NG",
+    "name": "Nigeria",
+    "population": 227882945,
+    "population_density": 246.69,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "ha",
+        "name": "Hausa",
+        "native": "Hausa"
+      },
+      {
+        "code": "yo",
+        "name": "Yoruba",
+        "native": "Èdè Yorùbá"
+      },
+      {
+        "code": "ig",
+        "name": "Igbo",
+        "native": "Igbo"
+      },
+      {
+        "code": "ff",
+        "name": "Fula",
+        "native": "Pulaar"
+      }
+    ],
+    "tld": ".ng"
+  },
+  "currency": {
+    "code": "NGN",
+    "name": "Nigerian Naira",
+    "name_native": "Nigerian Naira",
+    "plural": "Nigerian nairas",
+    "plural_native": "Nigerian nairas",
+    "symbol": "NGN",
+    "symbol_native": "₦",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-₦",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "₦",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Lagos",
+    "abbreviation": "WAT",
+    "offset": 1,
+    "offset_with_dst": 1
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 527970,
+    "borders": [
+      "OM",
+      "SA"
+    ],
+    "calling_code": "967",
+    "capital": "Sana'a",
+    "code": "YE",
+    "name": "Yemen",
+    "population": 39390799,
+    "population_density": 74.61,
+    "languages": [
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      }
+    ],
+    "tld": ".ye"
+  },
+  "currency": {
+    "code": "YER",
+    "name": "Yemeni Rial",
+    "name_native": "ريال يمني",
+    "plural": "Yemeni rials",
+    "plural_native": "ريال يمني",
+    "symbol": "YER",
+    "symbol_native": "ر.ي.‏",
+    "format": {
+      "decimal_separator": "٫",
+      "group_separator": "٬",
+      "negative": {
+        "prefix": "؜-‏",
+        "suffix": " ر.ي.‏"
+      },
+      "positive": {
+        "prefix": "‏",
+        "suffix": " ر.ي.‏"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Aden",
+    "abbreviation": "AST",
+    "offset": 3,
+    "offset_with_dst": 3
+  }
+}

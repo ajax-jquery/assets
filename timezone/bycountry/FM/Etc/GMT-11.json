@@ -1,0 +1,53 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 702,
+    "borders": [],
+    "calling_code": "691",
+    "capital": "Palikir",
+    "code": "FM",
+    "name": "Micronesia",
+    "population": 112630,
+    "population_density": 160.44,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".fm"
+  },
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar",
+    "name_native": "US Dollar",
+    "plural": "US dollars",
+    "plural_native": "US dollars",
+    "symbol": "$",
+    "symbol_native": "US$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-US$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "US$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Pacific/Pohnpei",
+    "abbreviation": "PONT",
+    "name": "Ponape Time",
+    "offset": 11,
+    "offset_with_dst": 11,
+    "time_zone": "Pacific/Pohnpei"
+  }
+}

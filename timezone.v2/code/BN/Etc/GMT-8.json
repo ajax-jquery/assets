@@ -1,0 +1,59 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 5770,
+    "borders": [
+      "MY"
+    ],
+    "calling_code": "673",
+    "capital": "Bandar Seri Begawan",
+    "code": "BN",
+    "name": "Brunei Darussalam",
+    "population": 458949,
+    "population_density": 79.54,
+    "languages": [
+      {
+        "code": "ms",
+        "name": "Malay",
+        "native": "Melayu"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".bn"
+  },
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Dollar",
+    "name_native": "Dolar Brunei",
+    "plural": "Brunei dollars",
+    "plural_native": "Dolar Brunei",
+    "symbol": "BND",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-$ ",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$ ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Brunei",
+    "abbreviation": "BNT",
+    "offset": 8,
+    "offset_with_dst": 8,
+    "time_zone_Etc": "Etc/GMT-8"
+  }
+}

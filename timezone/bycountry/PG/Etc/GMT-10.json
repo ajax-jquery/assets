@@ -1,0 +1,60 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 462840,
+    "borders": [
+      "ID"
+    ],
+    "calling_code": "675",
+    "capital": "Port Moresby",
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "population": 10389635,
+    "population_density": 22.45,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "ho",
+        "name": "Hiri Motu",
+        "native": "Hiri Motu"
+      }
+    ],
+    "tld": ".pg"
+  },
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinean Kina",
+    "name_native": "Papua New Guinean Kina",
+    "plural": "Papua New Guinean kina",
+    "plural_native": "Papua New Guinean kina",
+    "symbol": "PGK",
+    "symbol_native": "K",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-K",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "K",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Pacific/Port_Moresby",
+    "abbreviation": "PGT",
+    "name": "Papua New Guinea Time",
+    "offset": 10,
+    "offset_with_dst": 10,
+    "time_zone": "Pacific/Port_Moresby"
+  }
+}

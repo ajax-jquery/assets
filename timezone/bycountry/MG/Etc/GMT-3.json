@@ -1,0 +1,58 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 587040,
+    "borders": [],
+    "calling_code": "261",
+    "capital": "Antananarivo",
+    "code": "MG",
+    "name": "Madagascar",
+    "population": 31195932,
+    "population_density": 53.14,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "mg",
+        "name": "Malagasy",
+        "native": "Malagasy"
+      }
+    ],
+    "tld": ".mg"
+  },
+  "currency": {
+    "code": "MGA",
+    "name": "Malagasy Ariary",
+    "name_native": "ariary malgache",
+    "plural": "Malagasy ariaries",
+    "plural_native": "ariarys malgaches",
+    "symbol": "MGA",
+    "symbol_native": "Ar",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " Ar"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " Ar"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Indian/Antananarivo",
+    "abbreviation": "EAT",
+    "name": "East Africa Time",
+    "offset": 3,
+    "offset_with_dst": 3,
+    "time_zone": "Indian/Antananarivo"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 6,
+    "borders": [
+      "ES"
+    ],
+    "calling_code": "350",
+    "capital": "Gibraltar",
+    "code": "GI",
+    "name": "Gibraltar",
+    "population": 38471,
+    "population_density": 6411.83,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      },
+      {
+        "code": "it",
+        "name": "Italian",
+        "native": "italiano"
+      },
+      {
+        "code": "pt",
+        "name": "Portuguese",
+        "native": "português"
+      }
+    ],
+    "tld": ".gi"
+  },
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound",
+    "name_native": "Gibraltar Pound",
+    "plural": "Gibraltar pounds",
+    "plural_native": "Gibraltar pounds",
+    "symbol": "GIP",
+    "symbol_native": "£",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-£",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "£",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Gibraltar",
+    "abbreviation": "CET",
+    "name": "Central European Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1,
+    "time_zone": "Europe/Gibraltar"
+  }
+}

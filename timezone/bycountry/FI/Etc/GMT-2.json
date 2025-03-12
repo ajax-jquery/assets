@@ -1,0 +1,62 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 337030,
+    "borders": [
+      "NO",
+      "RU",
+      "SE"
+    ],
+    "calling_code": "358",
+    "capital": "Helsinki",
+    "code": "FI",
+    "name": "Finland",
+    "population": 5583911,
+    "population_density": 16.57,
+    "languages": [
+      {
+        "code": "fi",
+        "name": "Finnish",
+        "native": "suomi"
+      },
+      {
+        "code": "sv",
+        "name": "Swedish",
+        "native": "svenska"
+      }
+    ],
+    "tld": ".fi"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "euro",
+    "plural": "euros",
+    "plural_native": "euroa",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "−",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Helsinki",
+    "abbreviation": "EET",
+    "name": "Eastern European Standard Time",
+    "offset": 2,
+    "offset_with_dst": 2,
+    "time_zone": "Europe/Helsinki"
+  }
+}

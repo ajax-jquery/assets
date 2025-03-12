@@ -1,0 +1,61 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 514000,
+    "borders": [
+      "KH",
+      "LA",
+      "MM",
+      "MY"
+    ],
+    "calling_code": "66",
+    "capital": "Bangkok",
+    "code": "TH",
+    "name": "Thailand",
+    "population": 71702435,
+    "population_density": 139.5,
+    "languages": [
+      {
+        "code": "th",
+        "name": "Thai",
+        "native": "ไทย"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".th"
+  },
+  "currency": {
+    "code": "THB",
+    "name": "Thai Baht",
+    "name_native": "บาท",
+    "plural": "Thai baht",
+    "plural_native": "บาทไทย",
+    "symbol": "THB",
+    "symbol_native": "฿",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-฿",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "฿",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Bangkok",
+    "abbreviation": "ICT",
+    "offset": 7,
+    "offset_with_dst": 7
+  }
+}

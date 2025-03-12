@@ -1,0 +1,65 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 9984670,
+    "borders": [
+      "US"
+    ],
+    "calling_code": "1",
+    "capital": "Ottawa",
+    "code": "CA",
+    "name": "Canada",
+    "population": 40097761,
+    "population_density": 4.02,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "iu",
+        "name": "Inuktitut",
+        "native": "Inuktitut"
+      }
+    ],
+    "tld": ".ca"
+  },
+  "currency": {
+    "code": "CAD",
+    "name": "Canadian Dollar",
+    "name_native": "Canadian Dollar",
+    "plural": "Canadian dollars",
+    "plural_native": "Canadian dollars",
+    "symbol": "CA$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Swift_Current",
+    "abbreviation": "CST",
+    "name": "Central Standard Time",
+    "offset": -6,
+    "offset_with_dst": -6,
+    "time_zone": "America/Swift_Current"
+  }
+}

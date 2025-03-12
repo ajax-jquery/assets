@@ -1,0 +1,65 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 65610,
+    "borders": [
+      "IN"
+    ],
+    "calling_code": "94",
+    "capital": "Colombo",
+    "code": "LK",
+    "name": "Sri Lanka",
+    "population": 22037000,
+    "population_density": 335.88,
+    "languages": [
+      {
+        "code": "si",
+        "name": "Sinhala",
+        "native": "සිංහල"
+      },
+      {
+        "code": "ta",
+        "name": "Tamil",
+        "native": "தமிழ்"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".lk"
+  },
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lankan Rupee",
+    "name_native": "ශ්‍රී ලංකා රුපියල",
+    "plural": "Sri Lankan rupees",
+    "plural_native": "ශ්‍රී ලංකා රුපියල",
+    "symbol": "LKR",
+    "symbol_native": "රු.",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-රු.",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "රු.",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Colombo",
+    "abbreviation": "IST",
+    "name": "India Standard Time",
+    "offset": 5.5,
+    "offset_with_dst": 5.5,
+    "time_zone": "Asia/Colombo"
+  }
+}

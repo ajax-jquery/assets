@@ -1,0 +1,46 @@
+{
+  "continent": {
+    "code": "AN",
+    "name": "Antarctica"
+  },
+  "country": {
+    "area": 0,
+    "borders": [],
+    "calling_code": null,
+    "capital": null,
+    "code": "AQ",
+    "name": "Antarctica",
+    "population": 0,
+    "population_density": 0,
+    "languages": [],
+    "tld": null
+  },
+  "currency": {
+    "code": null,
+    "name": null,
+    "name_native": null,
+    "plural": null,
+    "plural_native": null,
+    "symbol": null,
+    "symbol_native": null,
+    "format": {
+      "decimal_separator": null,
+      "group_separator": null,
+      "negative": {
+        "prefix": null,
+        "suffix": null
+      },
+      "positive": {
+        "prefix": null,
+        "suffix": null
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Antarctica/Vostok",
+    "abbreviation": "VOST",
+    "offset": 5,
+    "offset_with_dst": 5,
+    "time_zone_Etc": "Etc/GMT-5"
+  }
+}

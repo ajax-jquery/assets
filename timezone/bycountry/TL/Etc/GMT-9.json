@@ -1,0 +1,65 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 15007,
+    "borders": [
+      "ID"
+    ],
+    "calling_code": "670",
+    "capital": "Dili",
+    "code": "TL",
+    "name": "Timor-Leste",
+    "population": 1384286,
+    "population_density": 92.24,
+    "languages": [
+      {
+        "code": "pt",
+        "name": "Portuguese",
+        "native": "português"
+      },
+      {
+        "code": "id",
+        "name": "Indonesian",
+        "native": "Indonesia"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".tl"
+  },
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar",
+    "name_native": "dólar dos Estados Unidos",
+    "plural": "US dollars",
+    "plural_native": "dólares dos Estados Unidos",
+    "symbol": "$",
+    "symbol_native": "US$",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " US$"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " US$"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Dili",
+    "abbreviation": "TLT",
+    "name": "East Timor Time",
+    "offset": 9,
+    "offset_with_dst": 9,
+    "time_zone": "Asia/Dili"
+  }
+}

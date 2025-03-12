@@ -1,0 +1,55 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 92391,
+    "borders": [
+      "ES"
+    ],
+    "calling_code": "351",
+    "capital": "Lisbon",
+    "code": "PT",
+    "name": "Portugal",
+    "population": 10578174,
+    "population_density": 114.49,
+    "languages": [
+      {
+        "code": "pt",
+        "name": "Portuguese",
+        "native": "português"
+      }
+    ],
+    "tld": ".pt"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "euro",
+    "plural": "euros",
+    "plural_native": "euros",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Atlantic/Azores",
+    "abbreviation": "AZOT",
+    "name": "Azores Standard Time",
+    "offset": -1,
+    "offset_with_dst": -1,
+    "time_zone": "Atlantic/Azores"
+  }
+}

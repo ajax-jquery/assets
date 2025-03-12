@@ -1,0 +1,67 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 65200,
+    "borders": [
+      "BY",
+      "LV",
+      "PL",
+      "RU"
+    ],
+    "calling_code": "370",
+    "capital": "Vilnius",
+    "code": "LT",
+    "name": "Lithuania",
+    "population": 2871585,
+    "population_density": 44.04,
+    "languages": [
+      {
+        "code": "lt",
+        "name": "Lithuanian",
+        "native": "lietuvių"
+      },
+      {
+        "code": "ru",
+        "name": "Russian",
+        "native": "русский"
+      },
+      {
+        "code": "pl",
+        "name": "Polish",
+        "native": "polski"
+      }
+    ],
+    "tld": ".lt"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "Euras",
+    "plural": "euros",
+    "plural_native": "eurų",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "−",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Vilnius",
+    "abbreviation": "EET",
+    "offset": 2,
+    "offset_with_dst": 2,
+    "time_zone_Etc": "Etc/GMT-2"
+  }
+}

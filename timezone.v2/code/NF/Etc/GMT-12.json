@@ -1,0 +1,52 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 34,
+    "borders": [],
+    "calling_code": "672",
+    "capital": "Kingston",
+    "code": "NF",
+    "name": "Norfolk Island",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".nf"
+  },
+  "currency": {
+    "code": "AUD",
+    "name": "Australian Dollar",
+    "name_native": "Australian Dollar",
+    "plural": "Australian dollars",
+    "plural_native": "Australian dollars",
+    "symbol": "A$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Pacific/Norfolk",
+    "abbreviation": "NFDT",
+    "offset": 12,
+    "offset_with_dst": 13,
+    "time_zone_Etc": "Etc/GMT-12"
+  }
+}

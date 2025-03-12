@@ -1,0 +1,57 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 267667,
+    "borders": [
+      "CG",
+      "CM",
+      "GQ"
+    ],
+    "calling_code": "241",
+    "capital": "Libreville",
+    "code": "GA",
+    "name": "Gabon",
+    "population": 2484789,
+    "population_density": 9.28,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".ga"
+  },
+  "currency": {
+    "code": "XAF",
+    "name": "Central African CFA Franc",
+    "name_native": "franc CFA (BEAC)",
+    "plural": "Central African CFA francs",
+    "plural_native": "francs CFA (BEAC)",
+    "symbol": "FCFA",
+    "symbol_native": "FCFA",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " FCFA"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " FCFA"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Libreville",
+    "abbreviation": "WAT",
+    "name": "West Africa Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1,
+    "time_zone": "Africa/Libreville"
+  }
+}

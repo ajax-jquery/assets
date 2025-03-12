@@ -1,0 +1,53 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 19060,
+    "borders": [],
+    "calling_code": "687",
+    "capital": "Nouméa",
+    "code": "NC",
+    "name": "New Caledonia",
+    "population": 289870,
+    "population_density": 15.21,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".nc"
+  },
+  "currency": {
+    "code": "XPF",
+    "name": "CFP Franc",
+    "name_native": "franc CFP",
+    "plural": "CFP francs",
+    "plural_native": "francs CFP",
+    "symbol": "CFPF",
+    "symbol_native": "FCFP",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " FCFP"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " FCFP"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Pacific/Noumea",
+    "abbreviation": "NCT",
+    "name": "New Caledonia Standard Time",
+    "offset": 11,
+    "offset_with_dst": 11,
+    "time_zone": "Pacific/Noumea"
+  }
+}

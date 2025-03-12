@@ -1,0 +1,58 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 455,
+    "borders": [],
+    "calling_code": "248",
+    "capital": "Victoria",
+    "code": "SC",
+    "name": "Seychelles",
+    "population": 119773,
+    "population_density": 263.24,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".sc"
+  },
+  "currency": {
+    "code": "SCR",
+    "name": "Seychellois Rupee",
+    "name_native": "Seychellois Rupee",
+    "plural": "Seychellois rupees",
+    "plural_native": "Seychellois rupees",
+    "symbol": "SCR",
+    "symbol_native": "SR",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-SR",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "SR",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Indian/Mahe",
+    "abbreviation": "SCT",
+    "name": "Seychelles Time",
+    "offset": 4,
+    "offset_with_dst": 4,
+    "time_zone": "Indian/Mahe"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "continent": {
+    "code": "SA",
+    "name": "South America"
+  },
+  "country": {
+    "area": 163270,
+    "borders": [
+      "BR",
+      "GF",
+      "GY"
+    ],
+    "calling_code": "597",
+    "capital": "Paramaribo",
+    "code": "SR",
+    "name": "Suriname",
+    "population": 628886,
+    "population_density": 3.85,
+    "languages": [
+      {
+        "code": "nl",
+        "name": "Dutch",
+        "native": "Nederlands"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "jv",
+        "name": "Javanese",
+        "native": "Jawa"
+      }
+    ],
+    "tld": ".sr"
+  },
+  "currency": {
+    "code": "SRD",
+    "name": "Surinamese Dollar",
+    "name_native": "Surinaamse dollar",
+    "plural": "Surinamese dollars",
+    "plural_native": "Surinaamse dollar",
+    "symbol": "SRD",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "$ -",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$ ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Paramaribo",
+    "abbreviation": "SRT",
+    "offset": -3,
+    "offset_with_dst": -3
+  }
+}

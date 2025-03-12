@@ -1,0 +1,65 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 752614,
+    "borders": [
+      "AO",
+      "BW",
+      "CD",
+      "MW",
+      "MZ",
+      "NA",
+      "TZ",
+      "ZW"
+    ],
+    "calling_code": "260",
+    "capital": "Lusaka",
+    "code": "ZM",
+    "name": "Zambia",
+    "population": 20723965,
+    "population_density": 27.54,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "ny",
+        "name": "Nyanja",
+        "native": "Nyanja"
+      }
+    ],
+    "tld": ".zm"
+  },
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambian Kwacha",
+    "name_native": "Zambian Kwacha",
+    "plural": "Zambian kwachas",
+    "plural_native": "Zambian kwachas",
+    "symbol": "ZMW",
+    "symbol_native": "K",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-K",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "K",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Lusaka",
+    "abbreviation": "CAT",
+    "offset": 2,
+    "offset_with_dst": 2
+  }
+}

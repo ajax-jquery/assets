@@ -1,0 +1,58 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 14,
+    "borders": [],
+    "calling_code": "61",
+    "capital": "West Island",
+    "code": "CC",
+    "name": "Cocos",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "ms",
+        "name": "Malay",
+        "native": "Malay"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".cc"
+  },
+  "currency": {
+    "code": "AUD",
+    "name": "Australian Dollar",
+    "name_native": "Australian Dollar",
+    "plural": "Australian dollars",
+    "plural_native": "Australian dollars",
+    "symbol": "A$",
+    "symbol_native": "A$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-A$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "A$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Indian/Cocos",
+    "abbreviation": "CCT",
+    "name": "Cocos Islands Time",
+    "offset": 6.5,
+    "offset_with_dst": 6.5,
+    "time_zone": "Indian/Cocos"
+  }
+}

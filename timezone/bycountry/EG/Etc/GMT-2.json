@@ -1,0 +1,68 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 1001450,
+    "borders": [
+      "IL",
+      "LY",
+      "PS",
+      "SD"
+    ],
+    "calling_code": "20",
+    "capital": "Cairo",
+    "code": "EG",
+    "name": "Egypt",
+    "population": 114535772,
+    "population_density": 114.37,
+    "languages": [
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".eg"
+  },
+  "currency": {
+    "code": "EGP",
+    "name": "Egyptian Pound",
+    "name_native": "جنيه مصري",
+    "plural": "Egyptian pounds",
+    "plural_native": "جنيه مصري",
+    "symbol": "EGP",
+    "symbol_native": "ج.م.‏",
+    "format": {
+      "decimal_separator": "٫",
+      "group_separator": "٬",
+      "negative": {
+        "prefix": "؜-‏",
+        "suffix": " ج.م.‏"
+      },
+      "positive": {
+        "prefix": "‏",
+        "suffix": " ج.م.‏"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Cairo",
+    "abbreviation": "EET",
+    "name": "Eastern European Standard Time",
+    "offset": 2,
+    "offset_with_dst": 2,
+    "time_zone": "Africa/Cairo"
+  }
+}

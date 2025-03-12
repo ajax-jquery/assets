@@ -1,0 +1,57 @@
+{
+  "continent": {
+    "code": "SA",
+    "name": "South America"
+  },
+  "country": {
+    "area": 756950,
+    "borders": [
+      "AR",
+      "BO",
+      "PE"
+    ],
+    "calling_code": "56",
+    "capital": "Santiago",
+    "code": "CL",
+    "name": "Chile",
+    "population": 19658835,
+    "population_density": 25.97,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      }
+    ],
+    "tld": ".cl"
+  },
+  "currency": {
+    "code": "CLP",
+    "name": "Chilean Peso",
+    "name_native": "Peso chileno",
+    "plural": "Chilean pesos",
+    "plural_native": "pesos chilenos",
+    "symbol": "CLP",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "$-",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Pacific/Easter",
+    "abbreviation": "EAST",
+    "name": "Easter Island Standard Time",
+    "offset": -6,
+    "offset_with_dst": -5,
+    "time_zone": "Pacific/Easter"
+  }
+}

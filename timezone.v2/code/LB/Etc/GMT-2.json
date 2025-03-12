@@ -1,0 +1,70 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 10400,
+    "borders": [
+      "IL",
+      "SY"
+    ],
+    "calling_code": "961",
+    "capital": "Beirut",
+    "code": "LB",
+    "name": "Lebanon",
+    "population": 5773493,
+    "population_density": 555.14,
+    "languages": [
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "hy",
+        "name": "Armenian",
+        "native": "հայերեն"
+      }
+    ],
+    "tld": ".lb"
+  },
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanese Pound",
+    "name_native": "جنيه لبناني",
+    "plural": "Lebanese pounds",
+    "plural_native": "جنيه لبناني",
+    "symbol": "LBP",
+    "symbol_native": "ل.ل.‏",
+    "format": {
+      "decimal_separator": "٫",
+      "group_separator": "٬",
+      "negative": {
+        "prefix": "؜-‏",
+        "suffix": " ل.ل.‏"
+      },
+      "positive": {
+        "prefix": "‏",
+        "suffix": " ل.ل.‏"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Beirut",
+    "abbreviation": "EET",
+    "offset": 2,
+    "offset_with_dst": 2,
+    "time_zone_Etc": "Etc/GMT-2"
+  }
+}

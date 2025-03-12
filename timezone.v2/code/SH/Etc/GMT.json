@@ -1,0 +1,52 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 410,
+    "borders": [],
+    "calling_code": "290",
+    "capital": "Jamestown",
+    "code": "SH",
+    "name": "Saint Helena",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".sh"
+  },
+  "currency": {
+    "code": "SHP",
+    "name": "St. Helena Pound",
+    "name_native": "St Helena Pound",
+    "plural": "St. Helena pounds",
+    "plural_native": "St Helena pounds",
+    "symbol": "SHP",
+    "symbol_native": "£",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-£",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "£",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Atlantic/St_Helena",
+    "abbreviation": "GMT",
+    "offset": 0,
+    "offset_with_dst": 0,
+    "time_zone_Etc": "Etc/GMT"
+  }
+}

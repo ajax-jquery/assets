@@ -1,0 +1,54 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 338424,
+    "borders": [
+      "NO",
+      "SE",
+      "RU"
+    ],
+    "calling_code": "358",
+    "capital": "Helsinki",
+    "code": "FI",
+    "name": "Finland",
+    "population": 5542517,
+    "population_density": 16.38,
+    "languages": [
+      {
+        "code": "fi",
+        "name": "Finnish",
+        "native": "Suomi"
+      },
+      {
+        "code": "sv",
+        "name": "Swedish",
+        "native": "Svenska"
+      }
+    ],
+    "tld": ".fi"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "Euro",
+    "plural": "Euros",
+    "plural_native": "Euroa",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 181040,
+    "borders": [
+      "LA",
+      "TH",
+      "VN"
+    ],
+    "calling_code": "855",
+    "capital": "Phnom Penh",
+    "code": "KH",
+    "name": "Cambodia",
+    "population": 17423880,
+    "population_density": 96.24,
+    "languages": [
+      {
+        "code": "km",
+        "name": "Khmer",
+        "native": "ខ្មែរ"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".kh"
+  },
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodian Riel",
+    "name_native": "រៀល​កម្ពុជា",
+    "plural": "Cambodian riels",
+    "plural_native": "រៀល​កម្ពុជា",
+    "symbol": "KHR",
+    "symbol_native": "៛",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-",
+        "suffix": "៛"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": "៛"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Phnom_Penh",
+    "abbreviation": "ICT",
+    "offset": 7,
+    "offset_with_dst": 7,
+    "time_zone_Etc": "Etc/GMT-7"
+  }
+}

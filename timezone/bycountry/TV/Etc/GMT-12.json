@@ -1,0 +1,58 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 26,
+    "borders": [],
+    "calling_code": "688",
+    "capital": "Funafuti",
+    "code": "TV",
+    "name": "Tuvalu",
+    "population": 9816,
+    "population_density": 377.54,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "sm",
+        "name": "Samoan",
+        "native": "Samoan"
+      }
+    ],
+    "tld": ".tv"
+  },
+  "currency": {
+    "code": "AUD",
+    "name": "Australian Dollar",
+    "name_native": "Australian Dollar",
+    "plural": "Australian dollars",
+    "plural_native": "Australian dollars",
+    "symbol": "A$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Pacific/Funafuti",
+    "abbreviation": "TVT",
+    "name": "Tuvalu Time",
+    "offset": 12,
+    "offset_with_dst": 12,
+    "time_zone": "Pacific/Funafuti"
+  }
+}

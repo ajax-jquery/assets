@@ -1,0 +1,73 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 825418,
+    "borders": [
+      "AO",
+      "BW",
+      "ZA",
+      "ZM"
+    ],
+    "calling_code": "264",
+    "capital": "Windhoek",
+    "code": "NA",
+    "name": "Namibia",
+    "population": 2963095,
+    "population_density": 3.59,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "af",
+        "name": "Afrikaans",
+        "native": "Afrikaans"
+      },
+      {
+        "code": "de",
+        "name": "German",
+        "native": "Deutsch"
+      },
+      {
+        "code": "hz",
+        "name": "Herero",
+        "native": "Herero"
+      }
+    ],
+    "tld": ".na"
+  },
+  "currency": {
+    "code": "NAD",
+    "name": "Namibian Dollar",
+    "name_native": "Namibian Dollar",
+    "plural": "Namibian dollars",
+    "plural_native": "Namibian dollars",
+    "symbol": "NAD",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Windhoek",
+    "abbreviation": "CAT",
+    "name": "Central Africa Time",
+    "offset": 1,
+    "offset_with_dst": 2,
+    "time_zone": "Africa/Windhoek"
+  }
+}

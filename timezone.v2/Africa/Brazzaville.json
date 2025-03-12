@@ -1,0 +1,67 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 342000,
+    "borders": [
+      "AO",
+      "CD",
+      "CF",
+      "CM",
+      "GA"
+    ],
+    "calling_code": "242",
+    "capital": "Brazzaville",
+    "code": "CG",
+    "name": "Congo",
+    "population": 6182885,
+    "population_density": 18.08,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "kg",
+        "name": "Kongo",
+        "native": "Kongo"
+      },
+      {
+        "code": "ln",
+        "name": "Lingala",
+        "native": "lingála"
+      }
+    ],
+    "tld": ".cg"
+  },
+  "currency": {
+    "code": "XAF",
+    "name": "Central African CFA Franc",
+    "name_native": "franc CFA (BEAC)",
+    "plural": "Central African CFA francs",
+    "plural_native": "francs CFA (BEAC)",
+    "symbol": "FCFA",
+    "symbol_native": "FCFA",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " FCFA"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " FCFA"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Brazzaville",
+    "abbreviation": "WAT",
+    "offset": 1,
+    "offset_with_dst": 1
+  }
+}

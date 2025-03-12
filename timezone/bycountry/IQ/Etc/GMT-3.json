@@ -1,0 +1,70 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 437072,
+    "borders": [
+      "IR",
+      "JO",
+      "KW",
+      "SA",
+      "SY",
+      "TR"
+    ],
+    "calling_code": "964",
+    "capital": "Baghdad",
+    "code": "IQ",
+    "name": "Iraq",
+    "population": 45074049,
+    "population_density": 103.13,
+    "languages": [
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      },
+      {
+        "code": "ku",
+        "name": "Kurdish",
+        "native": "kurdî (kurmancî)"
+      },
+      {
+        "code": "hy",
+        "name": "Armenian",
+        "native": "հայերեն"
+      }
+    ],
+    "tld": ".iq"
+  },
+  "currency": {
+    "code": "IQD",
+    "name": "Iraqi Dinar",
+    "name_native": "دينار عراقي",
+    "plural": "Iraqi dinars",
+    "plural_native": "دينار عراقي",
+    "symbol": "IQD",
+    "symbol_native": "د.ع.‏",
+    "format": {
+      "decimal_separator": "٫",
+      "group_separator": "٬",
+      "negative": {
+        "prefix": "؜-‏",
+        "suffix": " د.ع.‏"
+      },
+      "positive": {
+        "prefix": "‏",
+        "suffix": " د.ع.‏"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Baghdad",
+    "abbreviation": "AST",
+    "name": "Arabian Standard Time",
+    "offset": 3,
+    "offset_with_dst": 3,
+    "time_zone": "Asia/Baghdad"
+  }
+}

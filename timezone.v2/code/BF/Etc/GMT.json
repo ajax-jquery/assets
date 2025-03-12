@@ -1,0 +1,64 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 274200,
+    "borders": [
+      "BJ",
+      "CI",
+      "GH",
+      "ML",
+      "NE",
+      "TG"
+    ],
+    "calling_code": "226",
+    "capital": "Ouagadougou",
+    "code": "BF",
+    "name": "Burkina Faso",
+    "population": 22673762,
+    "population_density": 82.69,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "Français"
+      },
+      {
+        "code": "mos",
+        "name": "Mossi",
+        "native": "Mòoré"
+      }
+    ],
+    "tld": ".bf"
+  },
+  "currency": {
+    "code": "XOF",
+    "name": "West African CFA Franc",
+    "name_native": "Franc CFA d'Afrique de l'Ouest",
+    "plural": "West African CFA francs",
+    "plural_native": "Francs CFA d'Afrique de l'Ouest",
+    "symbol": "CFA",
+    "symbol_native": "CFA",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-",
+        "suffix": " CFA"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " CFA"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Ouagadougou",
+    "abbreviation": "GMT",
+    "offset": 0,
+    "offset_with_dst": 0,
+    "time_zone_Etc": "Etc/GMT"
+  }
+}

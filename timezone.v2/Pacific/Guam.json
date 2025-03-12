@@ -1,0 +1,56 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 549,
+    "borders": [],
+    "calling_code": "+1-671",
+    "capital": "Hagåtña",
+    "code": "GU",
+    "name": "Guam",
+    "population": 166506,
+    "population_density": 303.29,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "ch",
+        "name": "Chamorro",
+        "native": "Chamorro"
+      }
+    ],
+    "tld": ".gu"
+  },
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar",
+    "name_native": "US Dollar",
+    "plural": "US dollars",
+    "plural_native": "US dollars",
+    "symbol": "$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Pacific/Guam",
+    "abbreviation": "ChST",
+    "offset": 10,
+    "offset_with_dst": 10
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 11300,
+    "borders": [
+      "SN"
+    ],
+    "calling_code": "220",
+    "capital": "Banjul",
+    "code": "GM",
+    "name": "Gambia",
+    "population": 2697845,
+    "population_density": 238.75,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "wo",
+        "name": "Wolof",
+        "native": "Wolof"
+      },
+      {
+        "code": "ff",
+        "name": "Fula",
+        "native": "Pulaar"
+      }
+    ],
+    "tld": ".gm"
+  },
+  "currency": {
+    "code": "GMD",
+    "name": "Gambian Dalasi",
+    "name_native": "Gambian Dalasi",
+    "plural": "Gambian dalasis",
+    "plural_native": "Gambian dalasis",
+    "symbol": "GMD",
+    "symbol_native": "D",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-D",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "D",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Banjul",
+    "abbreviation": "GMT",
+    "name": "Greenwich Mean Time",
+    "offset": 0,
+    "offset_with_dst": 0,
+    "time_zone": "Africa/Banjul"
+  }
+}

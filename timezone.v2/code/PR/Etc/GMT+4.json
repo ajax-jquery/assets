@@ -1,0 +1,57 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 8870,
+    "borders": [],
+    "calling_code": "+1-787, +1-939",
+    "capital": "San Juan",
+    "code": "PR",
+    "name": "Puerto Rico",
+    "population": 2695058,
+    "population_density": 303.84,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "Español"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".pr"
+  },
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar",
+    "name_native": "$",
+    "plural": "US dollars",
+    "plural_native": "$",
+    "symbol": "$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Puerto_Rico",
+    "abbreviation": "AST",
+    "offset": -4,
+    "offset_with_dst": -4,
+    "time_zone_Etc": "Etc/GMT+4"
+  }
+}

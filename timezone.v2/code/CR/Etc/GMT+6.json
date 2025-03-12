@@ -1,0 +1,60 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 51100,
+    "borders": [
+      "NI",
+      "PA"
+    ],
+    "calling_code": "506",
+    "capital": "San José",
+    "code": "CR",
+    "name": "Costa Rica",
+    "population": 5105525,
+    "population_density": 99.91,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".cr"
+  },
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rican Colón",
+    "name_native": "colón costarricense",
+    "plural": "Costa Rican colóns",
+    "plural_native": "colones costarricenses",
+    "symbol": "CRC",
+    "symbol_native": "₡",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-₡",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "₡",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Costa_Rica",
+    "abbreviation": "CST",
+    "offset": -6,
+    "offset_with_dst": -6,
+    "time_zone_Etc": "Etc/GMT+6"
+  }
+}

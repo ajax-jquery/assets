@@ -1,0 +1,53 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 47,
+    "borders": [],
+    "calling_code": "870",
+    "capital": "Adamstown",
+    "code": "PN",
+    "name": "Pitcairn",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".pn"
+  },
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar",
+    "name_native": "New Zealand Dollar",
+    "plural": "New Zealand dollars",
+    "plural_native": "New Zealand dollars",
+    "symbol": "NZ$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Pacific/Pitcairn",
+    "abbreviation": "PST",
+    "name": "Pitcairn Time",
+    "offset": -8,
+    "offset_with_dst": -8,
+    "time_zone": "Pacific/Pitcairn"
+  }
+}

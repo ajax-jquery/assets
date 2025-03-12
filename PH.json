@@ -1,0 +1,51 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 300000,
+    "borders": [],
+    "calling_code": "63",
+    "capital": "Manila",
+    "code": "PH",
+    "name": "Philippines",
+    "population": 115559009,
+    "population_density": 385.2,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+          "code": "tl",
+          "name": "Tagalog",
+          "native": "Tagalog"
+      }
+
+    ],
+    "tld": ".ph"
+  },
+  "currency": {
+    "code": "PHP",
+    "name": "Philippine Peso",
+    "name_native": "Piso",
+    "plural": "Philippine pesos",
+    "plural_native": "Pisos",
+    "symbol": "₱",
+    "symbol_native": "₱",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-₱",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "₱",
+        "suffix": ""
+      }
+    }
+  }
+}

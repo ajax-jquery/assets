@@ -1,0 +1,69 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 1267000,
+    "borders": [
+      "BF",
+      "BJ",
+      "DZ",
+      "LY",
+      "ML",
+      "NG",
+      "TD"
+    ],
+    "calling_code": "227",
+    "capital": "Niamey",
+    "code": "NE",
+    "name": "Niger",
+    "population": 26159867,
+    "population_density": 20.65,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "ha",
+        "name": "Hausa",
+        "native": "Hausa"
+      },
+      {
+        "code": "kr",
+        "name": "Kanuri",
+        "native": "Kanuri"
+      }
+    ],
+    "tld": ".ne"
+  },
+  "currency": {
+    "code": "XOF",
+    "name": "West African CFA Franc",
+    "name_native": "franc CFA (BCEAO)",
+    "plural": "West African CFA francs",
+    "plural_native": "francs CFA (BCEAO)",
+    "symbol": "F CFA",
+    "symbol_native": "F CFA",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " F CFA"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " F CFA"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Niamey",
+    "abbreviation": "WAT",
+    "offset": 1,
+    "offset_with_dst": 1
+  }
+}

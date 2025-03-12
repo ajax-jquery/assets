@@ -1,0 +1,62 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 600370,
+    "borders": [
+      "NA",
+      "ZA",
+      "ZM",
+      "ZW"
+    ],
+    "calling_code": "267",
+    "capital": "Gaborone",
+    "code": "BW",
+    "name": "Botswana",
+    "population": 2480244,
+    "population_density": 4.13,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "tn",
+        "name": "Tswana",
+        "native": "Setswana"
+      }
+    ],
+    "tld": ".bw"
+  },
+  "currency": {
+    "code": "BWP",
+    "name": "Botswanan Pula",
+    "name_native": "Botswanan Pula",
+    "plural": "Botswanan pulas",
+    "plural_native": "Botswanan pulas",
+    "symbol": "BWP",
+    "symbol_native": "P",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-P",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "P",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Gaborone",
+    "abbreviation": "CAT",
+    "offset": 2,
+    "offset_with_dst": 2,
+    "time_zone_Etc": "Etc/GMT-2"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 112620,
+    "borders": [
+      "BF",
+      "NE",
+      "NG",
+      "TG"
+    ],
+    "calling_code": "229",
+    "capital": "Porto-Novo",
+    "code": "BJ",
+    "name": "Benin",
+    "population": 14111034,
+    "population_density": 125.3,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".bj"
+  },
+  "currency": {
+    "code": "XOF",
+    "name": "West African CFA Franc",
+    "name_native": "franc CFA (BCEAO)",
+    "plural": "West African CFA francs",
+    "plural_native": "francs CFA (BCEAO)",
+    "symbol": "F CFA",
+    "symbol_native": "F CFA",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " F CFA"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " F CFA"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Porto-Novo",
+    "abbreviation": "WAT",
+    "name": "West Africa Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1,
+    "time_zone": "Africa/Porto-Novo"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 13940,
+    "borders": [],
+    "calling_code": "+1-242",
+    "capital": "Nassau",
+    "code": "BS",
+    "name": "Bahamas",
+    "population": 399440,
+    "population_density": 28.65,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".bs"
+  },
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamian Dollar",
+    "name_native": "Bahamian Dollar",
+    "plural": "Bahamian dollars",
+    "plural_native": "Bahamian dollars",
+    "symbol": "BSD",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Nassau",
+    "abbreviation": "EDT",
+    "offset": -4,
+    "offset_with_dst": -3,
+    "time_zone_Etc": "Etc/GMT+4"
+  }
+}

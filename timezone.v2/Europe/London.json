@@ -1,0 +1,63 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 244820,
+    "borders": [
+      "IE"
+    ],
+    "calling_code": "44",
+    "capital": "London",
+    "code": "GB",
+    "name": "United Kingdom",
+    "population": 68350000,
+    "population_density": 279.18,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "cy",
+        "name": "Welsh",
+        "native": "Cymraeg"
+      },
+      {
+        "code": "gd",
+        "name": "Scottish Gaelic",
+        "native": "Gàidhlig"
+      }
+    ],
+    "tld": ".uk"
+  },
+  "currency": {
+    "code": "GBP",
+    "name": "British Pound",
+    "name_native": "British Pound",
+    "plural": "British pounds",
+    "plural_native": "British pounds",
+    "symbol": "£",
+    "symbol_native": "£",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-£",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "£",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/London",
+    "abbreviation": "GMT",
+    "offset": 0,
+    "offset_with_dst": 0
+  }
+}

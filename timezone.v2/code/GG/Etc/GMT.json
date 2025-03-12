@@ -1,0 +1,52 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 78,
+    "borders": [],
+    "calling_code": "+44-1481",
+    "capital": "St. Peter Port",
+    "code": "GG",
+    "name": "Guernsey",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".gg"
+  },
+  "currency": {
+    "code": "GBP",
+    "name": "British Pound",
+    "name_native": "UK Pound",
+    "plural": "British pounds",
+    "plural_native": "UK pounds",
+    "symbol": "£",
+    "symbol_native": "£",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-£",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "£",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Guernsey",
+    "abbreviation": "GMT",
+    "offset": 0,
+    "offset_with_dst": 0,
+    "time_zone_Etc": "Etc/GMT"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 29800,
+    "borders": [
+      "AZ",
+      "GE",
+      "IR",
+      "TR"
+    ],
+    "calling_code": "374",
+    "capital": "Yerevan",
+    "code": "AM",
+    "name": "Armenia",
+    "population": 2990900,
+    "population_density": 100.37,
+    "languages": [
+      {
+        "code": "hy",
+        "name": "Armenian",
+        "native": "հայերեն"
+      }
+    ],
+    "tld": ".am"
+  },
+  "currency": {
+    "code": "AMD",
+    "name": "Armenian Dram",
+    "name_native": "հայկական դրամ",
+    "plural": "Armenian drams",
+    "plural_native": "հայկական դրամ",
+    "symbol": "AMD",
+    "symbol_native": "֏",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " ֏"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " ֏"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Yerevan",
+    "abbreviation": "AMT",
+    "name": "Armenia Standard Time",
+    "offset": 4,
+    "offset_with_dst": 4,
+    "time_zone": "Asia/Yerevan"
+  }
+}

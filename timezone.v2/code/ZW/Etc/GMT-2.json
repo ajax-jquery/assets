@@ -1,0 +1,72 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 390580,
+    "borders": [
+      "BW",
+      "MZ",
+      "ZA",
+      "ZM"
+    ],
+    "calling_code": "263",
+    "capital": "Harare",
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "population": 16340822,
+    "population_density": 41.84,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "sn",
+        "name": "Shona",
+        "native": "chiShona"
+      },
+      {
+        "code": "nr",
+        "name": "South Ndebele",
+        "native": "South Ndebele"
+      },
+      {
+        "code": "nd",
+        "name": "North Ndebele",
+        "native": "isiNdebele"
+      }
+    ],
+    "tld": ".zw"
+  },
+  "currency": {
+    "code": "ZWG",
+    "name": "Zimbabwean Gold",
+    "name_native": "Zimbabwean Gold",
+    "plural": "Zimbabwean gold",
+    "plural_native": "Zimbabwean gold",
+    "symbol": "ZWG",
+    "symbol_native": "ZWG",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-ZWG",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "ZWG",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Harare",
+    "abbreviation": "CAT",
+    "offset": 2,
+    "offset_with_dst": 2,
+    "time_zone_Etc": "Etc/GMT-2"
+  }
+}

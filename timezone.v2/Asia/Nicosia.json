@@ -1,0 +1,61 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 9250,
+    "borders": [],
+    "calling_code": "357",
+    "capital": "Nicosia",
+    "code": "CY",
+    "name": "Cyprus",
+    "population": 1344976,
+    "population_density": 145.4,
+    "languages": [
+      {
+        "code": "el",
+        "name": "Greek",
+        "native": "Ελληνικά"
+      },
+      {
+        "code": "tr",
+        "name": "Turkish",
+        "native": "Türkçe"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".cy"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "Ευρώ",
+    "plural": "euros",
+    "plural_native": "ευρώ",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Nicosia",
+    "abbreviation": "EET",
+    "offset": 2,
+    "offset_with_dst": 2
+  }
+}

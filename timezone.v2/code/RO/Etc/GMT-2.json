@@ -1,0 +1,63 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 237500,
+    "borders": [
+      "BG",
+      "HU",
+      "MD",
+      "RS",
+      "UA"
+    ],
+    "calling_code": "40",
+    "capital": "Bucharest",
+    "code": "RO",
+    "name": "Romania",
+    "population": 19059479,
+    "population_density": 80.25,
+    "languages": [
+      {
+        "code": "ro",
+        "name": "Romanian",
+        "native": "română"
+      },
+      {
+        "code": "hu",
+        "name": "Hungarian",
+        "native": "magyar"
+      }
+    ],
+    "tld": ".ro"
+  },
+  "currency": {
+    "code": "RON",
+    "name": "Romanian Leu",
+    "name_native": "leu românesc",
+    "plural": "Romanian lei",
+    "plural_native": "lei românești",
+    "symbol": "RON",
+    "symbol_native": "RON",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-",
+        "suffix": " RON"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " RON"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Bucharest",
+    "abbreviation": "EET",
+    "offset": 2,
+    "offset_with_dst": 2,
+    "time_zone_Etc": "Etc/GMT-2"
+  }
+}

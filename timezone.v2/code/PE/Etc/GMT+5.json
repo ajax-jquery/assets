@@ -1,0 +1,68 @@
+{
+  "continent": {
+    "code": "SA",
+    "name": "South America"
+  },
+  "country": {
+    "area": 1285220,
+    "borders": [
+      "BO",
+      "BR",
+      "CL",
+      "CO",
+      "EC"
+    ],
+    "calling_code": "51",
+    "capital": "Lima",
+    "code": "PE",
+    "name": "Peru",
+    "population": 33845617,
+    "population_density": 26.33,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      },
+      {
+        "code": "qu",
+        "name": "Quechua",
+        "native": "Runasimi"
+      },
+      {
+        "code": "ay",
+        "name": "Aymara",
+        "native": "Aymara"
+      }
+    ],
+    "tld": ".pe"
+  },
+  "currency": {
+    "code": "PEN",
+    "name": "Peruvian Sol",
+    "name_native": "sol peruano",
+    "plural": "Peruvian soles",
+    "plural_native": "soles peruanos",
+    "symbol": "PEN",
+    "symbol_native": "S/",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-S/ ",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "S/ ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Lima",
+    "abbreviation": "PET",
+    "offset": -5,
+    "offset_with_dst": -5,
+    "time_zone_Etc": "Etc/GMT+5"
+  }
+}

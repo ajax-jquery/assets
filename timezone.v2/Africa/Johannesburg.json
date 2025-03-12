@@ -1,0 +1,103 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 1219912,
+    "borders": [
+      "BW",
+      "LS",
+      "MZ",
+      "NA",
+      "SZ",
+      "ZW"
+    ],
+    "calling_code": "27",
+    "capital": "Pretoria,Bloemfontein,Cape Town",
+    "code": "ZA",
+    "name": "South Africa",
+    "population": 63212384,
+    "population_density": 51.82,
+    "languages": [
+      {
+        "code": "zu",
+        "name": "Zulu",
+        "native": "isiZulu"
+      },
+      {
+        "code": "xh",
+        "name": "Xhosa",
+        "native": "IsiXhosa"
+      },
+      {
+        "code": "af",
+        "name": "Afrikaans",
+        "native": "Afrikaans"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "tn",
+        "name": "Tswana",
+        "native": "Setswana"
+      },
+      {
+        "code": "st",
+        "name": "Southern Sotho",
+        "native": "Sesotho"
+      },
+      {
+        "code": "ts",
+        "name": "Tsonga",
+        "native": "Tsonga"
+      },
+      {
+        "code": "ss",
+        "name": "Swati",
+        "native": "Swati"
+      },
+      {
+        "code": "ve",
+        "name": "Venda",
+        "native": "Venda"
+      },
+      {
+        "code": "nr",
+        "name": "South Ndebele",
+        "native": "South Ndebele"
+      }
+    ],
+    "tld": ".za"
+  },
+  "currency": {
+    "code": "ZAR",
+    "name": "South African Rand",
+    "name_native": "i-South African Rand",
+    "plural": "South African rand",
+    "plural_native": "i-South African Rand",
+    "symbol": "ZAR",
+    "symbol_native": "R",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-R",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "R",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Johannesburg",
+    "abbreviation": "SAST",
+    "offset": 2,
+    "offset_with_dst": 2
+  }
+}

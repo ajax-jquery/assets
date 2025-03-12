@@ -1,0 +1,61 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 312685,
+    "borders": [
+      "BY",
+      "CZ",
+      "DE",
+      "LT",
+      "RU",
+      "SK",
+      "UA"
+    ],
+    "calling_code": "48",
+    "capital": "Warsaw",
+    "code": "PL",
+    "name": "Poland",
+    "population": 36687353,
+    "population_density": 117.33,
+    "languages": [
+      {
+        "code": "pl",
+        "name": "Polish",
+        "native": "polski"
+      }
+    ],
+    "tld": ".pl"
+  },
+  "currency": {
+    "code": "PLN",
+    "name": "Polish Zloty",
+    "name_native": "złoty polski",
+    "plural": "Polish zlotys",
+    "plural_native": "złotego polskiego",
+    "symbol": "PLN",
+    "symbol_native": "zł",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " zł"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " zł"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Warsaw",
+    "abbreviation": "CET",
+    "name": "Central European Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1,
+    "time_zone": "Europe/Warsaw"
+  }
+}

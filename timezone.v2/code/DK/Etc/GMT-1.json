@@ -1,0 +1,69 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 43094,
+    "borders": [
+      "DE"
+    ],
+    "calling_code": "45",
+    "capital": "Copenhagen",
+    "code": "DK",
+    "name": "Denmark",
+    "population": 5946952,
+    "population_density": 138,
+    "languages": [
+      {
+        "code": "da",
+        "name": "Danish",
+        "native": "dansk"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "fo",
+        "name": "Faroese",
+        "native": "føroyskt"
+      },
+      {
+        "code": "de",
+        "name": "German",
+        "native": "Deutsch"
+      }
+    ],
+    "tld": ".dk"
+  },
+  "currency": {
+    "code": "DKK",
+    "name": "Danish Krone",
+    "name_native": "dansk krone",
+    "plural": "Danish kroner",
+    "plural_native": "danske kroner",
+    "symbol": "DKK",
+    "symbol_native": "kr.",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-",
+        "suffix": " kr."
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " kr."
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Copenhagen",
+    "abbreviation": "CET",
+    "offset": 1,
+    "offset_with_dst": 1,
+    "time_zone_Etc": "Etc/GMT-1"
+  }
+}

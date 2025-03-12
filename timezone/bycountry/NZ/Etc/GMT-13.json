@@ -1,0 +1,58 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 268680,
+    "borders": [],
+    "calling_code": "64",
+    "capital": "Wellington",
+    "code": "NZ",
+    "name": "New Zealand",
+    "population": 5223100,
+    "population_density": 19.44,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "mi",
+        "name": "Māori",
+        "native": "Māori"
+      }
+    ],
+    "tld": ".nz"
+  },
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar",
+    "name_native": "New Zealand Dollar",
+    "plural": "New Zealand dollars",
+    "plural_native": "New Zealand dollars",
+    "symbol": "NZ$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Pacific/Auckland",
+    "abbreviation": "NZST",
+    "name": "New Zealand Standard Time",
+    "offset": 12,
+    "offset_with_dst": 13,
+    "time_zone": "Pacific/Auckland"
+  }
+}

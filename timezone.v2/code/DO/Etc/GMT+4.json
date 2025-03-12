@@ -1,0 +1,54 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 48730,
+    "borders": [
+      "HT"
+    ],
+    "calling_code": "+1-809 and 1-829",
+    "capital": "Santo Domingo",
+    "code": "DO",
+    "name": "Dominican Republic",
+    "population": 11331265,
+    "population_density": 232.53,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      }
+    ],
+    "tld": ".do"
+  },
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Peso",
+    "name_native": "peso dominicano",
+    "plural": "Dominican pesos",
+    "plural_native": "pesos dominicanos",
+    "symbol": "DOP",
+    "symbol_native": "RD$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-RD$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "RD$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Santo_Domingo",
+    "abbreviation": "AST",
+    "offset": -4,
+    "offset_with_dst": -4,
+    "time_zone_Etc": "Etc/GMT+4"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 198500,
+    "borders": [
+      "CN",
+      "KZ",
+      "TJ",
+      "UZ"
+    ],
+    "calling_code": "996",
+    "capital": "Bishkek",
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "population": 7099750,
+    "population_density": 35.77,
+    "languages": [
+      {
+        "code": "ky",
+        "name": "Kyrgyz",
+        "native": "кыргызча"
+      },
+      {
+        "code": "uz",
+        "name": "Uzbek",
+        "native": "o‘zbek"
+      },
+      {
+        "code": "ru",
+        "name": "Russian",
+        "native": "русский"
+      }
+    ],
+    "tld": ".kg"
+  },
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgystani Som",
+    "name_native": "Кыргызстан сому",
+    "plural": "Kyrgystani soms",
+    "plural_native": "Кыргызстан сому",
+    "symbol": "KGS",
+    "symbol_native": "сом",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " сом"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " сом"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Bishkek",
+    "abbreviation": "KGT",
+    "name": "Kyrgyzstan Time",
+    "offset": 6,
+    "offset_with_dst": 6,
+    "time_zone": "Asia/Bishkek"
+  }
+}

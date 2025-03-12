@@ -1,0 +1,53 @@
+{
+    "continent": {
+        "code": "AF",
+        "name": "Africa"
+    },
+    "country": {
+        "area": 114763,
+        "borders": ["BF", "NE", "NG", "TG"],
+        "calling_code": "229",
+        "capital": "Porto-Novo",
+        "code": "BJ",
+        "name": "Benin",
+        "population": 13711828,
+        "population_density": 119.48,
+        "languages": [{
+            "code": "fr",
+            "name": "French",
+            "native": "Français"
+        },
+        {
+            "code": "ff",
+            "name": "Fula",
+            "native": "Fulfulde"
+        },
+          {
+            "code": "yo",
+            "name": "Yoruba",
+            "native": "Èdè Yorùbá"
+        }],
+        "tld": ".bj"
+    },
+    "currency": {
+        "code": "XOF",
+        "name": "West African CFA Franc",
+        "name_native": "Franc CFA d'Afrique de l'Ouest",
+        "plural": "West African CFA francs",
+        "plural_native": "Francs CFA d'Afrique de l'Ouest",
+        "symbol": "CFA",
+        "symbol_native": "CFA",
+        "format": {
+            "decimal_separator": ".",
+            "group_separator": ",",
+            "negative": {
+                "prefix": "-",
+                "suffix": " CFA"
+            },
+            "positive": {
+                "prefix": "",
+                "suffix": " CFA"
+            }
+        }
+    }
+}

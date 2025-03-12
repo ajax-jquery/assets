@@ -1,0 +1,61 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 45226,
+    "borders": [
+      "LV",
+      "RU"
+    ],
+    "calling_code": "372",
+    "capital": "Tallinn",
+    "code": "EE",
+    "name": "Estonia",
+    "population": 1370286,
+    "population_density": 30.3,
+    "languages": [
+      {
+        "code": "et",
+        "name": "Estonian",
+        "native": "eesti"
+      },
+      {
+        "code": "ru",
+        "name": "Russian",
+        "native": "русский"
+      }
+    ],
+    "tld": ".ee"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "euro",
+    "plural": "euros",
+    "plural_native": "eurot",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "−",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Tallinn",
+    "abbreviation": "EET",
+    "name": "Eastern European Standard Time",
+    "offset": 2,
+    "offset_with_dst": 2,
+    "time_zone": "Europe/Tallinn"
+  }
+}
