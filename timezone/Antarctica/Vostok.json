@@ -37,10 +37,10 @@
     }
   },
   "time_zone": {
-    "id": "Antarctica/Troll",
-    "abbreviation": "GMT",
-    "name": "Greenwich Mean Time",
-    "offset": 0,
-    "offset_with_dst": 0
+    "id": "Antarctica/Vostok",
+    "abbreviation": "VOST",
+    "name": "Vostok Time",
+    "offset": 6,
+    "offset_with_dst": 6
   }
 }

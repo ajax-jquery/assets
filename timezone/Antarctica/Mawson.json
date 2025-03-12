@@ -37,10 +37,10 @@
     }
   },
   "time_zone": {
-    "id": "Antarctica/Troll",
-    "abbreviation": "GMT",
-    "name": "Greenwich Mean Time",
-    "offset": 0,
-    "offset_with_dst": 0
+    "id": "Antarctica/Mawson",
+    "abbreviation": "MIST",
+    "name": "Mawson Time",
+    "offset": 5,
+    "offset_with_dst": 5
   }
 }

@@ -37,10 +37,10 @@
     }
   },
   "time_zone": {
-    "id": "Antarctica/Troll",
-    "abbreviation": "GMT",
-    "name": "Greenwich Mean Time",
-    "offset": 0,
-    "offset_with_dst": 0
+    "id": "Antarctica/McMurdo",
+    "abbreviation": "NZDT",
+    "name": "New Zealand Daylight Time",
+    "offset": 13,
+    "offset_with_dst": 13
   }
 }
