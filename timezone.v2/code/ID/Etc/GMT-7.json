@@ -62,7 +62,7 @@
     }
   },
   "time_zone": {
-    "id": "Asia/Pontianak",
+    "id": "Asia/Jakarta",
     "abbreviation": "WIB",
     "offset": 7,
     "offset_with_dst": 7,
