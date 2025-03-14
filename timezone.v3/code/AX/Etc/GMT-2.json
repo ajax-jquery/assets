@@ -1,0 +1,53 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 1580,
+    "borders": [],
+    "calling_code": "+358-18",
+    "capital": "Mariehamn",
+    "code": "AX",
+    "name": "Åland Islands",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "sv",
+        "name": "Swedish",
+        "native": "svenska"
+      }
+    ],
+    "tld": ".ax"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "euro",
+    "plural": "euros",
+    "plural_native": "euro",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "−",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Mariehamn",
+    "abbreviation": "EET",
+    "name": "Eastern European Standard Time",
+    "offset": 2,
+    "offset_with_dst": 2,
+    "time_zone_Etc": "Etc/GMT-2"
+  }
+}

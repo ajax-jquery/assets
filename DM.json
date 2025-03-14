@@ -13,12 +13,23 @@
     "population": 72737,
     "population_density": 96.85,
     "languages": [
-      {
-        "code": "en",
-        "name": "English",
-        "native": "English"
-      }
-    ],
+  {
+    "code": "en",
+    "name": "English",
+    "native": "English"
+  },
+  {
+    "code": "gcf",
+    "name": "Dominican Creole",
+    "native": "Kwéyòl Donmnik"
+  },
+  {
+    "code": "fr",
+    "name": "French",
+    "native": "Français"
+  }
+]
+,
     "tld": ".dm"
   },
   "currency": {

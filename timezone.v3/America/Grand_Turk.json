@@ -1,0 +1,52 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 430,
+    "borders": [],
+    "calling_code": "+1-649",
+    "capital": "Cockburn Town",
+    "code": "TC",
+    "name": "Turks and Caicos Islands",
+    "population": 46198,
+    "population_density": 107.44,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".tc"
+  },
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar",
+    "name_native": "US Dollar",
+    "plural": "US dollars",
+    "plural_native": "US dollars",
+    "symbol": "$",
+    "symbol_native": "US$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-US$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "US$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Grand_Turk",
+    "abbreviation": "EDT",
+    "name": "Eastern Daylight Time",
+    "offset": -4,
+    "offset_with_dst": -3
+  }
+}

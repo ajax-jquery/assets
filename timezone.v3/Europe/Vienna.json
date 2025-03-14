@@ -1,0 +1,76 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 83858,
+    "borders": [
+      "CH",
+      "CZ",
+      "DE",
+      "HU",
+      "IT",
+      "LI",
+      "SI",
+      "SK"
+    ],
+    "calling_code": "43",
+    "capital": "Vienna",
+    "code": "AT",
+    "name": "Austria",
+    "population": 9131761,
+    "population_density": 108.9,
+    "languages": [
+      {
+        "code": "de",
+        "name": "German",
+        "native": "Deutsch"
+      },
+      {
+        "code": "hr",
+        "name": "Croatian",
+        "native": "hrvatski"
+      },
+      {
+        "code": "hu",
+        "name": "Hungarian",
+        "native": "magyar"
+      },
+      {
+        "code": "sl",
+        "name": "Slovenian",
+        "native": "slovenščina"
+      }
+    ],
+    "tld": ".at"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "Euro",
+    "plural": "euros",
+    "plural_native": "Euro",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-€ ",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "€ ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Vienna",
+    "abbreviation": "CET",
+    "name": "Central European Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1
+  }
+}

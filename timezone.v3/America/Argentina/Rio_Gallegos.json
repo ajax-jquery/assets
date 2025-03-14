@@ -1,0 +1,83 @@
+{
+  "continent": {
+    "code": "SA",
+    "name": "South America"
+  },
+  "country": {
+    "area": 2766890,
+    "borders": [
+      "BO",
+      "BR",
+      "CL",
+      "PY",
+      "UY"
+    ],
+    "calling_code": "54",
+    "capital": "Buenos Aires",
+    "code": "AR",
+    "name": "Argentina",
+    "population": 45538401,
+    "population_density": 16.46,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "it",
+        "name": "Italian",
+        "native": "italiano"
+      },
+      {
+        "code": "de",
+        "name": "German",
+        "native": "Deutsch"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "gn",
+        "name": "Guarani",
+        "native": "Guarani"
+      }
+    ],
+    "tld": ".ar"
+  },
+  "currency": {
+    "code": "ARS",
+    "name": "Argentine Peso",
+    "name_native": "peso argentino",
+    "plural": "Argentine pesos",
+    "plural_native": "pesos argentinos",
+    "symbol": "ARS",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-$ ",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$ ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Argentina/Rio_Gallegos",
+    "abbreviation": "ART",
+    "name": "Argentina Standard Time",
+    "offset": -3,
+    "offset_with_dst": -3
+  }
+}

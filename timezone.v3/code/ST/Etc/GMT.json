@@ -1,0 +1,53 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 1001,
+    "borders": [],
+    "calling_code": "239",
+    "capital": "São Tomé",
+    "code": "ST",
+    "name": "Sao Tome and Principe",
+    "population": 230871,
+    "population_density": 230.64,
+    "languages": [
+      {
+        "code": "pt",
+        "name": "Portuguese",
+        "native": "português"
+      }
+    ],
+    "tld": ".st"
+  },
+  "currency": {
+    "code": "STN",
+    "name": "São Tomé & Príncipe Dobra",
+    "name_native": "dobra de São Tomé e Príncipe",
+    "plural": "São Tomé & Príncipe dobras",
+    "plural_native": "dobras de São Tomé e Príncipe",
+    "symbol": "STN",
+    "symbol_native": "Db",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " Db"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " Db"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Sao_Tome",
+    "abbreviation": "GMT",
+    "name": "Greenwich Mean Time",
+    "offset": 0,
+    "offset_with_dst": 0,
+    "time_zone_Etc": "Etc/GMT"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 33843,
+    "borders": [
+      "RO",
+      "UA"
+    ],
+    "calling_code": "373",
+    "capital": "Chișinău",
+    "code": "MD",
+    "name": "Moldova",
+    "population": 2457783,
+    "population_density": 72.62,
+    "languages": [
+      {
+        "code": "ro",
+        "name": "Romanian",
+        "native": "română"
+      },
+      {
+        "code": "ru",
+        "name": "Russian",
+        "native": "русский"
+      },
+      {
+        "code": "tr",
+        "name": "Turkish",
+        "native": "Türkçe"
+      }
+    ],
+    "tld": ".md"
+  },
+  "currency": {
+    "code": "MDL",
+    "name": "Moldovan Leu",
+    "name_native": "leu moldovenesc",
+    "plural": "Moldovan lei",
+    "plural_native": "lei moldovenești",
+    "symbol": "MDL",
+    "symbol_native": "L",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-",
+        "suffix": " L"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " L"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Chisinau",
+    "abbreviation": "EET",
+    "name": "Eastern European Standard Time",
+    "offset": 2,
+    "offset_with_dst": 2,
+    "time_zone_Etc": "Etc/GMT-2"
+  }
+}

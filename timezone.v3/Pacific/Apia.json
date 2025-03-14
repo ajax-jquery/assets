@@ -1,0 +1,57 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 2944,
+    "borders": [],
+    "calling_code": "685",
+    "capital": "Apia",
+    "code": "WS",
+    "name": "Samoa",
+    "population": 216663,
+    "population_density": 73.59,
+    "languages": [
+      {
+        "code": "sm",
+        "name": "Samoan",
+        "native": "Samoan"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".ws"
+  },
+  "currency": {
+    "code": "WST",
+    "name": "Samoan Tala",
+    "name_native": "Samoan Tala",
+    "plural": "Samoan tala",
+    "plural_native": "Samoan tala",
+    "symbol": "WST",
+    "symbol_native": "WST",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-WST",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "WST",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Pacific/Apia",
+    "abbreviation": "WST",
+    "name": "Apia Standard Time",
+    "offset": 13,
+    "offset_with_dst": 13
+  }
+}

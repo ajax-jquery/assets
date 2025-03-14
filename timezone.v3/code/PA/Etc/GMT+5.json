@@ -1,0 +1,61 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 78200,
+    "borders": [
+      "CO",
+      "CR"
+    ],
+    "calling_code": "507",
+    "capital": "Panama City",
+    "code": "PA",
+    "name": "Panama",
+    "population": 4458759,
+    "population_density": 57.02,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".pa"
+  },
+  "currency": {
+    "code": "PAB",
+    "name": "Panamanian Balboa",
+    "name_native": "balboa panameño",
+    "plural": "Panamanian balboas",
+    "plural_native": "balboas panameños",
+    "symbol": "PAB",
+    "symbol_native": "B/.",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-B/.",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "B/.",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Panama",
+    "abbreviation": "EST",
+    "name": "Eastern Standard Time",
+    "offset": -5,
+    "offset_with_dst": -5,
+    "time_zone_Etc": "Etc/GMT+5"
+  }
+}

@@ -28,24 +28,25 @@
     "tld": ".hr"
   },
   "currency": {
-    "code": "HRK",
-    "name": "Croatian Kuna",
-    "name_native": "hrvatska kuna",
-    "plural": "Croatian kunas",
-    "plural_native": "hrvatskih kuna",
-    "symbol": "kn",
-    "symbol_native": "kn",
-    "format": {
-      "decimal_separator": ",",
-      "group_separator": ".",
-      "negative": {
-        "prefix": "-",
-        "suffix": " kn"
-      },
-      "positive": {
-        "prefix": "",
-        "suffix": " kn"
-      }
+  "code": "EUR",
+  "name": "Euro",
+  "name_native": "euro",
+  "plural": "Euros",
+  "plural_native": "eura",
+  "symbol": "€",
+  "symbol_native": "€",
+  "format": {
+    "decimal_separator": ",",
+    "group_separator": ".",
+    "negative": {
+      "prefix": "-",
+      "suffix": " €"
+    },
+    "positive": {
+      "prefix": "",
+      "suffix": " €"
     }
   }
+}
+
 }

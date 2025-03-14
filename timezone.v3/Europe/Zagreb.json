@@ -1,0 +1,58 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 56594,
+    "borders": [
+      "BA",
+      "HU",
+      "ME",
+      "RS",
+      "SI"
+    ],
+    "calling_code": "385",
+    "capital": "Zagreb",
+    "code": "HR",
+    "name": "Croatia",
+    "population": 4008617,
+    "population_density": 70.83,
+    "languages": [
+      {
+        "code": "hr",
+        "name": "Croatian",
+        "native": "Hrvatski"
+      }
+    ],
+    "tld": ".hr"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "euro",
+    "plural": "Euros",
+    "plural_native": "eura",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Zagreb",
+    "abbreviation": "CET",
+    "name": "Central European Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1
+  }
+}

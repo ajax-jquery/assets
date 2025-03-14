@@ -1,0 +1,56 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 450295,
+    "borders": [
+      "FI",
+      "NO"
+    ],
+    "calling_code": "46",
+    "capital": "Stockholm",
+    "code": "SE",
+    "name": "Sweden",
+    "population": 10261767,
+    "population_density": 22.79,
+    "languages": [
+      {
+        "code": "sv",
+        "name": "Swedish",
+        "native": "Svenska"
+      }
+    ],
+    "tld": ".se"
+  },
+  "currency": {
+    "code": "SEK",
+    "name": "Swedish Krona",
+    "name_native": "svensk krona",
+    "plural": "Swedish kronor",
+    "plural_native": "svenska kronor",
+    "symbol": "kr",
+    "symbol_native": "kr",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " kr"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " kr"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Stockholm",
+    "abbreviation": "CET",
+    "name": "Central European Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1,
+    "time_zone_Etc": "Etc/GMT-1"
+  }
+}

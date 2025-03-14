@@ -1,0 +1,60 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 27750,
+    "borders": [
+      "DO"
+    ],
+    "calling_code": "509",
+    "capital": "Port-au-Prince",
+    "code": "HT",
+    "name": "Haiti",
+    "population": 11637398,
+    "population_density": 419.37,
+    "languages": [
+      {
+        "code": "ht",
+        "name": "Haitian Creole",
+        "native": "créole haïtien"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".ht"
+  },
+  "currency": {
+    "code": "HTG",
+    "name": "Haitian Gourde",
+    "name_native": "gourde haïtienne",
+    "plural": "Haitian gourdes",
+    "plural_native": "gourdes haïtiennes",
+    "symbol": "HTG",
+    "symbol_native": "G",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-HTG",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "HTG",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Port-au-Prince",
+    "abbreviation": "EDT",
+    "name": "Eastern Daylight Time",
+    "offset": -4,
+    "offset_with_dst": -3,
+    "time_zone_Etc": "Etc/GMT+4"
+  }
+}

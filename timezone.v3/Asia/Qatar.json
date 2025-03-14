@@ -1,0 +1,59 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 11437,
+    "borders": [
+      "SA"
+    ],
+    "calling_code": "974",
+    "capital": "Doha",
+    "code": "QA",
+    "name": "Qatar",
+    "population": 2656032,
+    "population_density": 232.23,
+    "languages": [
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      },
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      }
+    ],
+    "tld": ".qa"
+  },
+  "currency": {
+    "code": "QAR",
+    "name": "Qatari Riyal",
+    "name_native": "ريال قطري",
+    "plural": "Qatari riyals",
+    "plural_native": "ريال قطري",
+    "symbol": "QAR",
+    "symbol_native": "ر.ق.‏",
+    "format": {
+      "decimal_separator": "٫",
+      "group_separator": "٬",
+      "negative": {
+        "prefix": "؜-‏",
+        "suffix": " ر.ق.‏"
+      },
+      "positive": {
+        "prefix": "‏",
+        "suffix": " ر.ق.‏"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Qatar",
+    "abbreviation": "AST",
+    "name": "Arabian Standard Time",
+    "offset": 3,
+    "offset_with_dst": 3
+  }
+}

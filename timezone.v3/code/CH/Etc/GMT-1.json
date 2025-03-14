@@ -1,0 +1,74 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 41290,
+    "borders": [
+      "AT",
+      "DE",
+      "FR",
+      "IT",
+      "LI"
+    ],
+    "calling_code": "41",
+    "capital": "Bern",
+    "code": "CH",
+    "name": "Switzerland",
+    "population": 8888093,
+    "population_density": 215.26,
+    "languages": [
+      {
+        "code": "de",
+        "name": "German",
+        "native": "Deutsch"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "it",
+        "name": "Italian",
+        "native": "italiano"
+      },
+      {
+        "code": "rm",
+        "name": "Romansh",
+        "native": "rumantsch"
+      }
+    ],
+    "tld": ".ch"
+  },
+  "currency": {
+    "code": "CHF",
+    "name": "Swiss Franc",
+    "name_native": "Schweizer Franken",
+    "plural": "Swiss francs",
+    "plural_native": "Schweizer Franken",
+    "symbol": "CHF",
+    "symbol_native": "CHF",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": "’",
+      "negative": {
+        "prefix": "CHF-",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "CHF ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Zurich",
+    "abbreviation": "CET",
+    "name": "Central European Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1,
+    "time_zone_Etc": "Etc/GMT-1"
+  }
+}

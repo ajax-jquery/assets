@@ -6,11 +6,11 @@
   "country": {
     "area": 464,
     "borders": [],
-    "calling_code": "+1-670",
+    "calling_code": "1-670",
     "capital": "Saipan",
     "code": "MP",
     "name": "Northern Mariana Islands",
-    "population": 47329,
+    "population": 55650,
     "population_density": 102,
     "languages": [
       {
@@ -22,6 +22,16 @@
         "code": "ch",
         "name": "Chamorro",
         "native": "Chamoru"
+      },
+      {
+        "code": "cal",
+        "name": "Carolinian",
+        "native": "Carolinian"
+      },
+      {
+        "code": "phi",
+        "name": "Philippine",
+        "native": "Philippine languages"
       }
     ],
     "tld": ".mp"

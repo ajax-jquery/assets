@@ -1,0 +1,65 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 475440,
+    "borders": [
+      "CF",
+      "CG",
+      "GA",
+      "GQ",
+      "NG",
+      "TD"
+    ],
+    "calling_code": "237",
+    "capital": "Yaoundé",
+    "code": "CM",
+    "name": "Cameroon",
+    "population": 28372687,
+    "population_density": 59.68,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".cm"
+  },
+  "currency": {
+    "code": "XAF",
+    "name": "Central African CFA Franc",
+    "name_native": "Central African CFA Franc",
+    "plural": "Central African CFA francs",
+    "plural_native": "Central African CFA francs",
+    "symbol": "FCFA",
+    "symbol_native": "FCFA",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-FCFA",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "FCFA",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Douala",
+    "abbreviation": "WAT",
+    "name": "West Africa Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1,
+    "time_zone_Etc": "Etc/GMT-1"
+  }
+}

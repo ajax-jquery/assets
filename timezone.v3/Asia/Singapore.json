@@ -1,0 +1,67 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 692,
+    "borders": [],
+    "calling_code": "65",
+    "capital": "Singapore",
+    "code": "SG",
+    "name": "Singapore",
+    "population": 5917648,
+    "population_density": 8551.51,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "ms",
+        "name": "Malay",
+        "native": "Melayu"
+      },
+      {
+        "code": "ta",
+        "name": "Tamil",
+        "native": "தமிழ்"
+      },
+      {
+        "code": "zh",
+        "name": "Chinese",
+        "native": "中文"
+      }
+    ],
+    "tld": ".sg"
+  },
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar",
+    "name_native": "Singapore Dollar",
+    "plural": "Singapore dollars",
+    "plural_native": "Singapore dollars",
+    "symbol": "SGD",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Singapore",
+    "abbreviation": "SGT",
+    "name": "Singapore Standard Time",
+    "offset": 8,
+    "offset_with_dst": 8
+  }
+}

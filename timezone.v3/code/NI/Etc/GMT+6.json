@@ -1,0 +1,61 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 129494,
+    "borders": [
+      "CR",
+      "HN"
+    ],
+    "calling_code": "505",
+    "capital": "Managua",
+    "code": "NI",
+    "name": "Nicaragua",
+    "population": 6823613,
+    "population_density": 52.69,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".ni"
+  },
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaraguan Córdoba",
+    "name_native": "córdoba nicaragüense",
+    "plural": "Nicaraguan córdobas",
+    "plural_native": "córdobas nicaragüenses",
+    "symbol": "NIO",
+    "symbol_native": "C$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-C$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "C$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Managua",
+    "abbreviation": "CST",
+    "name": "Central Standard Time",
+    "offset": -6,
+    "offset_with_dst": -6,
+    "time_zone_Etc": "Etc/GMT+6"
+  }
+}

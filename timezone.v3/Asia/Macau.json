@@ -1,0 +1,64 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 254,
+    "borders": [
+      "CN"
+    ],
+    "calling_code": "853",
+    "capital": "",
+    "code": "MO",
+    "name": "China",
+    "population": 678800,
+    "population_density": 2672.44,
+    "languages": [
+      {
+        "code": "zh",
+        "name": "Chinese",
+        "native": "中文"
+      },
+      {
+        "code": "zh",
+        "name": "Chinese",
+        "native": "中文"
+      },
+      {
+        "code": "pt",
+        "name": "Portuguese",
+        "native": "português"
+      }
+    ],
+    "tld": ".mo"
+  },
+  "currency": {
+    "code": "MOP",
+    "name": "Macanese Pataca",
+    "name_native": "澳門元",
+    "plural": "Macanese patacas",
+    "plural_native": "澳門元",
+    "symbol": "MOP",
+    "symbol_native": "MOP$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-MOP$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "MOP$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Macau",
+    "abbreviation": "CST",
+    "name": "China Standard Time",
+    "offset": 8,
+    "offset_with_dst": 8
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 748,
+    "borders": [],
+    "calling_code": "676",
+    "capital": "Nuku'alofa",
+    "code": "TO",
+    "name": "Tonga",
+    "population": 104597,
+    "population_density": 139.84,
+    "languages": [
+      {
+        "code": "to",
+        "name": "Tongan",
+        "native": "lea fakatonga"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".to"
+  },
+  "currency": {
+    "code": "TOP",
+    "name": "Tongan Paʻanga",
+    "name_native": "Paʻanga fakatonga",
+    "plural": "Tongan paʻanga",
+    "plural_native": "Paʻanga fakatonga",
+    "symbol": "TOP",
+    "symbol_native": "T$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-T$ ",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "T$ ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Pacific/Tongatapu",
+    "abbreviation": "TOT",
+    "name": "Tonga Standard Time",
+    "offset": 13,
+    "offset_with_dst": 13,
+    "time_zone_Etc": "Etc/GMT-13"
+  }
+}

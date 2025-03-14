@@ -20,16 +20,17 @@
     "population": 22673762,
     "population_density": 82.69,
     "languages": [
+{
+        "code":"mos",
+        "name": "Mossi",
+        "native": "Mòoré"
+      },
       {
         "code": "fr",
         "name": "French",
         "native": "Français"
-      },
-      {
-        "code":"mos",
-        "name": "Mossi",
-        "native": "Mòoré"
       }
+      
     ],
     "tld": ".bf"
   },

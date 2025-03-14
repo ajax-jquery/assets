@@ -1,0 +1,64 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 1092,
+    "borders": [
+      "CN"
+    ],
+    "calling_code": "852",
+    "capital": "City of Victoria",
+    "code": "HK",
+    "name": "Hong Kong",
+    "population": 7536100,
+    "population_density": 6901.19,
+    "languages": [
+      {
+        "code": "zh",
+        "name": "Chinese",
+        "native": "中文"
+      },
+      {
+        "code": "zh",
+        "name": "Chinese",
+        "native": "中文"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".hk"
+  },
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar",
+    "name_native": "港元",
+    "plural": "Hong Kong dollars",
+    "plural_native": "港元",
+    "symbol": "HK$",
+    "symbol_native": "HK$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-HK$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "HK$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Hong_Kong",
+    "abbreviation": "HKT",
+    "name": "Hong Kong Standard Time",
+    "offset": 8,
+    "offset_with_dst": 8
+  }
+}

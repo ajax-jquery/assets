@@ -1,0 +1,75 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 647500,
+    "borders": [
+      "CN",
+      "IR",
+      "PK",
+      "TJ",
+      "TM",
+      "UZ"
+    ],
+    "calling_code": "93",
+    "capital": "Kabul",
+    "code": "AF",
+    "name": "Afghanistan",
+    "population": 41454761,
+    "population_density": 64.02,
+    "languages": [
+      {
+        "code": "fa",
+        "name": "Persian",
+        "native": "فارسی"
+      },
+      {
+        "code": "ps",
+        "name": "Pashto",
+        "native": "پښتو"
+      },
+      {
+        "code": "uz",
+        "name": "Uzbek",
+        "native": "اوزبیک"
+      },
+      {
+        "code": "tk",
+        "name": "Turkmen",
+        "native": "türkmen dili"
+      }
+    ],
+    "tld": ".af"
+  },
+  "currency": {
+    "code": "AFN",
+    "name": "Afghan Afghani",
+    "name_native": "افغانی افغانستان",
+    "plural": "Afghan Afghanis",
+    "plural_native": "افغانی افغانستان",
+    "symbol": "AFN",
+    "symbol_native": "؋",
+    "format": {
+      "decimal_separator": "٫",
+      "group_separator": "٬",
+      "negative": {
+        "prefix": "‎−؋ ",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "؋ ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Kabul",
+    "abbreviation": "AFT",
+    "name": "Afghanistan Time",
+    "offset": 4.5,
+    "offset_with_dst": 4.5,
+    "time_zone_Etc": "Etc/GMT-4.5"
+  }
+}

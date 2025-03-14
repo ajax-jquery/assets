@@ -1,0 +1,53 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 153,
+    "borders": [],
+    "calling_code": "+1-284",
+    "capital": "Road Town",
+    "code": "VG",
+    "name": "Virgin Islands (British)",
+    "population": 38985,
+    "population_density": 254.8,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".vg"
+  },
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar",
+    "name_native": "US Dollar",
+    "plural": "US dollars",
+    "plural_native": "US dollars",
+    "symbol": "$",
+    "symbol_native": "US$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-US$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "US$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Tortola",
+    "abbreviation": "AST",
+    "name": "Atlantic Standard Time",
+    "offset": -4,
+    "offset_with_dst": -4,
+    "time_zone_Etc": "Etc/GMT+4"
+  }
+}

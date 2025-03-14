@@ -1,0 +1,62 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 751,
+    "borders": [],
+    "calling_code": "+1-767",
+    "capital": "Roseau",
+    "code": "DM",
+    "name": "Dominica",
+    "population": 72737,
+    "population_density": 96.85,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "gcf",
+        "name": "Dominican Creole",
+        "native": "Kwéyòl Donmnik"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "Français"
+      }
+    ],
+    "tld": ".dm"
+  },
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar",
+    "name_native": "$",
+    "plural": "East Caribbean dollars",
+    "plural_native": "$",
+    "symbol": "$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Dominica",
+    "abbreviation": "AST",
+    "name": "Atlantic Standard Time",
+    "offset": -4,
+    "offset_with_dst": -4
+  }
+}

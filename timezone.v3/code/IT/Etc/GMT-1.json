@@ -1,0 +1,90 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 301230,
+    "borders": [
+      "AT",
+      "CH",
+      "FR",
+      "SI",
+      "SM",
+      "VA"
+    ],
+    "calling_code": "39",
+    "capital": "Rome",
+    "code": "IT",
+    "name": "Italy",
+    "population": 58993475,
+    "population_density": 195.84,
+    "languages": [
+      {
+        "code": "it",
+        "name": "Italian",
+        "native": "italiano"
+      },
+      {
+        "code": "de",
+        "name": "German",
+        "native": "Deutsch"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "sc",
+        "name": "Sardinian",
+        "native": "sardu"
+      },
+      {
+        "code": "ca",
+        "name": "Catalan",
+        "native": "català"
+      },
+      {
+        "code": "co",
+        "name": "Corsican",
+        "native": "Corsican"
+      },
+      {
+        "code": "sl",
+        "name": "Slovenian",
+        "native": "slovenščina"
+      }
+    ],
+    "tld": ".it"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "euro",
+    "plural": "euros",
+    "plural_native": "euro",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Rome",
+    "abbreviation": "CET",
+    "name": "Central European Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1,
+    "time_zone_Etc": "Etc/GMT-1"
+  }
+}

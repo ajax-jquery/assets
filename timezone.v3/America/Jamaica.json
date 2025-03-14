@@ -1,0 +1,52 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 10991,
+    "borders": [],
+    "calling_code": "+1-876",
+    "capital": "Kingston",
+    "code": "JM",
+    "name": "Jamaica",
+    "population": 2839786,
+    "population_density": 258.37,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".jm"
+  },
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaican Dollar",
+    "name_native": "Jamaican Dollar",
+    "plural": "Jamaican dollars",
+    "plural_native": "Jamaican dollars",
+    "symbol": "JMD",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Jamaica",
+    "abbreviation": "EST",
+    "name": "Eastern Standard Time",
+    "offset": -5,
+    "offset_with_dst": -5
+  }
+}

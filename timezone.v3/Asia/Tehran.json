@@ -1,0 +1,65 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 1648000,
+    "borders": [
+      "AF",
+      "AM",
+      "AZ",
+      "IQ",
+      "PK",
+      "TM",
+      "TR"
+    ],
+    "calling_code": "98",
+    "capital": "Tehran",
+    "code": "IR",
+    "name": "Iran",
+    "population": 90608707,
+    "population_density": 54.98,
+    "languages": [
+      {
+        "code": "fa",
+        "name": "Persian",
+        "native": "فارسی"
+      },
+      {
+        "code": "ku",
+        "name": "Kurdish",
+        "native": "kurdî (kurmancî)"
+      }
+    ],
+    "tld": ".ir"
+  },
+  "currency": {
+    "code": "IRR",
+    "name": "Iranian Rial",
+    "name_native": "ریال ایران",
+    "plural": "Iranian rials",
+    "plural_native": "ریال ایران",
+    "symbol": "IRR",
+    "symbol_native": "ریال",
+    "format": {
+      "decimal_separator": "٫",
+      "group_separator": "٬",
+      "negative": {
+        "prefix": "‎−‎ریال",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "‎ریال",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Tehran",
+    "abbreviation": "IRST",
+    "name": "Iran Standard Time",
+    "offset": 3.5,
+    "offset_with_dst": 3.5
+  }
+}

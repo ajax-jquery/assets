@@ -1,0 +1,63 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 20273,
+    "borders": [
+      "AT",
+      "HR",
+      "HU",
+      "IT"
+    ],
+    "calling_code": "386",
+    "capital": "Ljubljana",
+    "code": "SI",
+    "name": "Slovenia",
+    "population": 2120461,
+    "population_density": 104.6,
+    "languages": [
+      {
+        "code": "sl",
+        "name": "Slovenian",
+        "native": "slovenščina"
+      },
+      {
+        "code": "sh",
+        "name": "Serbo-Croatian",
+        "native": "srpskohrvatski"
+      }
+    ],
+    "tld": ".si"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "evro",
+    "plural": "euros",
+    "plural_native": "evrov",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "−",
+        "suffix": " €"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " €"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Ljubljana",
+    "abbreviation": "CET",
+    "name": "Central European Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1,
+    "time_zone_Etc": "Etc/GMT-1"
+  }
+}

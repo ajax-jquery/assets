@@ -1,0 +1,56 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 1972550,
+    "borders": [
+      "BZ",
+      "GT",
+      "US"
+    ],
+    "calling_code": "52",
+    "capital": "Mexico City",
+    "code": "MX",
+    "name": "Mexico",
+    "population": 129739759,
+    "population_density": 65.77,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      }
+    ],
+    "tld": ".mx"
+  },
+  "currency": {
+    "code": "MXN",
+    "name": "Mexican Peso",
+    "name_native": "peso mexicano",
+    "plural": "Mexican pesos",
+    "plural_native": "pesos mexicanos",
+    "symbol": "MX$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Merida",
+    "abbreviation": "CST",
+    "name": "Central Standard Time",
+    "offset": -6,
+    "offset_with_dst": -6
+  }
+}

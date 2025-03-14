@@ -1,0 +1,59 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 70280,
+    "borders": [
+      "GB"
+    ],
+    "calling_code": "353",
+    "capital": "Dublin",
+    "code": "IE",
+    "name": "Ireland",
+    "population": 5307600,
+    "population_density": 75.52,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "ga",
+        "name": "Irish",
+        "native": "Gaeilge"
+      }
+    ],
+    "tld": ".ie"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "Euro",
+    "plural": "euros",
+    "plural_native": "euros",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-€",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "€",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Dublin",
+    "abbreviation": "GMT",
+    "name": "Greenwich Mean Time",
+    "offset": 0,
+    "offset_with_dst": 0
+  }
+}

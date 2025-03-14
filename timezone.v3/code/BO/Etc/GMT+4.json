@@ -1,0 +1,69 @@
+{
+  "continent": {
+    "code": "SA",
+    "name": "South America"
+  },
+  "country": {
+    "area": 1098580,
+    "borders": [
+      "AR",
+      "BR",
+      "CL",
+      "PE",
+      "PY"
+    ],
+    "calling_code": "591",
+    "capital": "Sucre",
+    "code": "BO",
+    "name": "Bolivia",
+    "population": 12244159,
+    "population_density": 11.15,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      },
+      {
+        "code": "qu",
+        "name": "Quechua",
+        "native": "Runasimi"
+      },
+      {
+        "code": "ay",
+        "name": "Aymara",
+        "native": "Aymara"
+      }
+    ],
+    "tld": ".bo"
+  },
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivian Boliviano",
+    "name_native": "boliviano",
+    "plural": "Bolivian bolivianos",
+    "plural_native": "bolivianos",
+    "symbol": "BOB",
+    "symbol_native": "Bs",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-Bs",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "Bs",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/La_Paz",
+    "abbreviation": "BOT",
+    "name": "Bolivia Time",
+    "offset": -4,
+    "offset_with_dst": -4,
+    "time_zone_Etc": "Etc/GMT+4"
+  }
+}

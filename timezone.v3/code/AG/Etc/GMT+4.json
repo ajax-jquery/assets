@@ -1,0 +1,53 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 443,
+    "borders": [],
+    "calling_code": "+1-268",
+    "capital": "Saint John's",
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "population": 93316,
+    "population_density": 210.65,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".ag"
+  },
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar",
+    "name_native": "East Caribbean Dollar",
+    "plural": "East Caribbean dollars",
+    "plural_native": "East Caribbean dollars",
+    "symbol": "EC$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Antigua",
+    "abbreviation": "AST",
+    "name": "Atlantic Standard Time",
+    "offset": -4,
+    "offset_with_dst": -4,
+    "time_zone_Etc": "Etc/GMT+4"
+  }
+}

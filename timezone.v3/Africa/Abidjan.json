@@ -1,0 +1,58 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 322460,
+    "borders": [
+      "BF",
+      "GH",
+      "GN",
+      "LR",
+      "ML"
+    ],
+    "calling_code": "225",
+    "capital": "Yamoussoukro",
+    "code": "CI",
+    "name": "Côte d'Ivoire",
+    "population": 31165654,
+    "population_density": 96.65,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".ci"
+  },
+  "currency": {
+    "code": "XOF",
+    "name": "West African CFA Franc",
+    "name_native": "franc CFA (BCEAO)",
+    "plural": "West African CFA francs",
+    "plural_native": "francs CFA (BCEAO)",
+    "symbol": "F CFA",
+    "symbol_native": "F CFA",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " F CFA"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " F CFA"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Abidjan",
+    "abbreviation": "GMT",
+    "name": "Greenwich Mean Time",
+    "offset": 0,
+    "offset_with_dst": 0
+  }
+}

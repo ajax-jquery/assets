@@ -1,0 +1,62 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 2166086,
+    "borders": [],
+    "calling_code": "299",
+    "capital": "Nuuk",
+    "code": "GL",
+    "name": "Greenland",
+    "population": 56865,
+    "population_density": 0.03,
+    "languages": [
+      {
+        "code": "kl",
+        "name": "Kalaallisut",
+        "native": "kalaallisut"
+      },
+      {
+        "code": "da",
+        "name": "Danish",
+        "native": "dansk"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".gl"
+  },
+  "currency": {
+    "code": "DKK",
+    "name": "Danish Krone",
+    "name_native": "DKK",
+    "plural": "Danish kroner",
+    "plural_native": "DKK",
+    "symbol": "DKK",
+    "symbol_native": "kr.",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "kr.-",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "kr.",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Danmarkshavn",
+    "abbreviation": "GMT",
+    "name": "Greenwich Mean Time",
+    "offset": 0,
+    "offset_with_dst": 0
+  }
+}

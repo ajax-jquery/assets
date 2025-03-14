@@ -1,0 +1,52 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 102,
+    "borders": [],
+    "calling_code": "+1-664",
+    "capital": "Plymouth",
+    "code": "MS",
+    "name": "Montserrat",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".ms"
+  },
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar",
+    "name_native": "East Caribbean Dollar",
+    "plural": "East Caribbean dollars",
+    "plural_native": "East Caribbean dollars",
+    "symbol": "EC$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Montserrat",
+    "abbreviation": "AST",
+    "name": "Atlantic Standard Time",
+    "offset": -4,
+    "offset_with_dst": -4
+  }
+}

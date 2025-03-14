@@ -1,0 +1,69 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 1759540,
+    "borders": [
+      "DZ",
+      "EG",
+      "NE",
+      "SD",
+      "TD",
+      "TN"
+    ],
+    "calling_code": "218",
+    "capital": "Tripoli",
+    "code": "LY",
+    "name": "Libya",
+    "population": 7305659,
+    "population_density": 4.15,
+    "languages": [
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      },
+      {
+        "code": "it",
+        "name": "Italian",
+        "native": "italiano"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".ly"
+  },
+  "currency": {
+    "code": "LYD",
+    "name": "Libyan Dinar",
+    "name_native": "دينار ليبي",
+    "plural": "Libyan dinars",
+    "plural_native": "دينار ليبي",
+    "symbol": "LYD",
+    "symbol_native": "د.ل.‏",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "‏‎-",
+        "suffix": " د.ل.‏"
+      },
+      "positive": {
+        "prefix": "‏",
+        "suffix": " د.ل.‏"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Tripoli",
+    "abbreviation": "EET",
+    "name": "Eastern European Standard Time",
+    "offset": 2,
+    "offset_with_dst": 2
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 329750,
+    "borders": [
+      "BN",
+      "ID",
+      "TH"
+    ],
+    "calling_code": "60",
+    "capital": "Kuala Lumpur",
+    "code": "MY",
+    "name": "Malaysia",
+    "population": 35126298,
+    "population_density": 106.52,
+    "languages": [
+      {
+        "code": "ms",
+        "name": "Malay",
+        "native": "Melayu"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "zh",
+        "name": "Chinese",
+        "native": "中文"
+      },
+      {
+        "code": "ta",
+        "name": "Tamil",
+        "native": "தமிழ்"
+      },
+      {
+        "code": "te",
+        "name": "Telugu",
+        "native": "తెలుగు"
+      },
+      {
+        "code": "ml",
+        "name": "Malayalam",
+        "native": "മലയാളം"
+      },
+      {
+        "code": "pa",
+        "name": "Punjabi",
+        "native": "ਪੰਜਾਬੀ"
+      },
+      {
+        "code": "th",
+        "name": "Thai",
+        "native": "ไทย"
+      }
+    ],
+    "tld": ".my"
+  },
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysian Ringgit",
+    "name_native": "Ringgit Malaysia",
+    "plural": "Malaysian ringgits",
+    "plural_native": "Ringgit Malaysia",
+    "symbol": "MYR",
+    "symbol_native": "RM",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-RM",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "RM",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Kuching",
+    "abbreviation": "MYT",
+    "name": "Malaysia Time",
+    "offset": 8,
+    "offset_with_dst": 8
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 41526,
+    "borders": [
+      "BE",
+      "DE"
+    ],
+    "calling_code": "31",
+    "capital": "Amsterdam",
+    "code": "NL",
+    "name": "Netherlands",
+    "population": 17877117,
+    "population_density": 430.5,
+    "languages": [
+      {
+        "code": "nl",
+        "name": "Dutch",
+        "native": "Nederlands"
+      },
+      {
+        "code": "fy",
+        "name": "Western Frisian",
+        "native": "Frysk"
+      }
+    ],
+    "tld": ".nl"
+  },
+  "currency": {
+    "code": "EUR",
+    "name": "Euro",
+    "name_native": "Euro",
+    "plural": "euros",
+    "plural_native": "euro",
+    "symbol": "€",
+    "symbol_native": "€",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "€ -",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "€ ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Amsterdam",
+    "abbreviation": "CET",
+    "name": "Central European Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1,
+    "time_zone_Etc": "Etc/GMT-1"
+  }
+}

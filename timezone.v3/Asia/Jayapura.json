@@ -1,0 +1,71 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 1919440,
+    "borders": [
+      "MY",
+      "PG",
+      "TL"
+    ],
+    "calling_code": "62",
+    "capital": "Jakarta",
+    "code": "ID",
+    "name": "Indonesia",
+    "population": 281190067,
+    "population_density": 146.5,
+    "languages": [
+      {
+        "code": "id",
+        "name": "Indonesian",
+        "native": "Indonesia"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "nl",
+        "name": "Dutch",
+        "native": "Nederlands"
+      },
+      {
+        "code": "jv",
+        "name": "Javanese",
+        "native": "Jawa"
+      }
+    ],
+    "tld": ".id"
+  },
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesian Rupiah",
+    "name_native": "Rupiah Indonesia",
+    "plural": "Indonesian rupiahs",
+    "plural_native": "Rupiah Indonesia",
+    "symbol": "IDR",
+    "symbol_native": "Rp",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-Rp",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "Rp",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Jayapura",
+    "abbreviation": "WIT",
+    "name": "Eastern Indonesia Time",
+    "offset": 9,
+    "offset_with_dst": 9
+  }
+}

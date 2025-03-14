@@ -1,0 +1,60 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 163610,
+    "borders": [
+      "DZ",
+      "LY"
+    ],
+    "calling_code": "216",
+    "capital": "Tunis",
+    "code": "TN",
+    "name": "Tunisia",
+    "population": 12200431,
+    "population_density": 74.57,
+    "languages": [
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".tn"
+  },
+  "currency": {
+    "code": "TND",
+    "name": "Tunisian Dinar",
+    "name_native": "دينار تونسي",
+    "plural": "Tunisian dinars",
+    "plural_native": "دينار تونسي",
+    "symbol": "TND",
+    "symbol_native": "د.ت.‏",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "‏‎-",
+        "suffix": " د.ت.‏"
+      },
+      "positive": {
+        "prefix": "‏",
+        "suffix": " د.ت.‏"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Tunis",
+    "abbreviation": "CET",
+    "name": "Central European Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1
+  }
+}

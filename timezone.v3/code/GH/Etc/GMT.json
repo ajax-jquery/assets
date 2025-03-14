@@ -1,0 +1,72 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 239460,
+    "borders": [
+      "BF",
+      "CI",
+      "TG"
+    ],
+    "calling_code": "233",
+    "capital": "Accra",
+    "code": "GH",
+    "name": "Ghana",
+    "population": 33787914,
+    "population_density": 141.1,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "ak",
+        "name": "Akan",
+        "native": "Akan"
+      },
+      {
+        "code": "ee",
+        "name": "Ewe",
+        "native": "eʋegbe"
+      },
+      {
+        "code": "tw",
+        "name": "Twi",
+        "native": "Twi"
+      }
+    ],
+    "tld": ".gh"
+  },
+  "currency": {
+    "code": "GHS",
+    "name": "Ghanaian Cedi",
+    "name_native": "Ghanaian Cedi",
+    "plural": "Ghanaian cedis",
+    "plural_native": "Ghanaian cedis",
+    "symbol": "GHS",
+    "symbol_native": "GH₵",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-GH₵",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "GH₵",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Accra",
+    "abbreviation": "GMT",
+    "name": "Greenwich Mean Time",
+    "offset": 0,
+    "offset_with_dst": 0,
+    "time_zone_Etc": "Etc/GMT"
+  }
+}

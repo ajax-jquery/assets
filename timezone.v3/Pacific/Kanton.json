@@ -1,0 +1,52 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 811,
+    "borders": [],
+    "calling_code": "686",
+    "capital": "South Tarawa",
+    "code": "KI",
+    "name": "Kiribati",
+    "population": 132530,
+    "population_density": 163.42,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".ki"
+  },
+  "currency": {
+    "code": "AUD",
+    "name": "Australian Dollar",
+    "name_native": "Australian Dollar",
+    "plural": "Australian dollars",
+    "plural_native": "Australian dollars",
+    "symbol": "A$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Pacific/Kanton",
+    "abbreviation": "PHOT",
+    "name": "Phoenix Islands Time",
+    "offset": 13,
+    "offset_with_dst": 13
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "continent": {
+    "code": "AF",
+    "name": "Africa"
+  },
+  "country": {
+    "area": 622984,
+    "borders": [
+      "CD",
+      "CG",
+      "CM",
+      "SD",
+      "SS",
+      "TD"
+    ],
+    "calling_code": "236",
+    "capital": "Bangui",
+    "code": "CF",
+    "name": "Central African Republic",
+    "population": 5152421,
+    "population_density": 8.27,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "sg",
+        "name": "Sango",
+        "native": "Sängö"
+      },
+      {
+        "code": "ln",
+        "name": "Lingala",
+        "native": "lingála"
+      },
+      {
+        "code": "kg",
+        "name": "Kongo",
+        "native": "Kongo"
+      }
+    ],
+    "tld": ".cf"
+  },
+  "currency": {
+    "code": "XAF",
+    "name": "Central African CFA Franc",
+    "name_native": "franc CFA (BEAC)",
+    "plural": "Central African CFA francs",
+    "plural_native": "francs CFA (BEAC)",
+    "symbol": "FCFA",
+    "symbol_native": "FCFA",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " FCFA"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " FCFA"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Africa/Bangui",
+    "abbreviation": "WAT",
+    "name": "West Africa Standard Time",
+    "offset": 1,
+    "offset_with_dst": 1
+  }
+}

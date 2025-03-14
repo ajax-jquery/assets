@@ -1,0 +1,57 @@
+{
+  "continent": {
+    "code": null,
+    "name": null
+  },
+  "country": {
+    "area": 328,
+    "borders": [],
+    "calling_code": "599",
+    "capital": "",
+    "code": "BQ",
+    "name": "Bonaire",
+    "population": 0,
+    "population_density": 0,
+    "languages": [
+      {
+        "code": "nl",
+        "name": "Dutch",
+        "native": "Nederlands"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".bq"
+  },
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar",
+    "name_native": "Amerikaanse dollar",
+    "plural": "US dollars",
+    "plural_native": "Amerikaanse dollar",
+    "symbol": "$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "$ -",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$ ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Kralendijk",
+    "abbreviation": "AST",
+    "name": "Atlantic Standard Time",
+    "offset": -4,
+    "offset_with_dst": -4
+  }
+}

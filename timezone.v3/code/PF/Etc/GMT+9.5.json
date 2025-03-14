@@ -1,0 +1,58 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 4167,
+    "borders": [],
+    "calling_code": "689",
+    "capital": "Papeetē",
+    "code": "PF",
+    "name": "French Polynesia",
+    "population": 281118,
+    "population_density": 67.46,
+    "languages": [
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      },
+      {
+        "code": "ty",
+        "name": "Tahitian",
+        "native": "Tahitian"
+      }
+    ],
+    "tld": ".pf"
+  },
+  "currency": {
+    "code": "XPF",
+    "name": "CFP Franc",
+    "name_native": "franc CFP",
+    "plural": "CFP francs",
+    "plural_native": "francs CFP",
+    "symbol": "CFPF",
+    "symbol_native": "FCFP",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": " ",
+      "negative": {
+        "prefix": "-",
+        "suffix": " FCFP"
+      },
+      "positive": {
+        "prefix": "",
+        "suffix": " FCFP"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Pacific/Marquesas",
+    "abbreviation": "MART",
+    "name": "Marquesas Time",
+    "offset": -9.5,
+    "offset_with_dst": -9.5,
+    "time_zone_Etc": "Etc/GMT+9.5"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 458,
+    "borders": [],
+    "calling_code": "680",
+    "capital": "Ngerulmud",
+    "code": "PW",
+    "name": "Palau",
+    "population": 17727,
+    "population_density": 38.71,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "ja",
+        "name": "Japanese",
+        "native": "日本語"
+      },
+      {
+        "code": "zh",
+        "name": "Chinese",
+        "native": "中文"
+      }
+    ],
+    "tld": ".pw"
+  },
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar",
+    "name_native": "US Dollar",
+    "plural": "US dollars",
+    "plural_native": "US dollars",
+    "symbol": "$",
+    "symbol_native": "US$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-US$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "US$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Pacific/Palau",
+    "abbreviation": "+09",
+    "name": "Palau Time",
+    "offset": 9,
+    "offset_with_dst": 9,
+    "time_zone_Etc": "Etc/GMT-9"
+  }
+}

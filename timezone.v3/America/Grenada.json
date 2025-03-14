@@ -1,0 +1,52 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 344,
+    "borders": [],
+    "calling_code": "+1-473",
+    "capital": "St. George's",
+    "code": "GD",
+    "name": "Grenada",
+    "population": 117081,
+    "population_density": 340.35,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".gd"
+  },
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar",
+    "name_native": "East Caribbean Dollar",
+    "plural": "East Caribbean dollars",
+    "plural_native": "East Caribbean dollars",
+    "symbol": "EC$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Grenada",
+    "abbreviation": "AST",
+    "name": "Atlantic Standard Time",
+    "offset": -4,
+    "offset_with_dst": -4
+  }
+}

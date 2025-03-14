@@ -1,0 +1,56 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 5970,
+    "borders": [
+      "EG",
+      "IL",
+      "JO"
+    ],
+    "calling_code": "970",
+    "capital": "Ramallah",
+    "code": "PS",
+    "name": "Palestine",
+    "population": 5165775,
+    "population_density": 865.29,
+    "languages": [
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      }
+    ],
+    "tld": ".ps"
+  },
+  "currency": {
+    "code": "ILS",
+    "name": "Israeli New Shekel",
+    "name_native": "شيكل إسرائيلي جديد",
+    "plural": "Israeli new shekels",
+    "plural_native": "شيكل إسرائيلي جديد",
+    "symbol": "₪",
+    "symbol_native": "₪",
+    "format": {
+      "decimal_separator": "٫",
+      "group_separator": "٬",
+      "negative": {
+        "prefix": "؜-‏",
+        "suffix": " ₪"
+      },
+      "positive": {
+        "prefix": "‏",
+        "suffix": " ₪"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Gaza",
+    "abbreviation": "EET",
+    "name": "Eastern European Standard Time",
+    "offset": 2,
+    "offset_with_dst": 2
+  }
+}

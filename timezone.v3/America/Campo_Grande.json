@@ -1,0 +1,78 @@
+{
+  "continent": {
+    "code": "SA",
+    "name": "South America"
+  },
+  "country": {
+    "area": 8511965,
+    "borders": [
+      "AR",
+      "BO",
+      "CO",
+      "GF",
+      "GY",
+      "PE",
+      "PY",
+      "SR",
+      "UY",
+      "VE"
+    ],
+    "calling_code": "55",
+    "capital": "Brasília",
+    "code": "BR",
+    "name": "Brazil",
+    "population": 211140729,
+    "population_density": 24.81,
+    "languages": [
+      {
+        "code": "pt",
+        "name": "Portuguese",
+        "native": "português"
+      },
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "fr",
+        "name": "French",
+        "native": "français"
+      }
+    ],
+    "tld": ".br"
+  },
+  "currency": {
+    "code": "BRL",
+    "name": "Brazilian Real",
+    "name_native": "Real brasileiro",
+    "plural": "Brazilian reals",
+    "plural_native": "Reais brasileiros",
+    "symbol": "R$",
+    "symbol_native": "R$",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "-R$ ",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "R$ ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Campo_Grande",
+    "abbreviation": "AMT",
+    "name": "Amazon Standard Time",
+    "offset": -4,
+    "offset_with_dst": -4
+  }
+}

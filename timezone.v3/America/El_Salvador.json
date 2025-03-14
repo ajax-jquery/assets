@@ -1,0 +1,55 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 21040,
+    "borders": [
+      "GT",
+      "HN"
+    ],
+    "calling_code": "503",
+    "capital": "San Salvador",
+    "code": "SV",
+    "name": "El Salvador",
+    "population": 6309624,
+    "population_density": 299.89,
+    "languages": [
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      }
+    ],
+    "tld": ".sv"
+  },
+  "currency": {
+    "code": "USD",
+    "name": "US Dollar",
+    "name_native": "dólar estadounidense",
+    "plural": "US dollars",
+    "plural_native": "dólares estadounidenses",
+    "symbol": "$",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/El_Salvador",
+    "abbreviation": "CST",
+    "name": "Central Standard Time",
+    "offset": -6,
+    "offset_with_dst": -6
+  }
+}

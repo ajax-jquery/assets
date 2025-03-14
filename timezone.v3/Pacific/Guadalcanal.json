@@ -1,0 +1,52 @@
+{
+  "continent": {
+    "code": "OC",
+    "name": "Oceania"
+  },
+  "country": {
+    "area": 28450,
+    "borders": [],
+    "calling_code": "677",
+    "capital": "Honiara",
+    "code": "SB",
+    "name": "Solomon Islands",
+    "population": 800005,
+    "population_density": 28.12,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".sb"
+  },
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar",
+    "name_native": "Solomon Islands Dollar",
+    "plural": "Solomon Islands dollars",
+    "plural_native": "Solomon Islands dollars",
+    "symbol": "SBD",
+    "symbol_native": "$",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-$",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "$",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Pacific/Guadalcanal",
+    "abbreviation": "SBT",
+    "name": "Solomon Islands Time",
+    "offset": 11,
+    "offset_with_dst": 11
+  }
+}

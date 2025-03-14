@@ -1,0 +1,63 @@
+{
+  "continent": {
+    "code": "NA",
+    "name": "North America"
+  },
+  "country": {
+    "area": 193,
+    "borders": [],
+    "calling_code": "297",
+    "capital": "Oranjestad",
+    "code": "AW",
+    "name": "Aruba",
+    "population": 107359,
+    "population_density": 556.26,
+    "languages": [
+      {
+        "code": "nl",
+        "name": "Dutch",
+        "native": "Nederlands"
+      },
+      {
+        "code": "es",
+        "name": "Spanish",
+        "native": "español"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".aw"
+  },
+  "currency": {
+    "code": "AWG",
+    "name": "Aruban Florin",
+    "name_native": "Arubaanse gulden",
+    "plural": "Aruban florin",
+    "plural_native": "Arubaanse gulden",
+    "symbol": "AWG",
+    "symbol_native": "Afl.",
+    "format": {
+      "decimal_separator": ",",
+      "group_separator": ".",
+      "negative": {
+        "prefix": "Afl. -",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "Afl. ",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "America/Aruba",
+    "abbreviation": "AST",
+    "name": "Atlantic Standard Time",
+    "offset": -4,
+    "offset_with_dst": -4,
+    "time_zone_Etc": "Etc/GMT+4"
+  }
+}

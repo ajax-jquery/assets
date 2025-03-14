@@ -1,0 +1,57 @@
+{
+  "continent": {
+    "code": "EU",
+    "name": "Europe"
+  },
+  "country": {
+    "area": 572,
+    "borders": [],
+    "calling_code": "+44-1624",
+    "capital": "Douglas",
+    "code": "IM",
+    "name": "Isle of Man",
+    "population": 84165,
+    "population_density": 147.14,
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      },
+      {
+        "code": "gv",
+        "name": "Manx",
+        "native": "Gaelg"
+      }
+    ],
+    "tld": ".im"
+  },
+  "currency": {
+    "code": "GBP",
+    "name": "British Pound",
+    "name_native": "UK Pound",
+    "plural": "British pounds",
+    "plural_native": "UK pounds",
+    "symbol": "£",
+    "symbol_native": "£",
+    "format": {
+      "decimal_separator": ".",
+      "group_separator": ",",
+      "negative": {
+        "prefix": "-£",
+        "suffix": ""
+      },
+      "positive": {
+        "prefix": "£",
+        "suffix": ""
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Europe/Isle_of_Man",
+    "abbreviation": "GMT",
+    "name": "Greenwich Mean Time",
+    "offset": 0,
+    "offset_with_dst": 0
+  }
+}

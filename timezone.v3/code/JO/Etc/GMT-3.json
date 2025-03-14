@@ -1,0 +1,64 @@
+{
+  "continent": {
+    "code": "AS",
+    "name": "Asia"
+  },
+  "country": {
+    "area": 92300,
+    "borders": [
+      "IL",
+      "IQ",
+      "PS",
+      "SA",
+      "SY"
+    ],
+    "calling_code": "962",
+    "capital": "Amman",
+    "code": "JO",
+    "name": "Jordan",
+    "population": 11439213,
+    "population_density": 123.94,
+    "languages": [
+      {
+        "code": "ar",
+        "name": "Arabic",
+        "native": "العربية"
+      },
+      {
+        "code": "en",
+        "name": "English",
+        "native": "English"
+      }
+    ],
+    "tld": ".jo"
+  },
+  "currency": {
+    "code": "JOD",
+    "name": "Jordanian Dinar",
+    "name_native": "دينار أردني",
+    "plural": "Jordanian dinars",
+    "plural_native": "دينار أردني",
+    "symbol": "JOD",
+    "symbol_native": "د.أ.‏",
+    "format": {
+      "decimal_separator": "٫",
+      "group_separator": "٬",
+      "negative": {
+        "prefix": "؜-‏",
+        "suffix": " د.أ.‏"
+      },
+      "positive": {
+        "prefix": "‏",
+        "suffix": " د.أ.‏"
+      }
+    }
+  },
+  "time_zone": {
+    "id": "Asia/Amman",
+    "abbreviation": "EEST",
+    "name": "GMT+03:00",
+    "offset": 3,
+    "offset_with_dst": 4,
+    "time_zone_Etc": "Etc/GMT-3"
+  }
+}
