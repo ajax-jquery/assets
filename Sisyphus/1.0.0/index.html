@@ -249,7 +249,7 @@ historyId=localStorage.getItem('__Secure-0SB6AI5')
     token = await crypto.n(jstr(lokasi),kunci)
 const headers={}
    if(await token)headers["Authorization"]=token;
-   const a=await fetch("/api/chat-ai", {
+   const a=await fetch("/api/sisyphus", {
      method: "PUT",
      headers,
      body:jstr({
@@ -366,7 +366,7 @@ let data_user={
          messages.scrollTop = messages.scrollHeight;
         }, 500);
  
-  const res = await fetch("/api/chat-ai", {
+  const res = await fetch("/api/sisyphus", {
     method: "POST",
     headers: {
       "Content-Type": "application/json"
