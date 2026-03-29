@@ -1,0 +1,139 @@
+#Sisyphus {
+  position: relative;
+  z-index: 9999;
+  font-family: Arial, sans-serif;
+}
+#Sisyphus #AI_SB_open {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+    color: #a3a3a3;
+}
+/* Floating Button */
+#Sisyphus .AI-float-btn {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  cursor: pointer;
+}
+
+#Sisyphus .AI-avatar-ring {
+  border-radius: 50%;
+  padding: 0px;
+}
+
+#Sisyphus .AI-avatar {
+  border: 3px solid #ff6c00;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+/* Chat Box */
+#Sisyphus .AI-chatbox {
+  position: fixed;
+  bottom: 90px;
+  left: 20px;
+  width: 320px;
+  max-width: 90%;
+  height: 420px;
+  background: #fff;
+  border-radius: 15px;
+  display: none;
+  flex-direction: column;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+  overflow: hidden;
+}
+
+/* Header */
+#Sisyphus .AI-header {
+  background: #ff6c00;
+  color: #fff;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+#Sisyphus .AI-avatar-sm {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+/* Messages */
+#Sisyphus .AI-messages {
+  flex: 1;
+  padding: 10px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+/* Chat bubbles */
+#Sisyphus .AI-msg {
+  max-width: 75%;
+  padding: 0px 10px;
+  border-radius: 12px;
+  font-size: 14px;
+  word-wrap: break-word;
+}
+#Sisyphus .AI-msg p {
+    margin-top: 0.7em;
+    margin-bottom: 0.7em;
+}
+#Sisyphus .AI-user {
+  background: #ff6c00;
+  color: #fff;
+  align-self: flex-end;
+}
+
+#Sisyphus .AI-bot {
+  background: #f1f1f1;
+  color: #000;
+  align-self: flex-start;
+}
+
+/* Input */
+#Sisyphus .AI-input-area {
+  display: flex;
+  padding: 8px;
+  border-top: 1px solid #ddd;
+}
+
+#Sisyphus textarea {
+  flex: 1;
+  resize: none;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 8px 12px;
+  outline: none;
+  height: 36px;
+  max-height: 80px;
+  overflow-y: auto;
+  font-family: inherit;
+}
+
+/* Send button */
+#Sisyphus #AI-send {
+  background: #ff6c00;
+  border: none;
+  color: #fff;
+  margin-left: 5px;
+  padding: 0 15px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+/* Responsive */
+@media (max-width: 480px) {
+  #Sisyphus .AI-chatbox {
+    width: 95%;
+    left: 2.5%;
+    bottom: 80px;
+  }
+}
