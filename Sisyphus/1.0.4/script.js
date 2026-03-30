@@ -90,7 +90,7 @@ let scriptElement1 = document.createElement("script");
     scriptElement1.onload = () => {
          let linkElement = document.createElement("link");
     linkElement.rel = "stylesheet";
-    linkElement.href = "/wp-content/cdn/g/ajax-jquery/assets/repository/Sisyphus/1.0.1/style.min.css"; 
+    linkElement.href = "/wp-content/cdn/g/ajax-jquery/assets/repository/Sisyphus/1.0.4/style.min.css"; 
     linkElement.type = "text/css";  
    linkElement.onload = () => {
        const AI_SB=document.getElementById("Sisyphus");AI_SB.innerHTML=`<div class="AI-float-btn" id="AI-toggle"> <div class="AI-avatar-ring"> <img src="https://sabdaliterasi.xyz/api/convert/img/ckeditor/1740675887267_1000221160.jpg?width=180" class="AI-avatar"> </div> </div> <div class="AI-chatbox" id="AI-chatbox"> <div class="AI-header"> <img src="https://sabdaliterasi.xyz/api/convert/img/ckeditor/1740675887267_1000221160.jpg?width=180" class="AI-avatar-sm"> <span>CS Sisyphus</span> </div> <div class="AI-messages" id="AI-messages"><div id="AI_SB_open"> <h3>Halo, Comrade!</h3> <p>Silahkan mulai percakapan kamu bersama Sisyphus.</p> </div></div> <div class="AI-input-area"> <textarea id="AI-input" placeholder="Tulis pesan..." disabled></textarea> <button id="AI-send">➤</button> </div> </div>`;fadeIn(AI_SB);start(histo)
