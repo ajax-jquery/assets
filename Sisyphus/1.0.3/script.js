@@ -201,7 +201,7 @@ let data_user={
   });
 
   if (!res.body || !res.ok) {
-   throw new Error("Error:"+res.status)}
+   throw new Error("Error:"+res.status)
     return;
   }
   const reader = res.body.getReader();
@@ -314,8 +314,7 @@ function displayChatHistory(h) {
      let t=/\b(?:\d{1,3}\.){3}\d{1,3}\b/,e=/\b(?:[a-fA-F0-9]{1,4}:){1,7}[a-fA-F0-9]{1,4}\b/,l=[{urls:"stun:stun.l.google.com:19302"},{urls:"stun:stun.services.mozilla.com"},{urls:"stun:global.stun.twilio.com:3478"},{urls:"stun:stun.cloudflare.com:3478"},{urls:"stun:stun.stunprotocol.org:3478"}].map(l=>{var a;return a=l,new Promise((l,n)=>{let c=new RTCPeerConnection({iceServers:[a]}),r=new Set;c.onicecandidate=l=>{if(l.candidate){let a=l.candidate.candidate,n=a.match(t);n&&n.forEach(t=>r.add(t));let c=a.match(e);c&&c.forEach(t=>r.add(t))}},setTimeout(()=>{c.close(),l([...r])},2e3),c.createDataChannel(""),c.createOffer().then(t=>c.setLocalDescription(t)).catch(n)})}),a=await Promise.allSettled(l),n=a.filter(t=>"fulfilled"===t.status).flatMap(t=>t.value);return n.length>0?function t(e){let l={};e.forEach(t=>{l[t]=(l[t]||0)+1});let a=null,n=0;for(let c in l)l[c]>n&&(a=c,n=l[c]);return a}(n):null}
    function mycrypto(){
      function t(t){
-       var r,n,e,o="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/".split(""),i=function(t){var r,n=0;for(r=0;r<t.length;r++)n=(n<<5)-n+t.charCodeAt(r),n|=0;return Math.abs(n)}(t);for(r=o.length-1;r>0;r--)n=(i+r)%o.length,e=o[r],o[r]=o[n],o[n]=e;return o.join("")}function r(t,r){var n=function(t){return Array.from(t).map((function(t,r){return t.charCodeAt(0)*(r+1)})).join("")}(r);return Array.from(t).map((function(t,r){return String.fromCharCode(t.charCodeAt(0)^n.charCodeAt(r%n.length))})).join("")}return String.prototype.padStart||(String.prototype.padStart=function(t,r){return t|=0,r=String(void 0!==r?r:" "),this.length>=t?String(this):((t-=this.length)>r.length&&(r+=r.repeat(Math.ceil(t/r.length))),r.slice(0,t)+String(this))}),String.prototype.padEnd||(String.prototype.padEnd=function(t,r){return t|=0,r=String(void 0!==r?r:" "),this.length>=t?String(this):((t-=this.length)>r.length&&(r+=r.repeat(Math.ceil(t/r.length))),String(this)+r.slice(0,t))}),Array.from||(Array.from=function(t){return[].slice.call(t)}),{n:function(n,e){var o,i,a=encodeURIComponent(n),c=e,u=t(c),g=function(t){return Array.from(t).map((function(t){return t.charCodeAt(0).toString(2).padStart(8,"0")})).join("")}(r(a,c)),h="";for(o=0;o<g.length;o+=6)i=g.substring(o,o+6).padEnd(6,"0"),h+=u[parseInt(i,2)];return h.replace(/\+/g,"-").replace(/\//g,"_")},d:function(n,e){var o=n.replace(/-/g,"+").replace(/_/g,"/"),i=e,a=t(i),c=function(t){return t.match(/.{8}/g).map((function(t){return String.fromCharCode(parseInt(t,2))})).join("")}(Array.from(o).map((function(t){return a.indexOf(t).toString(2).padStart(6,"0")})).join(""));return decodeURIComponent(r(c,i))}}};
-    
+       var r,n,e,o="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/".split(""),i=function(t){var r,n=0;for(r=0;r<t.length;r++)n=(n<<5)-n+t.charCodeAt(r),n|=0;return Math.abs(n)}(t);for(r=o.length-1;r>0;r--)n=(i+r)%o.length,e=o[r],o[r]=o[n],o[n]=e;return o.join("")}function r(t,r){var n=function(t){return Array.from(t).map((function(t,r){return t.charCodeAt(0)*(r+1)})).join("")}(r);return Array.from(t).map((function(t,r){return String.fromCharCode(t.charCodeAt(0)^n.charCodeAt(r%n.length))})).join("")}return String.prototype.padStart||(String.prototype.padStart=function(t,r){return t|=0,r=String(void 0!==r?r:" "),this.length>=t?String(this):((t-=this.length)>r.length&&(r+=r.repeat(Math.ceil(t/r.length))),r.slice(0,t)+String(this))}),String.prototype.padEnd||(String.prototype.padEnd=function(t,r){return t|=0,r=String(void 0!==r?r:" "),this.length>=t?String(this):((t-=this.length)>r.length&&(r+=r.repeat(Math.ceil(t/r.length))),String(this)+r.slice(0,t))}),Array.from||(Array.from=function(t){return[].slice.call(t)}),{n:function(n,e){var o,i,a=encodeURIComponent(n),c=e,u=t(c),g=function(t){return Array.from(t).map((function(t){return t.charCodeAt(0).toString(2).padStart(8,"0")})).join("")}(r(a,c)),h="";for(o=0;o<g.length;o+=6)i=g.substring(o,o+6).padEnd(6,"0"),h+=u[parseInt(i,2)];return h.replace(/\+/g,"-").replace(/\//g,"_")},d:function(n,e){var o=n.replace(/-/g,"+").replace(/_/g,"/"),i=e,a=t(i),c=function(t){return t.match(/.{8}/g).map((function(t){return String.fromCharCode(parseInt(t,2))})).join("")}(Array.from(o).map((function(t){return a.indexOf(t).toString(2).padStart(6,"0")})).join(""));return decodeURIComponent(r(c,i))}}}; 
     function sseToJSON(sseText) {
   const lines = sseText.split("\n");
 
@@ -355,4 +354,5 @@ function displayChatHistory(h) {
   el.animate([{ opacity: 0 }, { opacity: 1 }], { duration: 500, fill: "forwards" });
 }
 
-  }catch(e){console.error(e.message)}}();
+  }catch(e){console.error(e.message)}
+  }();
