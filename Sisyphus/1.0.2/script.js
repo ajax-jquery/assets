@@ -168,6 +168,7 @@ window.addEventListener("click", function (event) {
     }
   });
  async function sendMessage(){
+   
 input.disabled = true;
   const prompt = input.value.trim();
   if (!prompt) return;
@@ -188,7 +189,7 @@ let data_user={
           aiBubble = addMessage("*Sedang Mengetik...*", "bot");
          messages.scrollTop = messages.scrollHeight;
         }, 500);
- 
+ try{
   const res = await fetch("/api/sisyphus", {
     method: "POST",
     headers: {
@@ -283,7 +284,26 @@ await saveHistory(historyId, HistoryChat);
 input.disabled = false;
 
 
-    }
+    }catch{
+     {
+aiBubble.innerHTML=`<p>Maaf, Comrade. Untuk saat ini aku tidak dapat membantu, silakan hubungi Admin kami melalui:</p><ul><li><b>Email:</b> <a href="mailto:info@sabdaliterasi.xyz">info@sabdaliterasi.xyz</a></li><li><b>WhatsApp:</b> <a href="https://wa.me/6285186664889" target="_blank" rel="noopener noreferrer">6285186664889</a></li></ul>`
+    let data_ai={
+            "role": "assistant",
+            "id": stringx(21),
+            "content": [
+                {
+                    "type": "text",
+                    "content": "Maaf, Comrade. Untuk saat ini aku tidak dapat membantu, silakan hubungi Admin kami melalui:\n\n- **Email:** [info@sabdaliterasi.xyz](mailto:info@sabdaliterasi.xyz)\n- **WhatsApp:** [6285186664889](https://wa.me/6285186664889)"
+                }
+            ],
+            "createdAt": new Date().toISOString(),
+            "status": "unfinished"
+        }
+HistoryChat.push(data_ai);
+await saveHistory(historyId, HistoryChat);
+    return;
+  }
+    }}
 function displayChatHistory(h) {
       const AI_SB_messages=messages;
         AI_SB_messages.innerHTML = "";
