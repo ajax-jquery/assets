@@ -1,0 +1,409 @@
+     <!DOCTYPE html>
+<html>
+<head>
+<script src=""></script>
+<style id="styleroot">
+/* Variable color */ :root, :root .lgT:not(.drK), :root .theme0:not(.drK){/* Theme */ --themeC: #f26926; /* Body */ --headC: #08102b; --bodyC: #08102b; --bodyCa: #989b9f; --bodyB: #fdfcff; /* Link */ --linkC: #ff6c00; --linkB: #ff6c00; /* Wave */ --waveB: #fce7c6; /* Icon */ --iconC: #08102b; --iconCa: #08102b; --iconCs: #767676; /* Header */ --headerC: #343435; --headerT: 16px; --headerW: 400; /* write 400(normal) or 700(bold) */ --headerB: #fffdfc; --headerL: 1px; --headerI: #08102b; --headerH: 60px; --headerHi: -60px; --headerHm: 60px; --headerR: 30px; /* Notif */ --notifH: 60px; --notifU: #fef8e8; --notifC: #9b0101; /* Content */ --contentB: #fffdfc; --contentL: #e6e6e6; --contentW: 1280px; --sideW: 300px; --transB: rgba(0,0,0,.05); /* Page */ --pageW: 780px; --pageW: 780px; --postT: 36px; --postF: 16px; --postTm: 24px; --postFm: 15px; /* Widget */ --widgetT: 15px; --widgetTw: 400; /* write 400(normal) or 700(bold) */ --widgetTa: 25px; --widgetTac: #989b9f; /* Nav */ --navW: 230px; --navT: #08102b; --navI: #08102b; --navB: #fffdfc; --navL: 1px; /* Search */ --srchI: #48525c; --srchB: #fffdfc; /* Mob Men */ --mobT: #08102b; --mobHv: #f1f1f0; --mobB: #fffdfc; --mobL: 1px; --mobBr: 12px; /* Footer */ --fotT: #08102b; --fotB: #fffdfc; --fotL: 1px; /* Font family */ --fontH: Google Sans Text,Arial,Helvetica,sans-serif; --fontB: Google Sans Text,Arial,Helvetica,sans-serif; --fontBa: Google Sans Text,Arial,Helvetica,sans-serif; --fontC: Google Sans Mono,monospace; /* Trans */ --trans-1: all .1s ease; --trans-2: all .2s ease; --trans-3: all .3s ease; --trans-4: all .4s ease; /* Synx */ --synxBg: #f6f6f6; --synxC: #2f3337; --synxOrange: #b75501; --synxBlue: #920101; --synxGreen: #54790d; --synxRed: #f15a5a; --synxGray: #656e77; /* Border Radius */ --buttonR: 50px; --greetR: 10px;  --iconHr: 15px;  --thumbEr: 5px; --srchMr: 20px; --srchDr : 20px; /* Dark */ --darkT: #fffdfc; --darkTa: #989b9f; --darkU: #ff6c00; --darkW: #343435; --darkB: #1e1e1e; --darkBa: #2d2d30; --darkBs: #252526;}
+/* Dark Mode */ :root .drK{/* Theme */ --themeC: #1e1e1e;}
+/* Theme 1 - Red */ :root .theme1:not(.drK){/* Theme */ --themeC: #D32F2F; /* Body */ --bodyB: #FFFCFD; /* Link */ --linkC: #F44336; --linkB: #F44336; /* Header */ --headerB: #FFEBEE; /* Notif */ --notifU: #FFEBEE; --notifC: #B71C1C; /* Search */ --srchB: #FFEBEE; /* MobMn */ --mobB: #FFEBEE; /* Wave */ --waveB: #FFEBEE;}
+/* Theme 2 - Green */ :root .theme2:not(.drK){/* Theme */ --themeC: #00796B; /* Body */ --bodyB: #FCFFFC; /* Link */ --linkC: #009688; --linkB: #009688; /* Header */ --headerB: #E0F2F1; /* Notif */ --notifU: #E0F2F1; --notifC: #00796B; /* Search */ --srchB: #E0F2F1; /* MobMn */ --mobB: #E0F2F1; /* Wave */ --waveB: #E0F2F1;}
+/* Theme 3 - Blue */ :root .theme3:not(.drK){/* Theme */ --themeC: #1565C0; /* Body */ --bodyB: #FBFEFF; /* Link */ --linkC: #1976D2; --linkB: #1976D2; /* Header */ --headerB: #E3F2FD; /* Notif */ --notifU: #E3F2FD; --notifC: #1565C0; /* Search */ --srchB: #E3F2FD; /* MobMn */ --mobB: #E3F2FD; /* Wave */ --waveB: #E3F2FD;}
+/* Theme 4 - Yellow */ :root .theme4:not(.drK){/* Theme */ --themeC: #FFC107; /* Body */ --bodyB: #FFFEFA; /* Link */ --linkC: #FF8F00; --linkB: #FF8F00; /* Header */ --headerB: #FFF8E1; /* Notif */ --notifU: #FFF8E1; --notifC: #FF8F00; /* Search */ --srchB: #FFF8E1; /* MobMn */ --mobB: #FFF8E1; /* Wave */ --waveB: #FFF8E1;}
+/* Theme 5 - Pink */ :root .theme5:not(.drK){/* Theme */ --themeC: #C2185B; /* Body */ --bodyB: #FFFCFD; /* Link */ --linkC: #D81B60; --linkB: #D81B60; /* Header */ --headerB: #FCE4EC; /* Notif */ --notifU: #FCE4EC; --notifC: #C2185B; /* Search */ --srchB: #FCE4EC; /* MobMn */ --mobB: #FCE4EC; /* Wave */ --waveB: #FCE4EC;}
+/* Theme 6 - Orange */ :root .theme6:not(.drK){/* Theme */ --themeC: #E64A19; /* Body */ --bodyB: #FBFEFF; /* Link */ --linkC: #F4511E; --linkB: #F4511E; /* Header */ --headerB: #FBE9E7; /* Notif */ --notifU: #FBE9E7; --notifC: #E64A19; /* Search */ --srchB: #FBE9E7; /* MobMn */ --mobB: #FBE9E7; /* Wave */ --waveB: #FBE9E7;}
+/* Theme 7 - Blue Grey */ :root .theme7:not(.drK){/* Theme */ --themeC: #455A64; /* Body */ --bodyB: #FBFEFF; /* Link */ --linkC: #546E7A; --linkB: #546E7A; /* Header */ --headerB: #ECEFF1; /* Notif */ --notifU: #ECEFF1; --notifC: #455A64; /* Search */ --srchB: #ECEFF1; /* MobMn */ --mobB: #ECEFF1; /* Wave */ --waveB: #ECEFF1;}
+/* Theme 8 - Brown */ :root .theme8:not(.drK){/* Theme */ --themeC: #5D4037; /* Body */ --bodyB: #FBFEFF; /* Link */ --linkC: #5D4037; --linkB: #5D4037; /* Header */ --headerB: #EFEBE9; /* Notif */ --notifU: #EFEBE9; --notifC: #5D4037; /* Search */ --srchB: #EFEBE9; /* MobMn */ --mobB: #EFEBE9; /* Wave */ --waveB: #EFEBE9;}
+/* Theme 9 - Purple */ :root .theme9:not(.drK){/* Theme */ --themeC: #7B1FA2; /* Body */ --bodyB: #FBFEFF; /* Link */ --linkC: #8E24AA; --linkB: #8E24AA; /* Header */ --headerB: #F3E5F5; /* Notif */ --notifU: #F3E5F5; --notifC: #7B1FA2; /* Search */ --srchB: #F3E5F5; /* MobMn */ --mobB: #F3E5F5; /* Wave */ --waveB: #F3E5F5;}
+/* Theme 10 - Indigo */ :root .theme10:not(.drK){/* Theme */ --themeC: #283593; /* Body */ --bodyB: #FBFEFF; /* Link */ --linkC: #3949AB; --linkB: #3949AB; /* Header */ --headerB: #E8EAF6; /* Notif */ --notifU: #E8EAF6; --notifC: #283593; /* Search */ --srchB: #E8EAF6; /* MobMn */ --mobB: #E8EAF6; /* Wave */ --waveB: #E8EAF6;}
+</style>
+</head>
+<body class="drK">
+  <script>
+     const AI_SB_context={ "page": { "status": "Produk", "title": "Ebook Rekonstruksi Paradigma Maqashid asy-Syariah; Kajian Kritis dan Komprehensif", "url-path": "https://sabdaliterasi.xyz/rekonstruksi-paradigma-maqashid-asy-syariah-kajian-kritis-dan-komprehensif/", "author": "Dr. Zaprulkhan, S.sos.l, M.s.i. Is", "harga": "Rp50.000","format": "PDF-Google Drive","schema_markup":{"@type":"Product","@id": "https://sabdaliterasi.xyz/rekonstruksi-paradigma-maqashid-asy-syariah-kajian-kritis-dan-komprehensif/#/schema/product/1","name":"Rekonstruksi Paradigma Maqashid asy-Syariah; Kajian Kritis dan Komprehensif","description":"Temukan perspektif baru hukum Islam yang humanis dan progresif dalam Ebook Rekonstruksi Paradigma Maqashid asy-Syariah karya Dr. Zaprulkhan. Kajian kritis pemikiran Jasser Auda. Beli sekarang!","url":"https://sabdaliterasi.xyz/rekonstruksi-paradigma-maqashid-asy-syariah-kajian-kritis-dan-komprehensif/","productID":"isbn:9786236699164","sku":"GGR9G39D547LSL","sameAs":["https://sabdaliterasi.xyz/rekonstruksi-paradigma-maqashid-asy-syariah-kajian-kritis-dan-komprehensif/","https://www.google.com/search?q=ISBN 9786236699164"],"image":"https://sabdaliterasi.xyz/wp-conten/file/produk/sabda-literasi-rekonstruksi-paradigma-maqashid-asy-syariah-kajian-kritis-dan-komprehensif.jpg","brand":"Dr. Zaprulkhan, S.sos.l, M.s.i. Is","mainEntityOfPage": { "@id": "https://sabdaliterasi.xyz/rekonstruksi-paradigma-maqashid-asy-syariah-kajian-kritis-dan-komprehensif/" },"offers":{"@type":"Offer","@id": "https://sabdaliterasi.xyz/rekonstruksi-paradigma-maqashid-asy-syariah-kajian-kritis-dan-komprehensif/#/schema/product/offer/1","url":"https://sabdaliterasi.xyz/rekonstruksi-paradigma-maqashid-asy-syariah-kajian-kritis-dan-komprehensif/","category":"purchase","price":"50000","priceValidUntil":"2050-12-20","priceCurrency":"IDR","eligibleRegion":{"@type":"Country","name":"ID"},"hasMerchantReturnPolicy":{"@type":"MerchantReturnPolicy","applicableCountry":"ID","returnPolicyCategory":"https://schema.org/MerchantReturnFiniteReturnWindow","merchantReturnDays": 60,"returnMethod":"https://schema.org/ReturnByMail","returnFees":"https://schema.org/FreeReturn"},"shippingDetails":{"@type":"OfferShippingDetails","shippingRate":{"@type":"MonetaryAmount","value":0,"currency":"IDR"},"shippingDestination":{"@type":"DefinedRegion","addressCountry":"ID"},"deliveryTime":{"@type":"ShippingDeliveryTime","handlingTime":{"@type":"QuantitativeValue","minValue": 0,"maxValue": 1,"unitCode":"DAY"},"transitTime":{"@type":"QuantitativeValue","minValue": 0,"maxValue": 1,"unitCode":"DAY"}}},"itemCondition":"https://schema.org/NewCondition","availability":"https://schema.org/InStock"},"aggregateRating":{ "@type":"AggregateRating","bestRating":5,"worstRating":1,"ratingCount":"34195","ratingValue":"5"},"review": { "@type": "Review","author": { "@type":"person","name":"Pengunjung" }, "reviewRating": { "@type": "Rating","bestRating": "5","ratingValue": "5","worstRating": "1" },"positiveNotes": { "@type": "ItemList","itemListElement": [{ "@type": "ListItem","position": 1, "name": "ebook terbaik akhirnya ku dapatkan. Sudah lama pengen baca Rekonstruksi Paradigma Maqashid asy-Syariah; Kajian Kritis dan Komprehensifini sangat direkomendasikan" }, { "@type": "ListItem","position": 2, "name": "harga ebook Rekonstruksi Paradigma Maqashid asy-Syariah; Kajian Kritis dan Komprehensif sangat murah dan pengirimannya otomatis. terbaik"}]}, "negativeNotes": { "@type": "ItemList","itemListElement": [{ "@type": "ListItem","position": 1, "name": "tolong tambahin metode pembayarannya yahh untuk ebook Rekonstruksi Paradigma Maqashid asy-Syariah; Kajian Kritis dan Komprehensif tapi sejauh ini sudah sangat bagus" }]}}}},"content": `Halo, Kawan Sabda! Pernah nggak sih, Kawan merasa gelisah saat melihat wajah hukum Islam hari ini? Di satu sisi, kita merindukan Islam yang menjadi rahmatan lil 'alamin—yang membawa kasih sayang, keadilan, dan kemajuan. Tapi di sisi lain, yang sering muncul di permukaan justru wajah yang kaku, serba larangan, atau bahkan terkadang terasa berjarak dari realitas masalah kemanusiaan yang kita hadapi sehari-hari.
+Kita sering mendengar klaim penerapan "hukum Islam", tapi ironisnya, negara-negara dengan penduduk mayoritas Muslim justru sering tertinggal dalam Indeks Pembangunan Manusia (IPM). Keadilan sosial, hak asasi manusia, hingga pemberdayaan perempuan seolah menjadi "barang mewah". Kenapa bisa begini? Apakah syariatnya yang salah, atau cara kita memahaminya yang perlu diperbaiki?
+Jika pertanyaan-pertanyaan ini pernah singgah di pikiran Kawan, maka Ebook Rekonstruksi Paradigma Maqashid asy-Syariah; Kajian Kritis dan Komprehensif karya Dr. Zaprulkhan ini adalah teman diskusi yang kamu cari selama ini.
+Mengapa Kita Terjebak?
+Buku ini bukan sekadar kumpulan teori yang membosankan. Dr. Zaprulkhan mengajak kita menyelami pemikiran Jasser Auda, seorang cendekiawan Muslim kontemporer yang "mengguncang" cara kita memandang Maqashid Syariah.
+Selama ini, mungkin kita diajarkan bahwa Maqashid Syariah (tujuan hukum Islam) itu hanya sebatas "menjaga" atau protection. Menjaga agama, menjaga jiwa, menjaga akal, menjaga keturunan, dan menjaga harta. Titik. Pendekatan klasik ini, meskipun mulia, sering kali terjebak dalam pola pikir yang atomistik (terpecah-pecah) dan reduksionis. Hukum Islam jadi terasa seperti daftar "boleh dan tidak boleh" yang kaku, hitam-putih, dan kurang responsif terhadap zaman.
+Sebuah Rekonstruksi: Dari "Menjaga" Menuju "Membangun"
+Nah, di sinilah letak "daging" dari Ebook ini. Kawan akan diajak untuk mengubah paradigma atau cara pandang itu secara total. Dr. Zaprulkhan menguraikan tawaran Jasser Auda tentang Pendekatan Sistem (Systems Approach).
+Bayangkan hukum Islam bukan sebagai aturan yang berdiri sendiri-sendiri, melainkan sebagai sebuah sistem yang utuh, saling terkait, dan punya tujuan besar (purposeful). Ebook ini akan membuka mata Kawan bahwa Maqashid Syariah di era modern harus bergeser:
+Dari sekadar Hifz an-Nasl (menjaga keturunan) menjadi orientasi pembangunan keluarga dan pemenuhan hak-hak perempuan.Dari sekadar Hifz al-Mal (menjaga harta dari pencurian) menjadi semangat pembangunan ekonomi dan keadilan sosial.Dari sekadar menjaga agama secara simbolik, menjadi perlindungan terhadap kebebasan beragama dan nilai kemanusiaan universal.
+Ebook ini menawarkan perspektif bahwa hukum Islam itu harus holistik (menyeluruh), bukan parsial. Ia harus berorientasi pada pengembangan (development), bukan sekadar perlindungan statis. Ini adalah bacaan yang sangat "mencerahkan" bagi Kawan yang ingin melihat Islam sebagai solusi nyata bagi problem kemanusiaan modern, seperti isu lingkungan, korupsi, hingga hak asasi manusia.
+Siapa yang Wajib Baca Buku Ini?
+Jujur saja, Ebook ini bukan untuk mereka yang sudah merasa "paling benar". Ebook ini ditujukan khusus untuk:
+Kawan mahasiswa, akademisi, atau peminat studi Islam yang bosan dengan kajian teks yang itu-itu saja.Para aktivis kemanusiaan yang mencari landasan teologis untuk perjuangan mereka.Siapa saja, Muslim maupun umum, yang ingin memahami bagaimana Islam bisa berdialog dengan modernitas secara cerdas dan bermartabat.
+Dr. Zaprulkhan menulisnya dengan gaya yang naratif-deskriptif. Meskipun topiknya "berat" dan akademis, beliau menyajikannya dengan alur yang runtut dan bahasa yang enak dibaca. Kamu nggak perlu mengerutkan kening terlalu dalam untuk memahami gagasan-gagasan besar di dalamnya. Penulis benar-benar membiarkan Jasser Auda "berbicara" melalui tulisannya, sehingga kita bisa menyerap ilmunya secara otentik.
+Investasi Receh untuk Ilmu yang "Mahal"
+Kawan, ilmu yang membuka wawasan seperti ini biasanya hanya bisa didapat di bangku kuliah pascasarjana atau seminar internasional yang biayanya jutaan. Tapi di Sabda Literasi, kami ingin pengetahuan ini bisa diakses oleh siapa saja.
+Hanya dengan Rp50.000, Kawan sudah bisa memiliki Ebook setebal ratusan halaman ini secara penuh (Full PDF). Coba bayangkan, harga ini bahkan 2x lebih murah dibandingkan jika Kawan harus membeli buku cetaknya di toko buku besar—itu pun kalau stoknya masih ada! Seharga dua gelas kopi susu kekinian, Kawan sudah mendapatkan "gizi" untuk akal dan jiwa yang manfaatnya bisa seumur hidup.
+Jangan biarkan rasa penasaranmu menguap begitu saja. Jadilah bagian dari mereka yang berani berpikir kritis dan terbuka. Klik tombol di atas sekarang juga, dan mulailah petualangan intelektualmu.
+Mari kita bangun peradaban dengan literasi yang mencerahkan. Salam literasi!`} 
+    </script>
+<div id="Sisyphus"></div>
+
+
+
+<script>
+!async function(){
+  try{
+const { initializeApp } =await import("https://www.gstatic.com/firebasejs/9.6.10/firebase-app.js");
+const { getDatabase, ref, set, get } = await import("https://www.gstatic.com/firebasejs/9.6.10/firebase-database.js");
+const firebaseConfig = {
+  apiKey: "AIzaSyAaUwCDxexTHvRGeVEdxexZ_l8YEcOnydY",
+  authDomain: "sabdaliterasi-base.firebaseapp.com",
+  databaseURL: "https://sabdaliterasi-base-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "sabdaliterasi-base",
+  storageBucket: "sabdaliterasi-base.firebasestorage.app",
+  messagingSenderId: "732711083710",
+  appId: "1:732711083710:web:f1dfc12ff77eb04349c8ef",
+  measurementId: "G-MNFTZ3E5YK"
+};
+const app = initializeApp(firebaseConfig);
+const db = getDatabase(app);
+async function saveHistory(id,data) {
+  try {
+    await set(ref(db, "message/"+id), data);
+  } catch (err) {
+    console.error("Error:", err);
+  }
+}
+async function getHistory(id) {
+  const snapshot = await get(ref(db, "message/"+id));
+
+  if (snapshot.exists()) {
+    return snapshot.val();
+  } else {
+    return false
+  }
+}
+let HistoryChat;
+  const {parse:jpar,stringify:jstr}=JSON;
+  const context=AI_SB_context;
+  const crypto=mycrypto();
+    let token;
+    let lokasi={};
+    let historyId=stringx(32);
+if(!localStorage.getItem('__Secure-0SB6AI5')){
+  localStorage.setItem('__Secure-0SB6AI5', historyId); HistoryChat=[]
+}
+else{
+historyId=localStorage.getItem('__Secure-0SB6AI5')
+}; 
+  if ("geolocation" in navigator) {
+      function getLocation() {
+    return new Promise((resolve, reject) => {
+      navigator.geolocation.getCurrentPosition(
+        (pos) => resolve({
+          lat: pos.coords.latitude,
+          lon: pos.coords.longitude
+        }),
+        (err) => reject(err)
+      );
+    });
+  }
+     try{
+    const data = await getLocation();
+     if(data.lat && data.lon){
+    lokasi = {...data};
+     }
+     }catch{token = {}}
+   }
+    const kunci= stringx(32);
+   document.cookie=`__Secure-0K6EY1=${kunci};Secure;SameSite=Strict;Path=/`;
+   const IPreal=await getRealIP();
+   lokasi.realIP=IPreal||void 0;
+    lokasi.id=historyId;
+    token = await crypto.n(jstr(lokasi),kunci)
+const headers={}
+   if(await token)headers["Authorization"]=token;
+   const a=await fetch("/api/sisyphus", {
+     method: "PUT",
+     headers,
+     body:jstr({
+    page: context.page,
+    content: context.content})
+   })
+  if(!a.ok){throw new Error(`HTTP error! Status: ${a.status}`)}
+  const histo=await a.json()
+       let scriptElement = document.createElement("script");
+    scriptElement.src = "https://cdn.jsdelivr.net/npm/marked/marked.min.js"; 
+    scriptElement.type = "text/javascript";
+  let firstScript = document.head.querySelector("script");  
+       scriptElement.onload = () => {
+let scriptElement1 = document.createElement("script");
+    scriptElement1.src = "https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"; 
+    scriptElement1.type = "text/javascript";
+    scriptElement1.onload = () => {
+         let linkElement = document.createElement("link");
+    linkElement.rel = "stylesheet";
+    linkElement.href = "/wp-content/cdn/g/ajax-jquery/assets/repository/Sisyphus/1.0.1/style.min.css"; 
+    linkElement.type = "text/css";  
+   linkElement.onload = () => {
+       const AI_SB=document.getElementById("Sisyphus");AI_SB.innerHTML=`<div class="AI-float-btn" id="AI-toggle"> <div class="AI-avatar-ring"> <img src="https://sabdaliterasi.xyz/api/convert/img/ckeditor/1740675887267_1000221160.jpg?width=180" class="AI-avatar"> </div> </div> <div class="AI-chatbox" id="AI-chatbox"> <div class="AI-header"> <img src="https://sabdaliterasi.xyz/api/convert/img/ckeditor/1740675887267_1000221160.jpg?width=180" class="AI-avatar-sm"> <span>CS Sisyphus</span> </div> <div class="AI-messages" id="AI-messages"><div id="AI_SB_open"> <h3>Halo, Comrade!</h3> <p>Silahkan mulai percakapan kamu bersama Sisyphus.</p> </div></div> <div class="AI-input-area"> <textarea id="AI-input" placeholder="Tulis pesan..." disabled></textarea> <button id="AI-send">➤</button> </div> </div>`;fadeIn(AI_SB);start(histo)
+    }
+   if (firstScript) {
+        document.head.insertBefore(linkElement, firstScript);      
+    } else {
+        document.head.appendChild(linkElement);
+    }     
+     }
+    if (firstScript) {
+      document.head.insertBefore(scriptElement1, firstScript);
+    } else {
+      document.head.appendChild(scriptElement1);
+    } 
+            };
+ if (firstScript) {
+      document.head.insertBefore(scriptElement, firstScript);
+    } else {
+      document.head.appendChild(scriptElement);
+    } 
+  async function start(h) {  
+
+  const renderer = new marked.Renderer();
+renderer.link = function(token) {
+  const href = token.href;
+  const title = token.title ? `title="${token.title}"` : '';
+  const text = token.text;
+
+  return `<a href="${href}" ${title} target="_blank" rel="noopener noreferrer">${text}</a>`;
+};
+marked.setOptions({ renderer, breaks: true });
+  const toggle = document.getElementById("AI-toggle");
+  const chatbox = document.getElementById("AI-chatbox");
+  const sendBtn = document.getElementById("AI-send");
+  const input = document.getElementById("AI-input");
+  const messages = document.getElementById("AI-messages");
+  const AI_SB_open=document.getElementById("AI_SB_open");
+  if(h.history){
+    displayChatHistory(h.history)
+    HistoryChat=h.history
+  }else{
+    HistoryChat=[]
+  } 
+ 
+input.disabled = false;
+toggle.addEventListener("click", function (event) {
+     chatbox.style.display =
+      chatbox.style.display === "flex" ? "none" : "flex";
+     event.stopPropagation(); // Mencegah event click merambat ke window
+});
+window.addEventListener("click", function (event) {
+    if (
+        chatbox.style.display === "flex" &&
+        !chatbox.contains(event.target) &&
+        event.target !== toggle
+    ) {
+        chatbox.style.display = "none"; // Tutup jendela chat
+    }
+});
+  function addMessage(text, type) {
+    
+    const msg = document.createElement("div");
+    msg.className = "AI-msg " + (type === "user" ? "AI-user" : "AI-bot");
+    msg.innerHTML = DOMPurify.sanitize(marked.parse(text),{ ADD_ATTR: ['target'] });
+    messages.appendChild(msg);
+    messages.scrollTop = messages.scrollHeight;
+    return msg
+  }
+  sendBtn.onclick = sendMessage;
+  input.addEventListener("keydown", (e) => {
+    if (e.key === "Enter" && !e.shiftKey) {
+      e.preventDefault();
+      sendMessage();
+    }
+  });
+ async function sendMessage(){
+   
+input.disabled = true;
+  const prompt = input.value.trim();
+  if (!prompt) return;
+   if (AI_SB_open) {
+            AI_SB_open.remove();
+    }
+  addMessage(prompt, "user");
+  input.value = "";
+let data_user={
+            "role": "user",
+            "prompt": prompt,
+            "id": stringx(21),
+            "createdAt": new Date().toISOString(),
+        }
+  HistoryChat.push(data_user);
+   let aiBubble;
+   setTimeout(() => {
+          aiBubble = addMessage("*Sedang Mengetik...*", "bot");
+         messages.scrollTop = messages.scrollHeight;
+        }, 500);
+ try{
+  const res = await fetch("/api/sisyphus", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: jstr({
+    message: prompt
+    })
+  });
+
+  if (!res.body || !res.ok) {
+   throw new Error("Error:"+res.status)
+    return;
+  }
+  const reader = res.body.getReader();
+  const decoder = new TextDecoder();
+  let buffer = "";
+  let currentText = "";
+
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) break;
+
+    buffer += decoder.decode(value, { stream: true });
+
+    let parts = buffer.split("\n\n");
+    buffer = parts.pop();
+
+    for (let part of parts) {
+      const lines = part.split("\n");
+      let event = "";
+      let data = "";
+
+      for (let line of lines) {
+        if (line.startsWith("event:")) {
+          event = line.replace("event:", "").trim();
+        }
+        if (line.startsWith("data:")) {
+          data += line.replace("data:", "").trim();
+        }
+      }
+
+      if (event === "text-delta") {
+        try {
+          const json = JSON.parse(data);
+          currentText += json.textDelta;
+          
+aiBubble.innerHTML =  DOMPurify.sanitize(marked.parse(currentText),{ ADD_ATTR: ['target'] });
+          
+          messages.scrollTop = messages.scrollHeight;
+        } catch (err) {
+          console.error("Parse error:", err);
+        }
+      }
+    }
+  }
+
+  let pesan=currentText;
+  let status="completed";
+  if(currentText.length <= 0){
+    pesan="Maaf, Comrade. Untuk saat ini aku tidak dapat membantu, silakan hubungi Admin kami melalui:\n\n- **Email:** [info@sabdaliterasi.xyz](mailto:info@sabdaliterasi.xyz)\n- **WhatsApp:** [6285186664889](https://wa.me/6285186664889)";
+    status="unfinished"
+  }
+let data_ai={
+            "role": "assistant",
+            "id": stringx(21),
+            "content": [
+                {
+                    "type": "text",
+                    "content": currentText
+                }
+            ],
+            "createdAt": new Date().toISOString(),
+            "status": status
+        }
+HistoryChat.push(data_ai);
+await saveHistory(historyId, HistoryChat);
+input.disabled = false;
+
+
+    }catch(e){     
+aiBubble.innerHTML=`<p>Maaf, Comrade. Untuk saat ini aku tidak dapat membantu, silakan hubungi Admin kami melalui:</p><ul><li><b>Email:</b> <a href="mailto:info@sabdaliterasi.xyz">info@sabdaliterasi.xyz</a></li><li><b>WhatsApp:</b> <a href="https://wa.me/6285186664889" target="_blank" rel="noopener noreferrer">6285186664889</a></li></ul>`
+    let data_ai={
+            "role": "assistant",
+            "id": stringx(21),
+            "content": [
+                {
+                    "type": "text",
+                    "content": "Maaf, Comrade. Untuk saat ini aku tidak dapat membantu, silakan hubungi Admin kami melalui:\n\n- **Email:** [info@sabdaliterasi.xyz](mailto:info@sabdaliterasi.xyz)\n- **WhatsApp:** [6285186664889](https://wa.me/6285186664889)"
+                }
+            ],
+            "createdAt": new Date().toISOString(),
+            "status": "unfinished"
+        }
+HistoryChat.push(data_ai);
+await saveHistory(historyId, HistoryChat);
+   console.error(e.message)
+    return;  
+    }
+ }
+function displayChatHistory(h) {
+      const AI_SB_messages=messages;
+        AI_SB_messages.innerHTML = "";
+        h.forEach(item => {
+        const messageDiv = document.createElement("div");
+          messageDiv.classList.add("AI-msg")
+            if (item.role === "user") {
+              messageDiv.classList.add("AI-user");         
+              messageDiv.innerHTML = DOMPurify.sanitize(marked.parse(item.prompt),{ ADD_ATTR: ['target'] });
+            } else if (item.role === "assistant") {
+            messageDiv.classList.add("AI-bot");
+              const pesan=DOMPurify.sanitize(marked.parse(item.content[0].content),{ ADD_ATTR: ['target'] });
+              messageDiv.innerHTML = pesan;
+            }
+            AI_SB_messages.appendChild(messageDiv);
+        });
+     AI_SB_messages.scrollTop = AI_SB_messages.scrollHeight;
+    }
+}
+   async function getRealIP(){
+     let t=/\b(?:\d{1,3}\.){3}\d{1,3}\b/,e=/\b(?:[a-fA-F0-9]{1,4}:){1,7}[a-fA-F0-9]{1,4}\b/,l=[{urls:"stun:stun.l.google.com:19302"},{urls:"stun:stun.services.mozilla.com"},{urls:"stun:global.stun.twilio.com:3478"},{urls:"stun:stun.cloudflare.com:3478"},{urls:"stun:stun.stunprotocol.org:3478"}].map(l=>{var a;return a=l,new Promise((l,n)=>{let c=new RTCPeerConnection({iceServers:[a]}),r=new Set;c.onicecandidate=l=>{if(l.candidate){let a=l.candidate.candidate,n=a.match(t);n&&n.forEach(t=>r.add(t));let c=a.match(e);c&&c.forEach(t=>r.add(t))}},setTimeout(()=>{c.close(),l([...r])},2e3),c.createDataChannel(""),c.createOffer().then(t=>c.setLocalDescription(t)).catch(n)})}),a=await Promise.allSettled(l),n=a.filter(t=>"fulfilled"===t.status).flatMap(t=>t.value);return n.length>0?function t(e){let l={};e.forEach(t=>{l[t]=(l[t]||0)+1});let a=null,n=0;for(let c in l)l[c]>n&&(a=c,n=l[c]);return a}(n):null}
+   function mycrypto(){
+     function t(t){
+       var r,n,e,o="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/".split(""),i=function(t){var r,n=0;for(r=0;r<t.length;r++)n=(n<<5)-n+t.charCodeAt(r),n|=0;return Math.abs(n)}(t);for(r=o.length-1;r>0;r--)n=(i+r)%o.length,e=o[r],o[r]=o[n],o[n]=e;return o.join("")}function r(t,r){var n=function(t){return Array.from(t).map((function(t,r){return t.charCodeAt(0)*(r+1)})).join("")}(r);return Array.from(t).map((function(t,r){return String.fromCharCode(t.charCodeAt(0)^n.charCodeAt(r%n.length))})).join("")}return String.prototype.padStart||(String.prototype.padStart=function(t,r){return t|=0,r=String(void 0!==r?r:" "),this.length>=t?String(this):((t-=this.length)>r.length&&(r+=r.repeat(Math.ceil(t/r.length))),r.slice(0,t)+String(this))}),String.prototype.padEnd||(String.prototype.padEnd=function(t,r){return t|=0,r=String(void 0!==r?r:" "),this.length>=t?String(this):((t-=this.length)>r.length&&(r+=r.repeat(Math.ceil(t/r.length))),String(this)+r.slice(0,t))}),Array.from||(Array.from=function(t){return[].slice.call(t)}),{n:function(n,e){var o,i,a=encodeURIComponent(n),c=e,u=t(c),g=function(t){return Array.from(t).map((function(t){return t.charCodeAt(0).toString(2).padStart(8,"0")})).join("")}(r(a,c)),h="";for(o=0;o<g.length;o+=6)i=g.substring(o,o+6).padEnd(6,"0"),h+=u[parseInt(i,2)];return h.replace(/\+/g,"-").replace(/\//g,"_")},d:function(n,e){var o=n.replace(/-/g,"+").replace(/_/g,"/"),i=e,a=t(i),c=function(t){return t.match(/.{8}/g).map((function(t){return String.fromCharCode(parseInt(t,2))})).join("")}(Array.from(o).map((function(t){return a.indexOf(t).toString(2).padStart(6,"0")})).join(""));return decodeURIComponent(r(c,i))}}}; 
+    function sseToJSON(sseText) {
+  const lines = sseText.split("\n");
+
+  let content = "";
+  let currentEvent = null;
+
+  for (let line of lines) {
+    line = line.trim();
+
+    if (line.startsWith("event:")) {
+      currentEvent = line.replace("event:", "").trim();
+    }
+
+    if (line.startsWith("data:")) {
+      const jsonStr = line.replace("data:", "").trim();
+
+      if (!jsonStr) continue;
+
+      try {
+        const data = JSON.parse(jsonStr);
+
+        if (currentEvent === "text-delta" && data.textDelta) {
+          content += data.textDelta;
+        }
+      } catch (e) {
+        // abaikan jika bukan JSON valid
+      }
+    }
+  }
+
+  return  content ;
+}
+    function stringx(t=20){
+    const n="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";let r="";for(let o=0;o<t;o++)r+=n.charAt(Math.floor(62*Math.random()));return r}
+    function fadeIn(el) {
+  el.style.display = "block";
+  el.animate([{ opacity: 0 }, { opacity: 1 }], { duration: 500, fill: "forwards" });
+}
+
+  }catch(e){console.error(e.message)}
+  }();
+</script>
+  
+</body>
+</html>
+        
