@@ -3,15 +3,60 @@
 	<head>
 		<meta charset="utf-8">
 		<title>CKEditor 5 Sample</title>
-		<link rel="icon" type="image/png" href="https://ckeditor.com/assets/images/favicons/32x32.png" sizes="32x32">
-		<link rel="icon" type="image/png" href="https://ckeditor.com/assets/images/favicons/96x96.png" sizes="96x96">
-		<link rel="apple-touch-icon" type="image/png" href="https://ckeditor.com/assets/images/favicons/120x120.png" sizes="120x120">
-		<link rel="apple-touch-icon" type="image/png" href="https://ckeditor.com/assets/images/favicons/152x152.png" sizes="152x152">
-		<link rel="apple-touch-icon" type="image/png" href="https://ckeditor.com/assets/images/favicons/167x167.png" sizes="167x167">
-		<link rel="apple-touch-icon" type="image/png" href="https://ckeditor.com/assets/images/favicons/180x180.png" sizes="180x180">
-		<link rel="stylesheet" href="./style.css">
-		<link rel="stylesheet" href="./ckeditor5/ckeditor5.css">
-		<link rel="stylesheet" href="./ckeditor5-premium-features/ckeditor5-premium-features.css">
+		<style>@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@media print {
+	body {
+		margin: 0 !important;
+	}
+}
+
+:root {
+	--ck-content-font-family: 'Lato';
+}
+
+.main-container {
+	font-family: var(--ck-content-font-family);
+	width: fit-content;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.editor-container_classic-editor .editor-container__editor {
+	min-width: 795px;
+	max-width: 795px;
+}
+
+.editor-container__sidebar_ckeditor-ai:has(.ck-tabs.ck-hidden) {
+	max-width: 0;
+	min-width: 0;
+}
+
+.editor_container__word-count .ck-word-count {
+	color: var(--ck-color-text);
+	display: flex;
+	height: 20px;
+	gap: var(--ck-spacing-small);
+	justify-content: flex-end;
+	font-size: var(--ck-font-size-base);
+	line-height: var(--ck-line-height-base);
+	font-family: var(--ck-font-face);
+	padding: var(--ck-spacing-small) var(--ck-spacing-standard);
+}
+
+.editor-container_include-word-count.editor-container_classic-editor .editor_container__word-count {
+	border: 1px solid var(--ck-color-base-border);
+	border-radius: var(--ck-border-radius);
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+	border-top: none;
+}
+
+.editor-container_include-word-count.editor-container_classic-editor .editor-container__editor .ck-editor .ck-editor__editable {
+	border-radius: 0;
+}
+</style>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ajax-jquery/assets@ckeditor5/48.4.0/ckeditor5/ckeditor5.css" crossorigin>
 	</head>
 	<body>
 		<div class="main-container">
@@ -20,24 +65,155 @@
 				<div class="editor_container__word-count" id="editor-word-count"></div>
 			</div>
 		</div>
-		<script type="importmap">
-		{
-			"imports": {
-				"ckeditor5": "./ckeditor5/ckeditor5.js",
-				"ckeditor5/": "./ckeditor5/",
-				"ckeditor5-premium-features": "./ckeditor5-premium-features/ckeditor5-premium-features.js",
-				"ckeditor5-premium-features/": "./ckeditor5-premium-features/"
-			}
-		}
-		</script>
-		<script type="module" src="./main.js"></script>
-		<!-- A friendly reminder to run on a server, remove this during the integration. -->
+		<script src="https://cdn.jsdelivr.net/gh/ajax-jquery/assets@ckeditor5/48.4.0/ckeditor5/ckeditor5.umd.js" crossorigin></script>          
+        
+		<script src="https://cdn.jsdelivr.net/gh/ajax-jquery/assets@ckeditor5/48.4.0/ckeditor5/translations/id.umd.js" crossorigin></script>
+
 		<script>
-			window.onload = function() {
-				if ( window.location.protocol === "file:" ) {
-					alert( "This sample requires an HTTP server. Please serve this file with a web server." );
-				}
-			};
-		</script>
+
+const {
+	ClassicEditor,
+	Autosave,
+	Essentials,
+	Paragraph,
+	Bold,
+	Italic,
+	Link,
+	AutoLink,
+	Heading,
+	WordCount,
+	Strikethrough,
+	BlockQuote,
+	List,
+	Alignment,
+	CloudServices,
+	BalloonToolbar
+} = window.CKEDITOR;
+
+
+const LICENSE_KEY =
+	'eyJhbGciOiJFUzI1NiJ9.eyJleHAiOjE4NTAzMDcyNDAsImp0aSI6IjYzODhhNjA2LTkxM2EtNDkwYS04ZjQzLTFjNTcyMDBjOGYwZCIsImRpc3RyaWJ1dGlvbkNoYW5uZWwiOlsiY2xvdWQiLCJkcnVwYWwiLCJzaCJdLCJsaWNlbnNlZEhvc3RzIjpbInVuZGFuZ2FuaHViLmNvbSIsIioudW5kYW5nYW5odWIuY29tIiwic2FiZGFsaXRlcmFzaS54eXoiLCIqLnNhYmRhbGl0ZXJhc2kueHl6Il0sIndoaXRlTGFiZWwiOnRydWUsImxpY2Vuc2VUeXBlIjoicHJvZHVjdGlvbiIsImZlYXR1cmVzIjpbIioiXSwidmMiOiIyYmRiOTYwZCJ9.pS6kXFg_Pu686ZYaoP62A6OaCtuVsi1eo2e10nIurtlPODVRK0TYRBleNND-7RFxSxskmYVquoJY67yxYsfrDw';
+
+/**
+ * Unique ID that will be used to identify this document. E.g. you may use ID taken from your database.
+ * Read more: https://ckeditor.com/docs/ckeditor5/latest/api/module_collaboration-core_config-RealTimeCollaborationConfig.html
+ */
+const DOCUMENT_ID = '<YOUR_DOCUMENT_ID>';
+
+
+
+const editorConfig = {
+	attachTo: document.querySelector('#editor'),
+	root: {
+		placeholder: 'Type or paste your content here!',
+		initialData:
+			'<p>Halo Dunia</p>'
+	},
+	toolbar: {
+		items: [
+  "heading",
+  "|",
+  "bold",
+  "italic",
+  "strikethrough",
+  "|",
+  "link",
+  "blockQuote",
+  "|",
+  "alignment",
+  "|",
+  "bulletedList",
+  "numberedList",
+  "|",
+  "undo",
+  "redo"
+],
+		shouldNotGroupWhenFull: false
+	},
+	plugins: [
+		Alignment,
+		AutoLink,
+		Autosave,
+		BalloonToolbar,
+		BlockQuote,
+		Bold,
+		CloudServices,
+		Essentials,
+		Heading,
+		Italic,
+		Link,
+		List,
+		Paragraph,
+		Strikethrough,
+		WordCount
+	],
+	licenseKey: LICENSE_KEY,
+	
+	autosave: {
+		/* See: https://ckeditor.com/docs/ckeditor5/latest/features/autosave.html */
+	},
+	balloonToolbar: ['bold', 'italic', '|', 'link', '|', 'bulletedList', 'numberedList'],
+	
+	
+	heading: {
+		options: [
+			{
+				model: 'paragraph',
+				title: 'Paragraph',
+				class: 'ck-heading_paragraph'
+			},
+			{
+				model: 'heading1',
+				view: 'h1',
+				title: 'Heading 1',
+				class: 'ck-heading_heading1'
+			},
+			{
+				model: 'heading2',
+				view: 'h2',
+				title: 'Heading 2',
+				class: 'ck-heading_heading2'
+			},
+			{
+				model: 'heading3',
+				view: 'h3',
+				title: 'Heading 3',
+				class: 'ck-heading_heading3'
+			},
+			{
+				model: 'heading4',
+				view: 'h4',
+				title: 'Heading 4',
+				class: 'ck-heading_heading4'
+			},
+			{
+				model: 'heading5',
+				view: 'h5',
+				title: 'Heading 5',
+				class: 'ck-heading_heading5'
+			},
+			{
+				model: 'heading6',
+				view: 'h6',
+				title: 'Heading 6',
+				class: 'ck-heading_heading6'
+			}
+		]
+	},
+	language: 'id',
+	
+};
+
+
+
+ClassicEditor.create(editorConfig).then(editor => {
+	const wordCount = editor.plugins.get('WordCount');
+	document.querySelector('#editor-word-count').appendChild(wordCount.wordCountContainer);
+
+	return editor;
+});
+
+
+</script>
 	</body>
 </html>
